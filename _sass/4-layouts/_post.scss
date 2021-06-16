@@ -37,8 +37,9 @@
   line-height: 1;
   .post-tags__tag {
     position: relative;
-    font-size: 15px;
-    font-weight: 700;
+    font-family: 'Raleway', 'Noto Sans', 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
     text-transform: uppercase;
     color: $dark;
     &:hover {
@@ -67,7 +68,7 @@
 
 .post-title {
   margin: 10px 0 15px;
-  font-size: 63px;
+  font-size: 54px;
   line-height: 65px;
   font-weight: 800;
   text-align: center;
@@ -76,7 +77,7 @@
     line-height: 50px;
   }
   @media only screen and (max-width: $mobile) {
-    font-size: 33px;
+    font-size: 32px;
     line-height: 35px;
   }
 }
@@ -105,9 +106,10 @@
     background-color: $gray-light;
   }
   &-link {
-    font-size: 15px;
+    font-family: 'Raleway', 'Noto Sans', 'Open Sans', sans-serif;
+    font-size: 16px;
     text-transform: uppercase;
-    font-weight: 700;
+    font-weight: 600;
     color: $dark;
     &:hover {
       color: $dark;
@@ -117,14 +119,15 @@
     margin-right: 5px;
     font-size: 15px;
     text-transform: uppercase;
-    font-weight: 700;
+    font-weight: 600;
   }
 }
 
 .post__date {
-  font-size: 15px;
+  font-family: 'Raleway', 'Noto Sans', 'Open Sans', sans-serif;
+  font-size: 16px;
   text-transform: uppercase;
-  font-weight: 700;
+  font-weight: 600;
   color: $dark;
   &::before {
     content: "";
@@ -142,6 +145,7 @@
 .post__content {
   a {
     border-bottom: 2px solid $brand-color;
+    font-size: 18px;
   }
 }
 
@@ -189,27 +193,27 @@
     }
 
     &.share__facebook {
-      background-color: #3b5998;
+      background-color: #12111b;//  #3b5998;
       &:hover {
-        background-color: darken(#3b5998, 10%);
+        background-color: #e74c3c;// darken(#3b5998, 10%);
       }
     }
     &.share__twitter {
-      background-color: #55acee;
+      background-color: #12111b;// #55acee;
       &:hover {
-        background-color: darken(#55acee, 10%);
+        background-color: #e74c3c;// darken(#55acee, 10%);
       }
     }
     &.share__linkedin {
-      background-color: #0077b5;
+      background-color: #12111b;// #0077b5;
       &:hover {
-        background-color: darken(#0077b5, 10%);
+        background-color: #e74c3c;// darken(#0077b5, 10%);
       }
     }
     &.share__pinterest {
-      background-color: #bd081c;
+      background-color: #12111b;// #bd081c;
       &:hover {
-        background-color: darken(#bd081c,10%);
+        background-color: #e74c3c;// darken(#bd081c,10%);
       }
     }
   }
@@ -238,7 +242,8 @@
 .related-title {
   margin-bottom: 30px;
   padding-bottom: 30px;
-  font-size: 24px;
+  font-family: 'Raleway', 'Noto Sans', 'Open Sans', sans-serif;
+  font-size: 20px;
   line-height: 1;
   font-weight: 800;
   border-bottom: 1px solid $gray-lighter;

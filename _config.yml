@@ -1,25 +1,27 @@
 #-------------------------------
 # General Site Settings
-title: Bonso
-logo: # You can add own logo. For example '/images/logo.png'.
-description: Hi, my name is Adam Howard. I’m a writer and photographer based in Portland. I like being at the center of events, being free and enjoying every moment.
+title: Wilson D. - chillintheblank
+logo: '/images/logo.png' # You can add own logo. For example '/images/logo.png'.
+description: Hello anh em, mình là Hoàng Đăng, mọi người có thể gọi mình là Wilson. Mình đang là Product Owner \ UX Designer ở Sài Gòn. Blog này là nơi mình viết những thứ linh tinh về cuộc sống & công việc. Hy vọng anh em có thể `chill` cùng mình thật lâu. Thanks for your interest. Uppp. 🦾
 baseurl: "" # The subpath of your site, e.g. /blog
-url: "" # The base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.chillintheblank.com" # The base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------
 # Author Settings
 author:
-  avatar: '/images/01.jpg'
-  name: Adam Howard
-  job: Passionate Writer & Photographer
+  avatar: '/images/avatar.jpeg'
+  name: Wilson D.
+  job: Product Owner \ UX Designer @ HCMC, Vietnam
 
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com"}
-- {icon: "ion-logo-facebook", link: "https://facebook.com"}
-- {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
-- {icon: "ion-logo-instagram", link: "https://instagram.com"}
-- {icon: "ion ion-logo-github", link: "https://github.com"}
+# - {icon: "ion-logo-twitter", link: "https://twitter.com"}
+# - {icon: "ion-logo-facebook", link: "https://facebook.com"}
+# - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
+- {icon: "ion-logo-instagram", link: "https://instagram.com/wilson.chillinthe___"}
+- {icon: "ion-logo-tumblr", link: "https://t.me/wilsonchiller"}
+- {icon: "ion-logo-google", link: "mailto:wilson.citb@gmail.com"}
+# - {icon: "ion ion-logo-github", link: "https://github.com"}  <ion-icon name="chatbubbles"></ion-icon>
 
 # Example of adding a new link to the author section and footer - {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
 # Other icons can be found at https://ionicons.com/v4/
@@ -33,8 +35,8 @@ slider: true # NOTE - By default, the slider is set to display featured posts. T
 #-------------------------------
 # Contact Settings
 contact:
-  email: your@email.com # Add your email for contant form
-  description: Bonso comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
+  email: wilson.citb@gmail.com # Add your email for contact form
+  description: Nếu cần trao đổi về công việc Product Owner \ UX Designer, Mobile Apps,... hay thậm chí là chém gió, anh em có thể email hoặc nhắn tin cho mình qua Instagram \ Telegram. Contact mình đặt ở Home & cuối trang. Ngoài ra, anh em cũng có thể để gửi mess cho mình ngay tại đây, nhưng mà mách nhỏ một tip là nhắn tin mình sẽ phản hồi nhanh hơn một chút nha. 😉 # Add a description of your form
 
 # NOTE
 # Bonso comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
@@ -42,19 +44,19 @@ contact:
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: wilsonchiller # Add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
 # Google Analytics
-google-analytics: # Add your identifier. For example UA-99631805-1.
+google-analytics: UA-196301539-1 # Add your identifier. For example UA-99631805-1.
 
 
 #-------------------------------
 # Newsletter
 mailchimp: true # To enable the mailchimp form, use the value true. To turn off use the value false.
-mailchimp-text: Subscribe to our newsletter and we’ll send you the emails of latest posts. # Add your description.
-mailchimp-identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+mailchimp-text: Đặt nhẹ email của anh em ở đây & nhấn `Subscribe` để nhận được thông báo về những bài viết mới của mình trong tương lai nhé. # Add your description.
+mailchimp-identifier: wilsonchiller # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
 
 
 #-------------------------------

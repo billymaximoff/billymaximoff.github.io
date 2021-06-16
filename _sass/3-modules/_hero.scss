@@ -13,8 +13,8 @@
 .author {
   .author__avatar {
     display: block;
-    width: 120px;
-    height: 120px;
+    width: 160px;
+    height: 160px;
     margin-bottom: 10px;
     border-radius: 50%;
     overflow: hidden;
@@ -22,24 +22,28 @@
 
   .author__name {
     margin-bottom: 5px;
-    font-size: 31px;
+    font-family: $heading-font-family;
+    font-size: 32px;
     line-height: 1;
     font-weight: 800;
   }
   
   .author__job {
-    font-size: 63px;
+    font-family: $heading-font-family;
+    font-size: 28px;
     line-height: 58px;
-    font-weight: 800;
+    font-weight: 700;
   }
 
   @media only screen and (max-width: $desktop) {
     .author__name {
+      font-family: $heading-font-family;
       font-size: 24px;
     }
     .author__job {
       margin-bottom: 20px;
-      font-size: 38px;
+      font-family: $heading-font-family;
+      font-size: 20px;
       line-height: 33px;
     }
   }

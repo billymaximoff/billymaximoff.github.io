@@ -46,8 +46,8 @@
 .article__title {
   margin: 10px 0 15px;
   max-width: 500px;
-  font-size: 35px;
-  line-height: 37px;
+  font-size: 32px;
+  line-height: 35px;
   font-weight: 800;
   a {
     color: $white;
@@ -56,7 +56,7 @@
     }
   }
   @media only screen and (max-width: $desktop) {
-    font-size: 31px;
+    font-size: 32px;
     line-height: 33px;
   }
   @media only screen and (max-width: $mobile) {
@@ -133,8 +133,9 @@
   line-height: 1;
   .article__tag {
     position: relative;
+    font-family: $heading-font-family;
     font-size: 14px;
-    font-weight: 700;
+    font-weight: 600;
     text-transform: uppercase;
     color: $white;
     &:hover {
@@ -155,9 +156,10 @@
 }
 
 .article__date {
+  font-family: $heading-font-family;
   font-size: 14px;
   text-transform: uppercase;
-  font-weight: 700;
+  font-weight: 600;
   color: rgba($white, .7);
   &::before {
     content: "";
@@ -193,10 +195,11 @@
   &-link {
     position: relative;
     padding-right: 8px;
+    font-family: $heading-font-family;
     font-size: 14px;
     line-height: 20px;
     text-transform: uppercase;
-    font-weight: 700;
+    font-weight: 600;
     color: $white;
     &:hover {
       color: $white;

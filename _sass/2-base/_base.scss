@@ -35,8 +35,9 @@ body {
     outline: none;
   }
   
-  @media only screen and (max-width: $mobile) {
+  @media only screen and (max-width: $mobile) and (border-radius: 8px) {
     font-size: 18px;
+    border-radius: 8px;
   }
 }
 
@@ -121,10 +122,11 @@ blockquote {
     }
   }
 
-  @media only screen and (max-width: $mobile) {
+  @media only screen and (max-width: $mobile) and (border-radius: 8px) {
     padding: 20px 20px 20px 35px;
     font-size: 21px;
     line-height: 28px;
+    border-radius: 8px;
   }
 }
 
