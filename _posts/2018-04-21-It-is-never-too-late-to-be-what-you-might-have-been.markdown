@@ -5,6 +5,9 @@ date:   2018-10-29 15:01:35 +0300
 image:  '/images/35.jpg'
 tags:   [Dreams, Desert]
 featured: true
+thumb_image: 'https://pbs.twimg.com/media/FYjPqBpaQAAyFWe?format=jpg&name=900x900'
+excerpt: >-
+  Nếu mà bạn là người cũng bận rộn, nhưng chán cảnh ăn ở ngoài, muốn tự nấu ăn, thì tham khảo thực đơn 7 ngày ở trên của mình nha. Hy vọng có thể tiếp động lực cùng mang cơm đi làm như mình nè.
 ---
 Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum. Haec et tu ita posuisti, et verba vestra sunt. Idemne potest esse dies saepius, qui semel fuit? Ampulla enim sit necne sit, quis non iure optimo irrideatur, silaboret? Ego vero volo in virtute vim esse quam maximam; Serpere anguiculos, nare anaticulas, evolare merulas, cornibus uti videmus boves, nepas aculeis. Conferam tecum, quam cuique verso rem subicias; Si longus, levis. In qua quid est boni praeter summam voluptatem, et eam cur post. Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Natura sic ab iis investigata est, ut nulla pars caelo deinde optimum.
 
