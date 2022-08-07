@@ -5,7 +5,7 @@ permalink: /about/
 image: 'https://images.unsplash.com/photo-1517842264405-72bb906a1936?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80'
 ---
 
-Chào mọi người, mình là <b>Hoàng Đăng</b>, mọi người có thể gọi mình là <b>Wilson</b>. Công việc chính của mình là phát triển, quản lý sản phẩm \ Product Management & thiết kế trải nghiệm người dùng \ User Experience Design. Hiện tại mình đang phụ trách mảng Loyalty & POS cho một sản phẩm thú vị ở Sài Gòn. Mình thích cà phê, trò chuyện với mọi người. Thi thoảng mình cũng nhận vài kèo tư vấn hoặc freelance cho đỡ 'lụt nghề' nữa. 👨🏻‍💻  
+Chào mọi người, mình là <b>Hoàng Đăng</b>, mọi người có thể gọi mình là <b>Wilson</b>. Công việc chính của mình là phát triển, quản lý sản phẩm \ Product Management & thiết kế trải nghiệm người dùng \ User Experience Design. Hiện tại mình đang phụ trách mảng Loyalty & POS cho một sản phẩm thú vị ở Sài Gòn. <br> Mình thích cà phê, trò chuyện với mọi người. Thi thoảng mình cũng nhận vài kèo tư vấn hoặc freelance cho đỡ 'lụt nghề' nữa. 👨🏻‍💻  
 
 > Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.
 >
@@ -32,7 +32,7 @@ Thực ra, lúc chọn tên blog & tên miền để đăng ký thì mình cũng
 
 Ngày còn đi học, khi thi tiếng Anh chắc hẳn anh em vẫn nhớ một dạng bài là điền vào chỗ trống - **fill in the blank**. Khi đó, chúng ta phải suy nghĩ để khoanh một đáp án 'most suitable' với ngữ cảnh mà câu đang nói đến. Tự dưng thấy nó cực kỳ hợp với mình và công việc của mình - mỗi ngày đều phải đưa ra lựa chọn không phải đúng nhất mà là 'phù-hợp-nhất'.
 
-→ Thế thì <b>chillintheblank</b>. 😎 Hy vọng cái tên này gắn bó với mình đủ lâu.
+→ Thế thì <b>chillintheblank</b>. Hy vọng cái tên này gắn bó với mình đủ lâu.
 
 <br>
 
