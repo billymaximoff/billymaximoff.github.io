@@ -2,7 +2,7 @@
 # General Site Settings
 title: Wilson D. - chillintheblank
 logo: '/images/logo.png' # You can add own logo. For example '/images/logo.png'.
-description: Hi, mình là Hoàng Đăng \ Wilson. Công việc chính của mình là phát triển, quản lý sản phẩm \ Product Management & thiết kế trải nghiệm người dùng \ User Experience Design ở Sài Gòn. Blog này là nơi mình viết những thứ linh tinh về cuộc sống & công việc. Hy vọng anh em có thể `chill` cùng mình thật lâu. Thanks for your interest. Uppp. 🦾
+description: Hi, mình là Hoàng Đăng \ Wilson. Công việc chính của mình là quản lý, phát triển sản phẩm - Product Management & thiết kế trải nghiệm người dùng - User Experience Design ở Sài Gòn. Blog này là nơi mình viết những thứ linh tinh về cuộc sống & công việc. Hy vọng anh em có thể `chill` cùng mình thật lâu. Thanks for your interest. Uppp. 🦾
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "https://www.chillintheblank.com" # The base hostname & protocol for your site, e.g. http://example.com
 
@@ -36,7 +36,7 @@ slider: true # NOTE - By default, the slider is set to display featured posts. T
 # Contact Settings
 contact:
   email: wilson.citb@gmail.com # Add your email for contact form
-  description: Nếu cần trao đổi về công việc quản lý, phát triển sản phẩm \ Product Management & thiết kế trải nghiệm người dùng \ User Experience Design... hay thậm chí là chém gió, anh em có thể email hoặc nhắn tin cho mình qua Telegram. Contact mình đặt ở Home & cuối trang. Ngoài ra, anh em cũng có thể để gửi mess cho mình ngay tại đây, nhưng mà mách nhỏ một tip là nhắn tin qua Telegram mình sẽ phản hồi nhanh hơn một chút. # Add a description of your form
+  description: Nếu cần trao đổi về công việc quản lý, phát triển sản phẩm - Product Management & thiết kế trải nghiệm người dùng - User Experience Design... hay thậm chí là chém gió, anh em có thể email hoặc nhắn tin cho mình qua Telegram. Contact mình đặt ở Home & cuối trang. Ngoài ra, anh em cũng có thể để gửi mess cho mình ngay tại đây, nhưng mà mách nhỏ một tip là nhắn tin qua Telegram mình sẽ phản hồi nhanh hơn một chút. # Add a description of your form
 
 # NOTE
 # Bonso comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
