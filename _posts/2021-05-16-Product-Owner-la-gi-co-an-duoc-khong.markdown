@@ -1,12 +1,22 @@
 ---
 layout: post
-title:  Product Owner là gì? Có ăn được không?
+title:  Product Owner là gì? 
 date:   2020-05-16 04:00:00 +0700
 image:  'https://images.unsplash.com/photo-1501163109389-abf37ca1276a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80'
-tags:   [ProductJourney]
+tags:   [ProductOwner]
 featured: true
 ---
-Hello anh em, mình - Wilson đây. Như trong phần [About me](https://www.chillintheblank.com/about/) có nhắc đến, công việc chính hiện tại của mình là phát triển sản phẩm \ Product Owner & thiết kế trải nghiệm người dùng \ UX Designer. Tạm bỏ qua phần thiết kế trải nghiệm người dùng \ UX Designer, mình sẽ viết về topic này trong các bài viết về sau, vậy thì làm Product Owner là làm gì, phát triển sản phẩm là như thế nào? 
+
+# Table of Contents
+1. [Example](## Product Owner?)
+2. [Example2](## Product Owner là gì?)
+3. [Third Example](## Tóm lại)
+
+## Product Owner?
+
+Như trong phần [About me](https://www.chillintheblank.com/about/) có nhắc đến, công việc chính hiện tại của mình là quản lý, phát triển sản phẩm - Product Management & thiết kế trải nghiệm người dùng - User Experience Design (UXD).
+
+
 
 Hôm nay, mình sẽ nói về cái nghề `làm dâu trăm họ nhưng khó tỏ bày` này nhé.
 
@@ -20,6 +30,10 @@ Hôm nay, mình sẽ nói về cái nghề `làm dâu trăm họ nhưng khó t�
 
 ## Product Owner là gì?
 
+Theo em hiểu, Product Owner là gì?
+
+Đây là câu mình luôn hỏi mọi ứng viên, trước khi đi sâu vào tìm hiểu kinh nghiệm làm việc, 
+
 Lướt qua một số sản phẩm và dự án mình đã từng cộng tác, đọc tài liệu, cũng như trao đổi với một vài anh chị em ở nhiều level, có một vài định nghĩa như sau:
 
 - **Định nghĩa 1** - Product Owner là người chịu trách nhiệm tối đa hóa giá trị của sản phẩm từ thành quả làm việc của Scrum Team, để làm được việc này, PO cần làm việc với Scrum Team, các bộ phận khác trong tổ chức. (1)
@@ -30,7 +44,7 @@ Lướt qua một số sản phẩm và dự án mình đã từng cộng tác, 
 - Định nghĩa ... - thôi, 5 cái là quá nhiều rồi, chắc tạm dừng ở đây nha.
 
 <div>
-  <img src="https://images.unsplash.com/photo-1613909207039-6b173b755cc1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2016&q=80" alt="chillintheblank" style="border-radius: 8px"> 
+  <img src="https://blog.kakaocdn.net/dn/P5VLt/btqVFAUmN69/rIMMqkYCXkeJWlOSD003f1/img.png&auto=format&fit=crop&w=2016&q=80" alt="chillintheblank" style="border-radius: 8px"> 
 </div>
 <br>
 
