@@ -1,24 +1,22 @@
 ---
 layout: post
 title:  Product Owner là gì? 
-date:   2020-05-16 04:00:00 +0700
+date:   2022-08-01 09:00:00 +0700
 image:  'https://images.unsplash.com/photo-1501163109389-abf37ca1276a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80'
-tags:   [ProductOwner]
+tags:   [Product Owner]
 featured: true
 ---
 
-# Table of Contents
-1. [Example](#part1)
-2. [Example2](#part2)
-3. [Third Example](#part3)
-
-## Product Owner? <a name="part1"></a>
-
-Như trong phần [About me](https://www.chillintheblank.com/about/) có nhắc đến, công việc chính hiện tại của mình là quản lý, phát triển sản phẩm - Product Management & thiết kế trải nghiệm người dùng - User Experience Design (UXD).
+1. [Intro](#part1)
+2. [Product Owner là gì?](#part2)
+3. [Tóm lại](#part3)
 
 
+## Intro <a name="part1"></a>
 
-Hôm nay, mình sẽ nói về cái nghề `làm dâu trăm họ nhưng khó tỏ bày` này nhé.
+Với nhưng anh em đang làm Product Owner, chắc hẳn không dưới một lần anh em sẽ được người thân hoặc bạn bè ngoài ngành hỏi: 'Mày làm nghề gì vậy?'. Và anh em sẽ khá bối rối khi diễn tả công việc của mình - một công việc không được phổ thông, đại chúng, dễ thấy như bác sỹ, kỹ sư, giáo viên hay kể cả là lập trình viên. Thường thì khi xã giao, không cần thiết phải nói kỹ, mình hay bảo mình làm IT. Ngay lập tức họ sẽ ồ lên rồi gật gù, ra chiều đã hiểu.
+
+Thế nhưng, với các bạn đang mong muốn trở thành Product Owner thì như thế nào? Phải hiểu tường tận công việc còn quyết định có theo hay không chứ đúng không? Hôm nay, mình sẽ nói về cái nghề `làm dâu trăm họ` này dưới góc nhìn của mình nhé.
 
 *Note. Vì có những từ không thể tìm được từ tiếng Việt diễn đạt được trọn vẹn ý nghĩa của câu chữ nên mình xin phép dùng tiếng Anh xen kẽ. Nếu anh em thấy có từ nào phù hợp hơn thì comment bên dưới để mình 'hot fix' nhé. Thanksss.*
 
@@ -30,9 +28,12 @@ Hôm nay, mình sẽ nói về cái nghề `làm dâu trăm họ nhưng khó t�
 
 ## Product Owner là gì? <a name="part2"></a>
 
-Theo em hiểu, Product Owner là gì?
+Ở Việt Nam, có rất nhiều định nghĩa về Product Owner - hay người làm sản phẩm. Mỗi công cty lại có một cách gọi và scope công việc khác nhau. Vậy nên, các bạn cần tìm hiểu kỹ JD tuyển dụng trước khi apply nhé. Mình cũng thường hỏi ứng viên hiểu về Product Owner là như thế nào, vì sao lại chọn đi theo hướng này trước khi đi sâu vào tìm hiểu kinh nghiệm làm việc.
 
-Đây là câu mình luôn hỏi mọi ứng viên, trước khi đi sâu vào tìm hiểu kinh nghiệm làm việc, 
+Với mình và cty hiện tại mình đang làm việc:
+
+<details>
+  <summary>Xem thêm các định nghĩa khác về Product Owner</summary>
 
 Lướt qua một số sản phẩm và dự án mình đã từng cộng tác, đọc tài liệu, cũng như trao đổi với một vài anh chị em ở nhiều level, có một vài định nghĩa như sau:
 
@@ -42,6 +43,8 @@ Lướt qua một số sản phẩm và dự án mình đã từng cộng tác, 
 - **Định nghĩa 4** - Product Owner là người giám sát, điều phối công việc và chịu trách nhiệm giải đáp các thắc mắc của Development Team. (4)
 - **Định nghĩa 5** - Product Owner là người sở hữu sản phẩm, đóng vai trò như mini-CEO và có quyền quyết định mọi thứ liên quan đến sản phẩm để đạt mục tiêu kinh doanh của tổ chức. (5)
 - Định nghĩa ... - thôi, 5 cái là quá nhiều rồi, chắc tạm dừng ở đây nha.
+</details>
+
 
 <div>
   <img src="https://blog.kakaocdn.net/dn/P5VLt/btqVFAUmN69/rIMMqkYCXkeJWlOSD003f1/img.png&auto=format&fit=crop&w=2016&q=80" alt="chillintheblank" style="border-radius: 8px"> 
@@ -78,7 +81,10 @@ Ví dụ:
     - Cô Thỏ Trắng 🐇 là Product Owner.
 - Chú Voi Xám 🐘 ở xa đầm lầy, mỗi lần muốn uống nước cả nhà chú phải đi một quãng rất xa. Để gia đình không phải đi xa nhưng vẫn có nước uống, Chú Voi Xám 🐘 dựng gỗ làm ròng rọc chở nước từ bờ sông về. Chú Voi Xám 🐘 cũng là Product Owner. Người dùng ở đây là gia đình chú.
 
-## Tóm lại <a name="part1"></a>
+
+Như trong phần [About me](https://www.chillintheblank.com/about/) có nhắc đến, công việc chính hiện tại của mình là quản lý, phát triển sản phẩm - Product Management & thiết kế trải nghiệm người dùng - User Experience Design (UXD).
+
+## Tóm lại <a name="part3"></a>
 
 Bất kỳ ai, ở bất kỳ đâu, thuộc bất kỳ lĩnh vực nào đáp ứng được các yếu tố trên đều là Product Owner. Tuy nhiên, Product Owner thường được chỉ người phát triển sản phẩm công nghệ (web, app, mobile phone, laptop,...).
 <br>
