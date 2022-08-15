@@ -33,16 +33,16 @@ Thế nhưng, với các bạn đang mong muốn trở thành Product Owner thì
 Với mình và cty hiện tại mình đang làm việc:
 
 <details>
-  <summary>Xem thêm các định nghĩa khác về Product Owner</summary>
+  <summary>*Xem thêm các định nghĩa khác về Product Owner*</summary>
 
-Lướt qua một số sản phẩm và dự án mình đã từng cộng tác, đọc tài liệu, cũng như trao đổi với một vài anh chị em ở nhiều level, có một vài định nghĩa như sau:
+Lướt qua một số sản phẩm và dự án mình đã từng cộng tác, đọc tài liệu, cũng như trao đổi với một vài anh chị em ở nhiều level, có một vài định nghĩa như sau:<br>
 
-- **Định nghĩa 1** - Product Owner là người chịu trách nhiệm tối đa hóa giá trị của sản phẩm từ thành quả làm việc của Scrum Team, để làm được việc này, PO cần làm việc với Scrum Team, các bộ phận khác trong tổ chức. (1)
-- **Định nghĩa 2** - Product Owner - một thành viên của nhóm phát triển sản phẩm. PO tham dự các cuộc họp Scrum hàng ngày và đánh giá mức độ ưu tiên của các item trong Product Backlog. PO cần đảm bảo Development Team có thể làm việc hiệu quả và đúng mục tiêu. (2)
-- **Định nghĩa 3** - Product Owner đóng vai trò là người đại diện và là đứng ra bảo vệ quyền lợi khách hàng trước Development Team. (3)
-- **Định nghĩa 4** - Product Owner là người giám sát, điều phối công việc và chịu trách nhiệm giải đáp các thắc mắc của Development Team. (4)
-- **Định nghĩa 5** - Product Owner là người sở hữu sản phẩm, đóng vai trò như mini-CEO và có quyền quyết định mọi thứ liên quan đến sản phẩm để đạt mục tiêu kinh doanh của tổ chức. (5)
-- Định nghĩa ... - thôi, 5 cái là quá nhiều rồi, chắc tạm dừng ở đây nha.
+1. **Định nghĩa 1** - Product Owner là người chịu trách nhiệm tối đa hóa giá trị của sản phẩm từ thành quả làm việc của Scrum Team, để làm được việc này, PO cần làm việc với Scrum Team, các bộ phận khác trong tổ chức. (1) <br>
+2. **Định nghĩa 2** - Product Owner - một thành viên của nhóm phát triển sản phẩm. PO tham dự các cuộc họp Scrum hàng ngày và đánh giá mức độ ưu tiên của các item trong Product Backlog. PO cần đảm bảo Development Team có thể làm việc hiệu quả và đúng mục tiêu. (2) <br>
+3. **Định nghĩa 3** - Product Owner đóng vai trò là người đại diện và là đứng ra bảo vệ quyền lợi khách hàng trước Development Team. (3) <br>
+4. **Định nghĩa 4** - Product Owner là người giám sát, điều phối công việc và chịu trách nhiệm giải đáp các thắc mắc của Development Team. (4) <br>
+5. **Định nghĩa 5** - Product Owner là người sở hữu sản phẩm, đóng vai trò như mini-CEO và có quyền quyết định mọi thứ liên quan đến sản phẩm để đạt mục tiêu kinh doanh của tổ chức. (5) <br>
+6. - Định nghĩa ... - thôi, 5 cái là quá nhiều rồi, chắc tạm dừng ở đây nha.
 </details>
 
 
