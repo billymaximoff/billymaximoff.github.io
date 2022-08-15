@@ -8,11 +8,11 @@ featured: true
 ---
 
 # Table of Contents
-1. [Example](## Product Owner?)
-2. [Example2](## Product Owner là gì?)
-3. [Third Example](## Tóm lại)
+1. [Example](#part1)
+2. [Example2](#part2)
+3. [Third Example](#part3)
 
-## Product Owner?
+## Product Owner? <a name="part1"></a>
 
 Như trong phần [About me](https://www.chillintheblank.com/about/) có nhắc đến, công việc chính hiện tại của mình là quản lý, phát triển sản phẩm - Product Management & thiết kế trải nghiệm người dùng - User Experience Design (UXD).
 
@@ -28,7 +28,7 @@ Hôm nay, mình sẽ nói về cái nghề `làm dâu trăm họ nhưng khó t�
 <br>
 
 
-## Product Owner là gì?
+## Product Owner là gì? <a name="part2"></a>
 
 Theo em hiểu, Product Owner là gì?
 
@@ -78,7 +78,7 @@ Ví dụ:
     - Cô Thỏ Trắng 🐇 là Product Owner.
 - Chú Voi Xám 🐘 ở xa đầm lầy, mỗi lần muốn uống nước cả nhà chú phải đi một quãng rất xa. Để gia đình không phải đi xa nhưng vẫn có nước uống, Chú Voi Xám 🐘 dựng gỗ làm ròng rọc chở nước từ bờ sông về. Chú Voi Xám 🐘 cũng là Product Owner. Người dùng ở đây là gia đình chú.
 
-## Tóm lại
+## Tóm lại <a name="part1"></a>
 
 Bất kỳ ai, ở bất kỳ đâu, thuộc bất kỳ lĩnh vực nào đáp ứng được các yếu tố trên đều là Product Owner. Tuy nhiên, Product Owner thường được chỉ người phát triển sản phẩm công nghệ (web, app, mobile phone, laptop,...).
 <br>
