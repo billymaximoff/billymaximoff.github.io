@@ -2,7 +2,7 @@
 # General Site Settings
 title: Wilson D. - thedangw
 logo: '/images/logo.png' # You can add own logo. For example '/images/logo.png'.
-description: Hi, mình là Hoàng Đăng \ Wilson. Công việc chính của mình là quản lý, phát triển sản phẩm - Product Management ở Sài Gòn. Blog này là nơi mình viết những thứ linh tinh về cuộc sống & công việc. Hy vọng anh em có thể `chill` cùng mình thật lâu. Thanks for your interest. Uppp. 🦾
+description: Hi, mình là Hoàng Đăng \ Wilson. Mình thích công nghệ, du lịch và chém gió với bạn bè. Công việc chính của mình là Quản lý, Phát triển sản phẩm - Product Management ở Sài Gòn. Blog này là nơi mình viết những thứ linh tinh về cuộc sống & công việc. Hy vọng có thể cùng anh em có thể `chill` thật lâu. Thanks for your interest. Uppp. 🦾
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "https://www.thedangw.com" # The base hostname & protocol for your site, e.g. http://example.com
 
@@ -11,15 +11,15 @@ url: "https://www.thedangw.com" # The base hostname & protocol for your site, e.
 # Author Settings
 author:
   avatar: '/images/avatar.jpeg'
-  name: Wilson D.
+  name: Hoàng Đăng / Wilson
   job: Product-lover @ HCMC, Vietnam
 
 social:
 # - {icon: "ion-logo-twitter", link: "https://twitter.com"}
 # - {icon: "ion-logo-facebook", link: "https://facebook.com"}
 # - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
-- {icon: "ion-logo-instagram", link: "https://instagram.com/wilson.chillinthe___"}
-- {icon: "ion-logo-tumblr", link: "https://t.me/wilsonchiller"}
+# - {icon: "ion-logo-instagram", link: "https://instagram.com/wilson.chillinthe___"}
+- {icon: "ion-logo-tumblr", link: "https://t.me/wilsontdw"}
 - {icon: "ion-logo-google", link: "mailto:hoangdang.ux@gmail.com"}
 # - {icon: "ion ion-logo-github", link: "https://github.com"}  <ion-icon name="chatbubbles"></ion-icon>
 
@@ -44,7 +44,7 @@ contact:
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: wilsonchiller # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: thedangw # Add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
@@ -55,7 +55,7 @@ google-analytics: UA-196301539-1 # Add your identifier. For example UA-99631805-
 #-------------------------------
 # Newsletter
 mailchimp: true # To enable the mailchimp form, use the value true. To turn off use the value false.
-mailchimp-text: Input nhẹ email của anh em ở đây & nhấn `Subscribe` để nhận được thông báo về những bài viết mới của mình trong tương lai nhé. # Add your description.
+mailchimp-text: Input nhẹ email ở đây & nhấn `Subscribe` để nhận được thông báo về những bài viết mới của mình trong tương lai nhé. # Add your description.
 mailchimp-identifier: wilsonchiller # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
 
 
