@@ -5,9 +5,9 @@ permalink: /about/
 image: 'https://images.unsplash.com/photo-1517842264405-72bb906a1936?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80'
 ---
 
-Chào mọi người, mình là <b>Hoàng Đăng</b>, anh em có thể gọi mình là <b>Wilson</b>. Công việc chính của mình là Quản lý & Phát triển - Product Management.
+Chào mọi người, mình là <b>Hoàng Đăng</b>, anh em có thể gọi mình là <b>Wilson</b>. Công việc chính của mình là Quản lý & Phát triển Sản phẩm - Product Management.
 <br>
-Mình thích cà phê, chém gió và nghe mọi người kể chuyện. Thi thoảng mình cũng nhận vài kèo freelance hoặc consult. Thế nên, nếu anh em cần partner hay chỉ đơn giản là cùng 'đàm đạo' thì ping mình nhé. 👨🏻‍💻  
+Mình thích cà phê và nghe mọi người kể chuyện. Thi thoảng mình cũng nhận vài kèo freelance hoặc consult. Thế nên, nếu anh em cần partner hay chỉ đơn giản là cùng 'chém gió' thì ping mình nhé. 👨🏻‍💻  
 
 > Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.
 >
