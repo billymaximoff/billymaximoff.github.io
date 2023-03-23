@@ -1,21 +1,21 @@
 ---
 layout: post
-title:  Tôi dương tính rồi! - From F0 to Normal (Phần 1)
-date:   2021-08-23 15:01:35 +0700
-image:  'https://images.unsplash.com/photo-1601055283742-8b27e81b5553?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80'
+title:  Tôi dương tính rồi! - From F0 to Normal (Phần 2)
+date:   2021-08-23 19:18:25 +0700
+image:  'https://images.unsplash.com/photo-1584265549731-fc0d5434ff76?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80'
 tags:   [Covid, Health, Tips, Product]
 featured:
 ---
 
-**Phần 1.**
-1. [Disclaimer - Lưu ý](#part1)
-2. [F0 rồi - Giờ phải làm sao?](#part2)
-3. [F0 Journey](#part3)
-- [Giai đoạn 1. Có nghi ngờ nhiễm Covid](#part3.1)
-- [Giai đoạn 2. Có nghi ngờ nhiễm Covid](#part3.2)
-- [Giai đoạn 3. Có nghi ngờ nhiễm Covid](#part3.3)
+**[Phần 1.]()**
+1. Disclaimer - Lưu ý
+2. F0 rồi - Giờ phải làm sao?
+3. F0 Journey
+- Giai đoạn 1. Có nghi ngờ nhiễm Covid
+- Giai đoạn 2. Có nghi ngờ nhiễm Covid
+- Giai đoạn 3. Có nghi ngờ nhiễm Covid
 
-**[Phần 2.]()**
+**Phần 2.**
 - Giai đoạn 3. Có nghi ngờ nhiễm Covid (tt)
 - Giai đoạn 4. Có nghi ngờ nhiễm Covid
 - Giai đoạn 5. Có nghi ngờ nhiễm Covid
@@ -24,7 +24,9 @@ featured:
 
 Hiện tại, đang là giai đoạn cao điểm của dịch Covid. Thành phố Hồ Chí Minh phong tỏa, giãn cách theo Chỉ thị 16, khu mình ở lại là vùng Đỏ, chốt chặn, giăng dây,... có đủ cả. Và em gái mình không may đã dương tính. Tuy nhiên, vì các khu cách ly đang quá tải nên tạm thời em mình vẫn ở nhà tự chăm sóc. Đây cũng là một điều may mắn vì mình được ở bên cạnh em mình, phần nào sẽ yên tâm hơn.
 
-Mình thấy rằng, mọi người thường có tâm lý chủ quan, chưa có sự chuẩn bị trước cho các tình huống xấu nên khi F0 mọi người rất rối. Phần chia sẻ của mình bên dưới sẽ tiếp cận theo các giai đoạn, tâm lý của người F0 và người thân sẽ như thế nào, cần làm gì. Ngoài ra, vì bản thân là dân Product nên mình cũng tận dụng một số phương pháp, ứng dụng để hỗ trợ mình. Mong rằng chút chia sẻ này có thể hữu ích nếu bạn / người thân chẳng may F0 (hoặc các bệnh tương tự).
+Hiện tại, mình đã chăm sóc em mình được hơn 1 tuần và tình hình tiến triển khá tốt. Qua chuyện này, mình thấy rằng, mọi người thường có tâm lý chủ quan, chưa có sự chuẩn bị trước cho các tình huống xấu nên khi F0 mọi người rất bối rối. Dưới đây là những kinh nghiệm mình đã áp dụng, tiếp cận theo các giai đoạn, tâm lý của người F0 và người thân sẽ như thế nào, cần làm gì. Ngoài ra, vì bản thân là dân Product nên mình cũng tận dụng một số phương pháp, ứng dụng để hỗ trợ mình tối hơn.
+
+Mong rằng chút chia sẻ này có thể hữu ích nếu bạn / người thân chẳng may F0 (hoặc các bệnh tương tự).
 
 # Disclaimer - Lưu ý <a name="part1"></a>
 - *Nội dung chia sẻ tập trung vào phương pháp xử lý và chuẩn bị cho các tình huống có thể xảy ra. Nội dung này không thay thế các hướng dẫn chính thức của cơ quan y tế.*
@@ -45,6 +47,9 @@ Mình thấy rằng, mọi người thường có tâm lý chủ quan, chưa có
 **Cần làm gì?**
 - Lưu và ghi số điện thoại của Y tế phường/xã ở nơi dễ tìm thấy
 - Nếu có điều kiện thì khi cách ly nên có người chăm sóc, vì lực lượng y tế trong giai đoạn cao điểm sẽ quá tải, không thể theo dõi hay hỗ trợ từng người được. Nên khi cần xử lý lúc sốt cao, đói, kiệt sức,... có người thân (được sử dụng các biện pháp bảo vệ) sẽ an toàn hơn cho người bệnh.
+- Luôn sẵn sàng hành lý đi cách ly nếu cần
+- Nắm rõ tình hình sức khỏe và bệnh nền của bản thân (nếu có) để cung cấp cho bác sỹ và cán bộ y tế
+- Chuẩn bị các loại thuốc cơ bản & kit test
 
 **Checklist - Cách ly thì nên mang theo gì?**
 Dưới đây là danh sách những vật dụng cần chuẩn bị khi đi cách ly <br>
