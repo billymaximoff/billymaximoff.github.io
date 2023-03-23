@@ -1,24 +1,49 @@
 ---
 layout: post
-title:  The only true wisdom is knowing that you know nothing
-date:   2018-04-24 15:01:35 +0300
-image:  '/images/39.jpg'
-tags:   [Desert, Work]
+title:  Tôi dương tính rồi! - From F0 to Normal
+date:   2021-08-23 15:01:35 +0700
+image:  'https://images.unsplash.com/photo-1601055283742-8b27e81b5553?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80'
+tags:   [Covid, Health, Tips, Product]
 featured:
 ---
-Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum. Haec et tu ita posuisti, et verba vestra sunt. Idemne potest esse dies saepius, qui semel fuit? Ampulla enim sit necne sit, quis non iure optimo irrideatur, silaboret? Ego vero volo in virtute vim esse quam maximam; Serpere anguiculos, nare anaticulas, evolare merulas, cornibus uti videmus boves, nepas aculeis. Conferam tecum, quam cuique verso rem subicias; Si longus, levis. In qua quid est boni praeter summam voluptatem, et eam cur post. Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Natura sic ab iis investigata est, ut nulla pars caelo deinde optimum.
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/51.jpg">
-    <img src="/images/52.jpg">
-    <img src="/images/63.jpg">
-    <img src="/images/54.jpg">
-    <img src="/images/68.jpg">
-    <img src="/images/56.jpg">
-  </div>
-  <em>Beautiful places / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-</div>
+Hiện tại, đang là giai đoạn cao điểm của dịch Covid. Thành phố Hồ Chí Minh lockdown, khu mình ở lại là vùng Đỏ, phong tỏa, chốt chặn, giăng dây,... có đủ cả. Và em gái mình không may đã dương tính. Tuy nhiên, vì các khu cách ly đang quá tải nên tạm thời em mình vẫn ở nhà tự chăm sóc. Đây cũng là một điều may mắn vì mình được ở bên cạnh em mình, phần nào sẽ yên tâm hơn.
+
+Dưới đây là một vài chia sẻ của mình khi nếu bạn / người thân chẳng may F0 thì nên làm gì và cách dân Product 'xử lý' khi bị Covid (hoặc các bệnh tương tự).
+
+
+# Disclaimer - Lưu ý
+- Nội dung chia sẻ tập trung vào phương pháp xử lý và chuẩn bị cho các tình huống có thể xảy ra. Nội dung này không thay thế các hướng dẫn chính thức của cơ quan y tế.
+- Tên thuốc nếu được nhắc đến chỉ mang tính chất tham khảo và đúng trong ngữ cảnh thực tế của mình; khi sử dụng thuốc mọi người cần tham khảo ý kiến tư vấn của bác sỹ - đặc biệt trong trường hợp có bệnh nền/mãn tính,...
+
+
+
+
+# F0 rồi - Giờ phải làm sao?
+*8 vạn câu hỏi sẽ đổ ập lên đầu*
+- Tôi cần báo tin cho ai? Tôi có phải khai báo với cơ quan nào không? Thủ tục là gì? Báo qua đâu? 
+- Cách ly hay ở nhà? Cách ly ở đâu? Bệnh viện hay khách sạn? Tôi muốn ở nhà thì có được không? Nếu tôi đi cách ly thì tôi mang gì?
+- Ở nhà thì làm gì? Tôi cần chuẩn bị những gì? Làm sao tôi đảm bảo được ở nhà an toàn cho tôi và người thân của tôi?
+- Điều trị như thế nào? Mỗi ngày tôi cần làm gì? Tôi cần ăn uống như thế nào? Nếu có vấn đề phát sinh thì tôi liên hệ ai?
+
+*Vì sao lại hỏi?*
+- Chưa có sự chuẩn bị. Chưa sẵn sàng cho các tình huống có thể xảy ra.
+- Không có sự quản lý. Có chuẩn bị nhưng thông tin phân tán, không đồng nhất giữa các thành viên hoặc nguồn dữ liệu.
+
+*Cần làm gì?*
+- Lưu và ghi số điện thoại của Y tế phường/xã ở nơi dễ tìm thấy
+- Nếu có điều kiện thì khi cách ly nên có người chăm sóc, vì lực lượng y tế trong giai đoạn cao điểm sẽ quá tải, không thể theo dõi hay hỗ trợ từng người được. Nên khi cần xử lý lúc sốt cao, đói, kiệt sức,... có người thân (được sử dụng các biện pháp bảo vệ) sẽ an toàn hơn cho người bệnh.
+
+*Checklist - Cách ly thì nên mang theo gì?*
+Dưới đây là danh sách những vật dụng cần chuẩn bị khi đi cách ly - Nguồn: Unicef.
+![Checklist](https://photo2.tinhte.vn/data/attachment-files/2021/05/5484839_FB_IMG_1622164114396.jpg)
+
+
+# F0 Journey
+
+
+
+
 
 
 Ego quoque, inquit, didicerim libentius si quid attuleris, quam te reprehenderim. Iam insipientes alios ita esse, ut nullo modo ad sapientiam possent pervenire, alios, qui possent, si id egissent, sapientiam consequi. Id quaeris, inquam, in quo, utrum respondero, verses te huc atque illuc necesse est. Calatino quae plurimas amico disputari.
