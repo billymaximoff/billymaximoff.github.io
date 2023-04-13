@@ -15,9 +15,10 @@ menu__settings:
     - title: 'About me'
       url: '/about/'
     - title: 'Works'
-      submenu:
-      - url: '/work/'
-        title: 'Works'
+      url: '/work/'   
+#      submenu:
+#     - url: '/work/'
+#       title: 'Works'
 #     - url: '/own/'
 #       title: 'Own projects'
       - title: 'My career'
