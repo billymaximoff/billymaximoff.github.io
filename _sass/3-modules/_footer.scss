@@ -1,203 +1,154 @@
-/* Footer Widgets */
-.footer-widgets {
-  padding: 80px 0;
-  margin-top: 20px;
-  background-color: $gray-light;
-  .row .col {
-    flex-grow: 1;
-    &:last-child {
-      &>.widget {
-        padding-right: 0;
-      }
-    }
-  }
-  @media only screen and (max-width: $tablet) {
-    padding: 80px 0 0;
-  }
-  @media only screen and (max-width: $mobile) {
-    padding: 50px 0 0;
-  }
-}
-
-.widget {
-  @media only screen and (max-width: $tablet) {
-    margin-bottom: 50px;
-  }
-}
-
-.widget__title {
-  position: relative;
-  margin-bottom: 20px;
-  font-family: $heading-font-family;
-  font-size: 26px;
-  line-height: 1;
-  font-weight: 800;
-  color: $dark;
-  @media only screen and (max-width: $desktop) {
-    font-size: 24px;
-  }
-}
-
-// Widget Info
-.footer-logo {
-  margin-bottom: 20px;
-  font-family: $heading-font-family;
-  font-size: 26px;
-  line-height: 33px;
-  font-weight: 800;
-  color: $dark;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  transition: none;
-  &:hover {
-    a {
-      color: $dark;
-    }
-  }
-}
-
-.footer-desc {
-  margin-bottom: 25px;
-  font-family: $heading-font-family;
-  font-size: 16px;
-  line-height: 26px;
-  font-weight: 500;
-  color: $gray;
-}
-
-// Widget Recent
-.recent-posts {
-  position: relative;
-  display: flex;
-  padding-right: 15px;
-  margin-bottom: 15px;
-  &:last-child {
-    margin-bottom: 0;
-  }
-  @media only screen and (max-width: $desktop) {
-    padding-right: 0;
-  }
-}
-
-.recent-posts__header {
-  margin-right: 15px;
-}
-
-.recent-posts__image {
-  position: relative;
-  display: block;
-  margin-right: 15px;
-  min-width: 80px;
-  height: 80px;
-  border-radius: 50%;
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  transition: .3s filter ease;
-  &:hover {
-    filter: saturate(1.5);
-  }
-}
-
-.recent-posts__title {
-  margin-bottom: 0;
-  font-size: 20px;
-  line-height: 24px;
-  font-weight: 700;
-  a {
-    color: $dark;
-    &:hover {
-      box-shadow: 0 -1px 0 0 $brand-color inset, 0 -2px 0 0 $brand-color inset;
-    }
-  }
-}
-
-.recent-posts__date {
-  margin-bottom: 5px;
-  font-family: $heading-font-family;
-  font-size: 14px;
-  line-height: 16px;
-  font-weight: 600;
-  text-transform: uppercase;
-  color: $gray;
-}
-
-// Widget Subscribe
-.subscribe-subtitle {
-  width: 100%;
-  margin-bottom: 20px;
-  font-family: $heading-font-family;
-  font-size: 16px;
-  font-weight: 500;
-  line-height: 26px;
-  color: $gray;
-  
-  @media only screen and (max-width: $tablet) {
-    max-width: 100%;
-  }
-}
-
-.subscribe-group-top {
-  display: flex;
-  align-items: center;
-
-  .subscribe-email {
-    position: relative;
-    width: 100%;
-    height: 50px;
-    padding: 15px;
-    font-family: $heading-font-family;
-    font-size: 16px;
-    line-height: 50px;
-    font-weight: 500;
-    color: $dark;
-    background-color: $white;
-    border: 1px solid $gray-lighter;
-    outline: 0;
-    -webkit-appearance: none;
-    box-sizing: border-box;
-    transition: border-color .2s ease-in-out;
-    cursor: text;
-    &::placeholder {
-    font-size: 16px;
-    }
-    &:focus {
-      color: $dark;
-      border-color: $brand-color;
-    }
-  }
-
-  .subscribe-button {
-    margin: 0 0 0 10px;
-    border-radius: 3px;
-  }
-  @media only screen and (max-width: $mobile) {
-    flex-direction: column;
-
-    .subscribe-email {
-      text-align: center;
-    }
-
-    .subscribe-button {
-      width: 100%;
-      margin: 10px 0 0 0;
-    }
-  }
-}
-
 /* Footer */
 .footer {
+  margin-top: 120px;
+
+  .footer__bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+
+    &::after {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      opacity: .7;
+      background: var(--dark);
+    }
+  }
+
+  @media (max-width: $desktop) {
+    margin-top: 80px;
+  }
+}
+
+.footer__inner {
   position: relative;
-  padding: 30px 0;
-  border-top: 1px solid $gray-lighter;
-  background-color: $gray-light;
+  z-index: 1;
+  padding: 100px 0;
+  background-color: var(--dark);
+
+  @media (max-width: $desktop) {
+    padding: 80px 0;
+  }
+}
+
+/* Footer Author */
+.footer__author {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  max-width: 554px;
+  margin: 0 auto;
+  text-align: center;
+  color: var(--light-gray);
+}
+
+.footer__author-name {
+  font-size: 28px;
+  line-height: 1;
+  color: var(--light-gray);
+
+  @media (max-width: $desktop) {
+    margin-bottom: 24px;
+  }
+
+  @media (max-width: $mobile) {
+    font-size: 24px;
+    text-align: center;
+  }
+}
+
+.footer__author-bio {
+  margin-bottom: 0;
+  font-size: 16px;
+  opacity: .8;
+
+  @media (max-width: $desktop) {
+    font-size: inherit;
+  }
+}
+
+.social {
+  margin-bottom: 32px;
+
+  .social__list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .social__list__end {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex-wrap: wrap;
+  }
+
+  .social__item {
+    margin-bottom: 0;
+    margin-right: 12px;
+
+    &:last-child {
+      margin-right: 0;
+    }
+  }
+
+  .social__link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 36px;
+    height: 36px;
+    font-size: 16px;
+    border-radius: 50%;
+    will-change: transform;
+    color: var(--dark);
+    background-color: var(--light-gray);
+    transition: $global-transition;
+
+    &:hover {
+      color: var(--white);
+      background-color: var(--primary-color);
+    }
+  }
+
+  @media (max-width: $desktop) {
+    margin-bottom: 20px;
+  }
+
+  @media (max-width: $mobile) {
+    .social__item {
+      margin-right: 8px;
+    }
+
+    .social__link {
+      width: 40px;
+      height: 40px;
+      font-size: 16px;
+    }
+  }
 }
 
 /* Copyright */
 .copyright {
-  font-family: $heading-font-family;
-  font-size: 16px;
-  font-weight: 600;
+  padding: 40px 0;
+  font-size: 14px;
   text-align: center;
-  color: $gray;
+
+  a {
+    font-weight: 500;
+    color: var(--heading-font-color);
+  }
+
+  @media (max-width: $mobile) {
+    padding: 32px 0;
+  }
 }

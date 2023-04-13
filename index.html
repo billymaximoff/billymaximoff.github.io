@@ -1,24 +1,16 @@
 ---
 layout: default
+image: '/images/01-1.jpg'
 ---
-{% include hero.html %}
 
-<div class="container">
-  <div class="row">
-    <div class="col col-12">
-      <div class="container__inner">
-        <div class="contaniner__inner-box">
-          <div class="row grid">
-            {% if site.posts.size > 0 %}
-              {% for post in paginator.posts %}
-                {% include article-content.html %}
-              {% endfor %}
-            {% endif %}
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
+{% include section-hero.html %}
 
-{% include pagination.html %}
+{% include section-logos.html %}
+
+{% include section-work.html %}
+
+{% include section-own.html %}
+
+{% include section-testimonials.html %}
+
+{% include section-blog.html %}

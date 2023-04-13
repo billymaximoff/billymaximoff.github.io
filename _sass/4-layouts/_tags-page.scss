@@ -1,68 +1,68 @@
-/* Tags Page */
-.archive-box {
-  position: relative;
-  transform: translate(0);
-  margin-bottom: 20px;
-  text-align: center;
-  border-radius: 8px;
-  overflow: hidden;
-  &::before {
-    content: "";
-    display: block;
+/* Tags */
+.tags__inner {
+
+  &.is-hidden {
+    display: none;
+  }
+
+  .tag__info {
+    max-width: 840px;
+    margin: 40px auto 60px;
+    padding-bottom: 60px;
+    text-align: center;
+    border-bottom: 1px solid var(--border-color);
+  }
+
+  .tag__counter {
     position: absolute;
-    top: 0;
-    left: 0;
-    z-index: 1;
-    width: 100%;
-    height: 100%;
-    background: linear-gradient(rgba(0,0,0,0), rgba(53, 53, 53, 0.7));
-  }
-}
-
-.archive-text {
-  position: relative;
-  z-index: 5;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  padding: 8vw 20px;
-  min-height: 280px;
-}
-
-.archive-meta {
-  font-size: 21px;
-  font-weight: 700;
-  color: rgba($white, .8);
-}
-
-.archive-title {
-  margin: 0;
-  font-size: 63px;
-  line-height: 45px;
-  font-weight: 800;
-  color: $white;
-  @media only screen and (max-width: $mobile) {
-    font-size: 43px;
-    line-height: 38px;
-  }
-}
-
-.tag-slider {
-  position: absolute;
-  overflow: hidden;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  div {
-    height: 100%;
+    top: -8px;
+    padding: 4px 10px;
+    font-size: 18px;
+    line-height: 1.2;
+    font-weight: normal;
+    border-radius: 30px;
+    background-color: var(--background-alt-color);
   }
 
-  .tag-slider__item {
-    height: 100%;
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
+  .tag__name {
+    position: relative;
+    margin-bottom: 0;
+    font-size: 62px;
+    text-transform: capitalize;
+  }
+
+  .tag__link {
+    margin-top: 4px;
+    font-size: 21px;
+    color: var(--text-alt-color);
+
+    a {
+      font-weight: 500;
+
+      &:hover {
+        box-shadow: 0 -1px 0 0 var(--primary-color) inset, 0 -2px 0 0 var(--primary-color) inset;
+      }
+    }
+  }
+
+  @media (max-width: $desktop) {
+    .tag__info {
+      margin: 40px auto;
+      padding-bottom: 40px;
+    }
+
+    .tag__name {
+      font-size: 48px;
+    }
+
+    .tag__link {
+      font-size: 18px;
+    }
+  }
+
+  @media (max-width: $mobile) {
+    .tag__name {
+      font-size: 36px;
+    }
   }
 }

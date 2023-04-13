@@ -1,11 +1,12 @@
+/* Grid */
 $columns: 12;
-$container-base-width: 1440px;
-$container-big-width: 1600px;
-$container-offset: 20px;
+$container-base-width: 1300px;
+$container-offset: $base-spacing-unit;
 
-$desktop: 992px;
-$tablet:  768px;
-$mobile:  576px;
+$wide: 1400px;
+$desktop: 1024px;
+$tablet: 768px;
+$mobile: 576px;
 
 $mq: ( $mobile:$columns, $tablet:$columns, $desktop:$columns );
 
@@ -13,14 +14,37 @@ $mq: ( $mobile:$columns, $tablet:$columns, $desktop:$columns );
   max-width: $container-base-width;
   padding-left: $container-offset;
   padding-right: $container-offset;
-  margin: 0 auto;
 }
 
 .container-big {
-  max-width: $container-big-width;
-  padding-left: $container-offset;
-  padding-right: $container-offset;
+  max-width: 100%;
+  padding-left: calc(#{$container-offset} * 2.5);
+  padding-right: calc(#{$container-offset} * 2.5);
+}
+
+.container,
+.container-big {
   margin: 0 auto;
+
+  @media only screen and (max-width: $wide) {
+    max-width: 1000px;
+    padding-left: $container-offset;
+    padding-right: $container-offset;
+  }
+
+  @media only screen and (max-width: $desktop) {
+    max-width: 740px;
+  }
+
+  @media only screen and (max-width: $tablet) {
+    max-width: 560px;
+  }
+
+  @media only screen and (max-width: $mobile) {
+    max-width: 480px;
+    padding-left: calc(#{$container-offset} + 4px);
+    padding-right: calc(#{$container-offset} + 4px);
+  }
 }
 
 .row {
@@ -29,13 +53,13 @@ $mq: ( $mobile:$columns, $tablet:$columns, $desktop:$columns );
   flex: 0 1 auto;
   flex-direction: row;
   box-sizing: border-box;
-  margin-left: (10px * -1);
-  margin-right: (10px * -1);
+  margin-left: ($base-spacing-unit * -1);
+  margin-right: ($base-spacing-unit * -1);
 }
 
 .col {
-  padding-left: 10px;
-  padding-right: 10px;
+  padding-left: $base-spacing-unit;
+  padding-right: $base-spacing-unit;
 }
 
 [class^="col-"] {
@@ -116,7 +140,7 @@ $mq: ( $mobile:$columns, $tablet:$columns, $desktop:$columns );
       .col-m-#{$i} {
         width: percentage( $i / $columns );
       }
-    }  
+    }
 
     @for $i from 0 through $columns {
       .push-m-#{$i} {

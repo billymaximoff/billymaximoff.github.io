@@ -3,51 +3,35 @@
 // *****************
 
 // Spaces
-$base-spacing-unit: 20px;
+$base-spacing-unit: 16px;
+
+// Border radius
+$global-radius: 16px;
 
 // Transition
-$global-transition: all .3s;
-
-
-// *****************
-// Color Variables
-// *****************
-$brand-color: #e74c3c;// #02C4EC;
-$dark: #12111b;
-$blue-dark: #16151f;
-$gray: #6b6a79;
-$gray-light: #f8f8f8;
-$gray-lighter: #eee;
-$gray-lightest: #f1f1f1;
-$white: #fff;
-
-// Body Color
-$text-color: $dark;
-
-// Background Colors
-$background-color: $white;
+$global-transition: all .2s;
 
 
 // *****************
 // Typography
 // *****************
-$base-font-size: 18px;
+$base-font-size: 20px;
 $base-font-style: normal;
 $base-font-variant: normal;
-$base-font-weight: 400;
-$base-font-family: 'Lora', 'Darker Grotesque', 'PT Sans', 'Noto Sans', 'Open Sans', sans-serif;
-$base-line-height: 1.6;
+$base-font-weight: 500;
+$base-font-family: 'Bai Jamjuree', 'Manrope', 'Rubik', Helvetica Neue, Helvetica, Arial, sans-serif;
+$base-line-height: 1.5;
 
 // Headings
-$heading-font-weight: 500;
-$heading-font-family: 'Raleway', 'Darker Grotesque', 'PT Sans', 'Noto Sans', 'Open Sans', sans-serif;
-$heading-color: $text-color;
+$heading-font-weight: 800;
+$heading-font-family: 'Bai Jamjuree', 'Manrope', 'Rubik', Helvetica Neue, Helvetica, Arial, sans-serif;
 
-$font-size-h1:  32px;
-$font-size-h2:  28px;
-$font-size-h3:  24px;
-$font-size-h4:  20px;
-$font-size-h5:  16px;
-$font-size-h6:  14px;
+$font-size-h1: 36px;
+$font-size-h2: 28px;
+$font-size-h3: 24px;
+$font-size-h4: 20px;
+$font-size-h5: 18px;
+$font-size-h6: 16px;
 
-$heading-line-height: 1.5em;
+$heading-line-height: 1.3;
+$heading-letter-spacing: normal;
