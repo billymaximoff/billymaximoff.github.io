@@ -93,12 +93,12 @@ logo__items:
 work:
   enable: true
   work__title: 👨🏻‍💻 Works
-  work__description: I shows only the best websites and portfolios built completely with passion, simplicity & creativity!
+  work__description: I show only the best websites and portfolios built completely with passion, simplicity & creativity!
 
 #-------------------------------
 # Own projects Settings
 own:
-  enable: false
+  enable: true
   own__title: 🎧 Podcasts & Media
   own__description: Here are the Podcasts and Media I've done on my own.
 
@@ -106,7 +106,7 @@ own:
 #-------------------------------
 # Testimonials Section
 testimonials:
-  enable: false
+  enable: true
 
 testimonial__title: 🤼‍♂️ Teammates
 testimonial__description: The colleagues with which I always feel honored to work, once more.
