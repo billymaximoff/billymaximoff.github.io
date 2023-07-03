@@ -1,2 +1,5 @@
-source "https://rubygems.org"
-gem 'github-pages'
+source 'https://rubygems.org'
+gem "bundler"
+gem "jekyll"
+gem "jekyll-paginate"
+gem "jekyll-sitemap"

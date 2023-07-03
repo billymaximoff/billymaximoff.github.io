@@ -1,22 +1,33 @@
 ---
-# Front matter comment to ensure Jekyll properly reads file.
+layout: default
 ---
 
-<!DOCTYPE html>
-<html lang="en-us">
+<div class="container">
+  <div class="page-head">
 
-{% include head.html %}
-
-<body class="subPageBody">
-    <div class="headerBackground subPageHeaderBackground">
-        <div class="container subPageContainer">
-        {% include header.html %}
-            <article class="page markdown-body">
-                {{ content }}
-            </article>
-        </div>
-        {% include appstoreimages.html %}
+    <div class="page-info">
+      <h1 class="page-title">{{ page.title | escape }}</h1>
+      {% if page.description %}
+      <div class="page-description">{{ page.description }}</div>
+      {% endif %}
     </div>
-</body>
 
-</html>
+    {%if page.image %}
+    <div class="page-image">
+      <img class="lazy" data-src="{{site.baseurl}}{{page.image}}" alt="{{page.title}}">
+    </div>
+    {% if page.image_caption %}
+    <div class="page-image-caption">{{ page.image_caption | markdownify | replace: '<p>' | replace: '</p>' }}</div>
+    {% endif %}
+    {%endif %}
+
+  </div>
+</div>
+
+<!-- begin page -->
+<div class="container animate">
+  <article class="page">
+    {{ content }}
+  </article>
+</div>
+<!-- end page -->
