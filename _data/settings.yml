@@ -2,7 +2,7 @@
 # Site Settings
 title: Hoàng Đăng's World - thedangw
 logo: '/images/logo.png' # You can add own logo. For example '/images/logo.png'.
-description: Hi, mình là Hoàng Đăng \ Wilson. Mình thích công nghệ, du lịch và chém gió với bạn bè. Hiện tại mình đang làm Quản lý, Phát triển Sản phẩm - Product Management ở Sài Gòn. Blog này là nơi mình viết những thứ linh tinh về cuộc sống & công việc. Hy vọng có thể cùng anh em ‘chill’ thật lâu. Thanks for your interest. Uppp. 🙌🏻
+description: Hi, mình là Hoàng Đăng \ Wilson. Mình thích công nghệ, du lịch và chém gió với bạn bè. Hiện tại mình đang làm Quản lý, Phát triển Sản phẩm - Product Management ở Sài Gòn. Blog này là nơi mình viết những thứ linh tinh về cuộc sống & công việc. Hy vọng có thể cùng anh em ‘chill’ thật lâu. Thanks for your interest. Uppp. 🦾
 color_scheme: light # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
@@ -54,8 +54,8 @@ social:
 # Hero Settings
 hero:
   enable: true
-  hero__title: Hoàng Đăng., Product-lover 🦾
-  hero__description: "Hi, mình là Hoàng Đăng / Wilson. Mình thích công nghệ, du lịch và cà phê chém gió với bạn bè. Blog này là nơi mình viết những thứ linh tinh về cuộc sống & công việc. Hy vọng có thể cùng anh em 'chill' thật lâu. Thanks for your interest. Uppp. 🙌🏻"
+  hero__title: Hoàng Đăng., Product-lover 🧡
+  hero__description: "Hi, mình là Hoàng Đăng / Wilson. Mình thích công nghệ, du lịch và cà phê chém gió với bạn bè. Blog này là nơi mình viết những thứ linh tinh về cuộc sống & công việc. Hy vọng có thể cùng anh em 'chill' thật lâu. Thanks for your interest. Uppp. 🦾"
   
   hero__image: "https://cdn.dribbble.com/users/1552574/screenshots/10770649/media/0b837a44af136d2f907ea84eb8a025cf.jpg?compress=1&resize=800x600&vertical=top"
 
