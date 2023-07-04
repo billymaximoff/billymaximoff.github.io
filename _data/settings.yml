@@ -2,7 +2,7 @@
 # Site Settings
 title: Hoàng Đăng's World - thedangw
 logo: '/images/logo.png' # You can add own logo. For example '/images/logo.png'.
-description: Hi, mình là Hoàng Đăng \ Wilson. Mình thích công nghệ, du lịch và chém gió với bạn bè. Hiện tại mình đang làm Quản lý, Phát triển Sản phẩm - Product Management ở Sài Gòn. Blog này là nơi mình viết những thứ linh tinh về cuộc sống & công việc. Hy vọng có thể cùng anh em ‘chill’ thật lâu. Thanks for your interest. Uppp. 🦾
+description: Hi, mình là Hoàng Đăng \ Wilson. Mình thích công nghệ, du lịch và chém gió với bạn bè. Hiện tại mình đang làm Quản lý, Phát triển Sản phẩm - Product Management ở Sài Gòn. Blog này là nơi mình viết những thứ linh tinh về cuộc sống & công việc. Hy vọng có thể connect cùng anh em. Thanks for your interest. Uppp. 🦾
 color_scheme: light # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
@@ -36,14 +36,14 @@ menu__settings:
 # Author Settings
 author:
   author__name: Hoàng Đăng \ Wilson D.
-  author__bio: Hi, mình là Hoàng Đăng \ Wilson. Mình thích công nghệ, du lịch và chém gió với bạn bè. Hiện tại mình đang làm Quản lý, Phát triển Sản phẩm - Product Management ở Sài Gòn. Blog này là nơi mình viết những thứ linh tinh về cuộc sống & công việc. Hy vọng có thể cùng anh em 'chill' thật lâu. Thanks for your interest. Uppp. 🦾
+  author__bio: Hi, mình là Hoàng Đăng \ Wilson. Mình thích công nghệ, du lịch và chém gió với bạn bè. Hiện tại mình đang làm Quản lý, Phát triển Sản phẩm - Product Management ở Sài Gòn. Blog này là nơi mình viết những thứ linh tinh về cuộc sống & công việc. Hy vọng có thể connect cùng anh em thật lâu. Thanks for your interest. Uppp. 🦾
   author__avatar: '/images/avatar.jpeg'
 
 social:
 - {icon: "ion-logo-google", link: "mailto:hoangdang.ux@gmail.com"}
 - {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/hoangdang91/"}
 - {icon: "ion-logo-tumblr", link: "https://t.me/wilsontdw"}
-- {icon: "ion-logo-instagram", link: "https://www.instagram.com/bl___ank.sg/"}
+- {icon: "ion-logo-instagram", link: "https://www.instagram.com/thedangw___/"}
 #- {icon: "ion-logo-facebook", link: "https://m.me/hoanglight.98"}
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
@@ -54,8 +54,8 @@ social:
 # Hero Settings
 hero:
   enable: true
-  hero__title: Hoàng Đăng., Product-lover 🧡
-  hero__description: "Hi, mình là Hoàng Đăng / Wilson. Mình thích công nghệ, du lịch và cà phê chém gió với bạn bè. Blog này là nơi mình viết những thứ linh tinh về cuộc sống & công việc. Hy vọng có thể cùng anh em 'chill' thật lâu. Thanks for your interest. Uppp. 🦾"
+  hero__title: Hoàng Đăng., Product-lover 🦾
+  hero__description: "Hi, mình là Hoàng Đăng / Wilson. Mình thích công nghệ, du lịch và cà phê chém gió với bạn bè. Blog này là nơi mình viết những thứ linh tinh về cuộc sống & công việc. Hy vọng có thể connect cùng anh em thật lâu. Thanks for your interest. Uppp. 🙌🏻"
   
   hero__image: "https://cdn.dribbble.com/users/1552574/screenshots/10770649/media/0b837a44af136d2f907ea84eb8a025cf.jpg?compress=1&resize=800x600&vertical=top"
 
@@ -93,8 +93,7 @@ logo__items:
 work:
   enable: true
   work__title: 👨🏻‍💻 Works
-  work__description: I shows only the best websites and portfolios built completely with passion, simplicity & creativity!
-
+  work__description: Explore an exquisite assortment of meticulously crafted products, jointly built by me and my teams, showcasing a captivating blend of passion, simplicity, and limitless creativity.
 #-------------------------------
 # Own projects Settings
 own:
@@ -109,7 +108,7 @@ testimonials:
   enable: false
 
 testimonial__title: 🤼‍♂️ Teammates
-testimonial__description: The colleagues with which I always feel honored to work, once more.
+testimonial__description: The colleagues I always feel honored to work with, once more.
 
 testimonial__items:
   - name: "Ry Nguyễn"
