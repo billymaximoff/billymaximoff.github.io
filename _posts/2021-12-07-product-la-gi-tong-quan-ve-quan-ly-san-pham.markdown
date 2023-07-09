@@ -41,7 +41,7 @@ Hiện tại, có rất nhiều định nghĩa, quan điểm và trường phái
 
 Việc tạo ra một sản phẩm bao gồm một loạt các hoạt động, bao gồm nghiên cứu thị trường, thiết kế sản phẩm, phát triển, kiểm thử, vận hành, triển khai… nhằm đáp ứng nhu cầu của khách hàng và thúc đẩy sự phát triển kinh doanh. Toàn bộ quá trình này được gọi là Quản lý Sản phẩm - Product Management.
 
-### Nội dung chia sẻ dưới đây (và cả trong blog này) là góc nhìn cá nhân của mình đúc kết được sau gần 10 năm trong ngành. Với mình, nó là nền tảng và sử dụng xuyên suốt trong quá trình làm việc, từ xây dựng career path, build team, phỏng vấn, đánh giá,... Các bài viết liên quan về sau nếu có, sẽ dựa một phần vào quan điểm này. 
+#### Nội dung chia sẻ dưới đây (và cả trong blog này) là góc nhìn cá nhân của mình đúc kết được sau gần 10 năm trong ngành. Với mình, nó là nền tảng và sử dụng xuyên suốt trong quá trình làm việc, từ xây dựng career path, build team, phỏng vấn, đánh giá,... Các bài viết liên quan về sau nếu có, sẽ dựa một phần vào quan điểm này. 
 
 Dựa vào tính chất, kỹ năng và stakeholders liên quan, Product Management có thể chia thành 3 phần:
 - **Product Development / Build**: Phát triển Sản phẩm
