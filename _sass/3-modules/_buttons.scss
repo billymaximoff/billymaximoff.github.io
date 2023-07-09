@@ -11,7 +11,8 @@
   cursor: pointer;
   transition: all .2s;
   will-change: transform;
-  color: var(--dark);
+  color: var(--white);
+  /* color: var(--dark); */
   background-color: var(--primary-color);
 
   &:hover {
