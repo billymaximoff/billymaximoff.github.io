@@ -50,10 +50,12 @@ Say **'HI'** to the world: <b>thedangw</b> ✌🏻
 <br>
 
 # __Thanks for your interest!__
-If you need to discuss, you can reach me via <b>Email</b>, message me via <b>Telegram</b>, or via the links at the bottom of the page to have a chat about Product Development & Management,... or even just a casual coffee talk about anything.
+If you need to discuss, you can reach me via <b>[Email](mailto:hoangdang.ux@gmail.com)</b>, message me via <b>[Telegram](https://t.me/wilsontdw)</b>, or via the links at the bottom of the page to have a chat about Product Development & Management,... or even just a casual coffee talk about anything.
 
 'Stay connected' and 'chill'. Uppp. 🦾
 <br>
+
+___
 
 <b>Disclaimer.</b>
 
