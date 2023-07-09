@@ -93,7 +93,7 @@ logo__items:
 work:
   enable: true
   work__title: 👨🏻‍💻 Works
-  work__description: Showing only the best products built completely with passion, simplicity & creativity with my teams. 
+  work__description: Showing only the best products built completely with passion, simplicity & creativity with my teams. 🪴
 #-------------------------------
 # Own projects Settings
 own:
@@ -138,7 +138,7 @@ blog:
 
 blog__settings:
   blog__title: 🎒 Writing
-  blog__description: I'm not a blogger, but here you can find a few things I thought deserved to be written down.
+  blog__description: I'm not a blogger, but here you can find a few things I thought deserved to be written down. ✏️
 
 
 #-------------------------------

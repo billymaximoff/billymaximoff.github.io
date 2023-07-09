@@ -59,7 +59,7 @@ ___
 
 <b>Disclaimer.</b>
 
-- Due to work habits and sometimes the inability to fully express the meaning of certain words in Vietnamese, I kindly ask for permission to use English intermittently. Please understand. Thanks.
+- Due to work habits and sometimes the inability to fully express the meaning of certain words in Vietnamese, I kindly inform that I'm using English intermittently with Vietnamese. Please understand. Thanks.
 - Some terms used in the blog are borrowed from the Agile/Scrum framework.
 
 Source: *Thumbnail: Unsplash; Footer image: Dribbble*
