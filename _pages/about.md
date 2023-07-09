@@ -3,7 +3,7 @@ layout: page
 title: About me
 description: Hi, I'm Hoàng Đăng \ Wilson. With nearly 10 years of experience in the field, I’m a proud Product-lover, aim to create a top-of-mind product for Vietnamese people. 🇻🇳
 permalink: /about/
-image: 'https://images.unsplash.com/photo-1517842264405-72bb906a1936?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80'
+image: 'https://pbs.twimg.com/media/F0k5CS_aMAAo2Tv?format=jpg&name=medium'
 ---
 
 **[This post is also available in English](/about-eng).**
@@ -37,19 +37,19 @@ Vậy nên, mình không mơ mộng những điều lớn lao. Page này đơn g
   
 # __'thedangw' là gì?__
 
-![chillinthebl___ank](https://pbs.twimg.com/media/FsaE66SaIAEug5D?format=jpg&name=medium#wide)
+![chillinthebl___ank](https://pbs.twimg.com/media/F0k7JPRaEAAAGL7?format=jpg&name=large#wide)
 <em>Chill in the bl___ank / <a href="https://instagram.com/bl___ank.sg/" target="_blank">Hoàng Đăng @ Ladakh</a></em>
 <br>
 Thực ra, lúc chọn tên blog & tên miền để đăng ký thì mình cũng nghĩ ra nhiều options lắm - chắc bạn nào từng bắt đầu blog hay mới tạo website, fanpage, account Tik Tok, Instagram riêng cũng đã/sẽ như mình, research ra 8000 cái tên. Nhưng cái thì chả có gì hay ho, cái hay ho thì bị... đăng ký mất rồi. 🥲
 
 → Cơ mà trau chuốt quá để mà làm gì. Sản phẩm quan trọng nhất là live, đến tay người dùng, rồi thì nhận feedback rồi lại improve đúng không? Vậy nên, chốt lại, kẻ được chọn là: **thedangw** = the + Đăng (tên mình) + w (world, hoặc with something/someone, cause I wanna all of you become apart of this blog). Có gì hay hơn thì update sau nhé.
 
-Say hi to the world: <b>thedangw</b>
+Say **'HI'** to the world: <b>thedangw</b> ✌🏻
 
 <br>
 
 # __Thanks for your interest!__
-Nếu cần trao đổi, anh em có thể [Email](mailto:hoangdang.ux@gmail.com) hoặc inbox cho mình qua [Telegram](https://t.me/wilsontdw) để chém gió cùng mình về công việc Quản lý, Phát triển sản phẩm \ Product Management,... hay thậm chí là cà phê tán gẫu về bất cứ thứ gì.
+Nếu cần trao đổi, anh em có thể <b>[Email](mailto:hoangdang.ux@gmail.com)</b> hoặc inbox cho mình qua <b>[Telegram](https://t.me/wilsontdw)</b> hoặc các kênh ở cuối trang để chém gió cùng mình về công việc Quản lý, Phát triển sản phẩm \ Product Management,... hay thậm chí là cà phê tán gẫu về bất cứ thứ gì.
 
 'Stay connected'_ & _'chill'_. Uppp. 🦾  
 <br>
@@ -60,4 +60,4 @@ ___
 - Vì thói quen công việc và đôi khi có những từ không thể tìm được từ tiếng Việt diễn đạt được trọn vẹn ý nghĩa của câu chữ nên mình xin phép dùng tiếng Anh xen kẽ. Anh em thông cảm nhé. Thanks .
 - Một số thuật ngữ được sử dụng trong blog được mượn từ mô hình Agile / Scrum
 
-_Source: *Thumbnail: Unsplash; Footer image: Dribbble*
+Source: *Thumbnail: Unsplash; Footer image: Dribbble*
