@@ -8,15 +8,12 @@ image_caption: 'Product / Unsplash'
 tags:   [product 101, product basement]
 ---
 
-**[This post is also available in English.](/blog/en/what-is-product-an-introduction-to-product-development)**
+Như mention ở **[bio](/about)**, công việc chính của mình là Quản lý và Phát triển Sản phẩm - Product Management. Với những anh em đang làm trong ngành công nghệ, chắc hẳn công việc này không mới hay lạ lẫm. Với người ngoài ngành thì rất khác, không ít lần, mình nhận được câu hỏi từ gia đình, bạn bè hoặc đối tác không làm trong ngành công nghệ về công việc Sản phẩm / Product và những thuật ngữ tưởng chừng cơ bản - nhưng lại cực kỳ xa lạ và khó hiểu với họ.
 
-Như mention ở **[bio](/about)**, công việc chính của mình là Quản lý và Phát triển Sản phẩm - Product Management. Với những anh em đang làm trong ngành công nghệ, chắc hẳn công việc này không mới hay lạ lẫm. Nhưng với người ngoài ngành thì rất khác, không ít lần, mình nhận được câu hỏi từ gia đình, bạn bè hoặc đối tác không làm trong ngành công nghệ về công việc Sản phẩm / Product và những thuật ngữ tưởng chừng cơ bản - nhưng khó hiểu với họ.
+Ví như, trong thuật ngữ của ngành Luật, 'tội phạm' là từ chỉ hành động chứ không phải chỉ người; 'người làm chứng' khác với 'người chứng kiến'; 'đầu thú' khác với 'tự thú',... Còn trong thuật ngữ ngành Y, 'chief/present complaint' là 'lý do nhập viện/khai bệnh', 'culture' không phải là 'văn hóa' mà là 'nuôi cấy một nhóm vi khuẩn để phục vụ cho nghiên cứu y tế và khoa học',... Rõ ràng với những ai đang công tác trong ngành trên thì mấy từ này quá là dễ như kem bơ 🥑, còn chúng ta thì chịu thua đúng không?
 
-Ví như, trong thuật ngữ của ngành Luật, 'tội phạm' là từ chỉ hành động chứ không phải chỉ người; 'người làm chứng' khác với 'người chứng kiến'; 'đầu thú' khác với 'tự thú',... Còn trong thuật ngữ ngành Y, 'chief/present complaint' là 'lý do nhập viện/khai bệnh', 'culture' không phải là 'văn hóa' mà là 'nuôi cấy một nhóm vi khuẩn để phục vụ cho nghiên cứu y tế và khoa học',... 
+Vậy nên post này sẽ đi từ những thức rất cơ bản dành cho những bạn ngoài ngành, lần đầu tiên tiếp xúc hoặc mong muốn gia nhập, tìm hiểu về công việc Product. Những bạn đã hiểu sâu, kỹ có thể bỏ qua.
 
-Vậy nên post này sẽ dành cho những bạn ngoài ngành, lần đầu tiên tiếp xúc hoặc mong muốn gia nhập, tìm hiểu về công việc Product. 
-
-#### Nội dung chia sẻ dưới đây (và cả trong blog này) là góc nhìn cá nhân của mình đúc kết được sau gần 10 năm trong ngành. Với mình, nó là nền tảng và sử dụng xuyên suốt trong quá trình làm việc, từ xây dựng career path, build team, phỏng vấn, đánh giá,... Các bài viết liên quan về sau nếu có, sẽ dựa một phần vào quan điểm này. 
 
 ## Product là gì?
 
@@ -42,8 +39,9 @@ Trong phạm vi của bài viết & blog này, product được đề cập là 
 
 Hiện tại, có rất nhiều định nghĩa, quan điểm và trường phái khác nhau về công việc Product Management nói chung và vị trí Product nói riêng. Các bạn có thể tìm hiểu thêm ở các bài viết trên các nền tảng như Medium, hoặc từ các công ty lớn trong ngành như Google, Facebook,...
 
-
 Việc tạo ra một sản phẩm bao gồm một loạt các hoạt động, bao gồm nghiên cứu thị trường, thiết kế sản phẩm, phát triển, kiểm thử, vận hành, triển khai… nhằm đáp ứng nhu cầu của khách hàng và thúc đẩy sự phát triển kinh doanh. Toàn bộ quá trình này được gọi là Quản lý Sản phẩm - Product Management.
+
+### Nội dung chia sẻ dưới đây (và cả trong blog này) là góc nhìn cá nhân của mình đúc kết được sau gần 10 năm trong ngành. Với mình, nó là nền tảng và sử dụng xuyên suốt trong quá trình làm việc, từ xây dựng career path, build team, phỏng vấn, đánh giá,... Các bài viết liên quan về sau nếu có, sẽ dựa một phần vào quan điểm này. 
 
 Dựa vào tính chất, kỹ năng và stakeholders liên quan, Product Management có thể chia thành 3 phần:
 - **Product Development / Build**: Phát triển Sản phẩm
