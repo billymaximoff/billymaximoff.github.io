@@ -29,9 +29,9 @@ Once, talking to an 'industry-bro', we suddenly realized that without working to
     <em>Text vs. Video / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
   </div>
 
-In an era where there are 5 people creating content per square meter (lol) 😂 (they are all also very creative and professional), + many social & multi-media platforms, it is clear that people prefer 'surfing' videos on Tiktok, Youtube, ... or photos on Instagram rather than sitting down to read a page full of words like this.
+In an era where there are 5 content creators per square meter (lol) 😂 (they are all also very creative and professional), + many social & multi-media platforms, it is clear that people prefer 'surfing' videos on Tiktok, Youtube, ... or photos on Instagram rather than sitting down to read a page full of words like this.
 
-So, I am not dreaming of big things. This blog is simply a place to write down what I know and experience in my work, the knowledge I gather from everywhere and apply, including miscellaneous things in my daily life. It's both to keep a record and to look back later and see how I have changed, and most importantly, to 'open the funnel', 'add touch points', have 'retro' & discuss with all of you to make everything more multidimensional. I also get to learn more, fix many bugs, continuously upgrade, and release newer, cooler versions of myself. I hope this page can help you to some extent. 🙌🏻
+So, I am not dreaming of big things. This blog is simply a place to write down what I know and experience in my work, the knowledge I gather from everywhere and apply, including miscellaneous things in my daily life. In simple terms, it is a wordier version of my Facebook. It's both to keep a record, to look back later, see how I have changed, and most importantly, to 'open the funnel', 'add touch points', have 'retro' & discuss with all of you to make everything more multidimensional. I also get to learn more, fix many bugs, continuously upgrade, and release newer, cooler versions of myself. 🙌🏻
 
 <br>
 <br>
@@ -43,14 +43,14 @@ So, I am not dreaming of big things. This blog is simply a place to write down w
 <br>
 Actually, when choosing the name for my blog and domain registration, I had many options in mind - I'm sure anyone who has started a blog or created their own website, fan page, TikTok account, or personal Instagram,... has gone through or will go through the same process, researching about 8000 names. But either they weren't anything special, or the good ones were already taken. 🥲
 
-→ But why bother perfecting it? The most important thing is product go-to-market, reach the users, receive feedback, and then improve, right? So, in short, the chosen one is: **thedangw** = the + Đăng (my name) + w (world, or with something/someone because I want all of you become a part of this blog). If there's something better, I'll update it later.
+→ But why bother perfecting it? The most important thing is product go-to-market, reaching the users, receiving feedback, and then improving, right? So, in short, the chosen one is: **thedangw** = the + Đăng (my name) + w (world, or with something/someone because I want all of you become a part of this blog). If there's something better, I'll update it later.
 
 Say **'HI'** to the world: <b>thedangw</b> ✌🏻
 
 <br>
 
 # __Thanks for your interest!__
-If you need to discuss, you can reach me via <b>Email</b> or message me via <b>Telegram</b>, or through the channels at the bottom of the page to have a chat about Product Development, Product Management,... or even just a casual coffee talk about anything.
+If you need to discuss, you can reach me via <b>Email</b>, message me via <b>Telegram</b>, or via the links at the bottom of the page to have a chat about Product Development & Management,... or even just a casual coffee talk about anything.
 
 'Stay connected' and 'chill'. Uppp. 🦾
 <br>
