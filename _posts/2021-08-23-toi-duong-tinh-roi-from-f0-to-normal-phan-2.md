@@ -10,7 +10,7 @@ tags:   [health, tips, product]
 Đã 1 tuần trôi qua, và như đã hẹn ở **[bài trước](/blog/toi-duong-tinh-roi-from-f0-to-normal-phan-1)**, mình tiếp tục share mọi người về trải nghiệm & những tips mình đã rút ra được khi chăm F0 tại nhà nhé.
 
 **[Phần 1.](/blog/toi-duong-tinh-roi-from-f0-to-normal-phan-1)** <br>
-- Disclaimer - Lưu ý
+- Khuyến cáo & Lưu ý
 - F0 rồi - Giờ phải làm sao?
 - F0 Journey
      - Giai đoạn 1. Có nghi ngờ nhiễm bệnh
@@ -25,7 +25,7 @@ tags:   [health, tips, product]
 - [Gợi ý & Đề xuất](#part4)
 
 
-# Disclaimer - Lưu ý 
+# Khuyến cáo & Lưu ý 
 (Điều quan trọng nên nhắc lại thêm lần nữa).
 
 > - Nội dung chia sẻ tập trung vào phương pháp xử lý và chuẩn bị cho các tình huống có thể xảy ra. Nội dung này không thay thế các hướng dẫn chính thức của cơ quan y tế.
