@@ -51,7 +51,7 @@ But why fuss over it? The most important product is the live version that reache
 <br>
 
 # __Thanks for your interest!__
-If you need to discuss, feel free to contact me via [Email](mailto:hoangdang.ux@gmail.com) or inbox me via [Telegram](https://t.me/wilsontdw) to chat with me about Product Management, or even have a coffee chat about anything.
+If you need to discuss, feel free to contact me via [Email](mailto:hoangdang.ux@gmail.com) or inbox me via [Telegram](https://t.me/thedangw) to chat with me about Product Management, or even have a coffee chat about anything.
 
 'Stay connected'_ & _'chill'_. Uppp. 🦾  
 <br>
