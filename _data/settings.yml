@@ -150,7 +150,7 @@ footer__background__image: "https://cdn.dribbble.com/users/31232/screenshots/541
 # Contact Settings
 contact:
   email:  # Formspree (https://formspree.io/) form id
-  description: Nếu cần trao đổi về công việc - Quản lý, Phát triển Sản phẩm - Product Management hay đơn giản là 'chém gió về chuyện ngành', sở thích,... anh em có thể email hoặc nhắn tin cho mình. Contact mình đặt ở Home & cuối trang. Thanks. 🤟🏻
+  description: Nếu cần trao đổi về công việc - Quản lý, Phát triển Sản phẩm - Product Management hay đơn giản là 'chém gió về chuyện ngành', sở thích,... anh em có thể liên hệ với mình qua các kênh bên dưới nhé. // If you are seeking a partner for Product Management, User Experience,... or just want to coffee talk about the above fields, do not hesitate to contact me. I would love to stay connected with you. Thanks. 🤟🏻
 
 # email: wilson.citb@gmail.com # Add your email for contact form
 # description: Nếu cần trao đổi về công việc - Quản lý, Phát triển Sản phẩm - Product Management hay chém gió, anh em có thể email hoặc nhắn tin cho mình qua Telegram. Contact mình đặt ở Home & cuối trang. # Add a description of your form
