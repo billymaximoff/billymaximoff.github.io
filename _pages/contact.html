@@ -11,6 +11,31 @@ image: 'https://images.unsplash.com/photo-1559030623-0226b1241edd?ixid=MnwxMjA3f
     <p class="contact-description">{{site.data.settings.contact.description}}</p>
     {% endif %}
   </div>
+  
+  <ul>
+    <li>
+      <i class="ion-logo-google"></i>
+      <a href="mailto:hoangdang.ux@gmail.com">Email</a>
+    </li>
+    <li>
+      <i class="ion-logo-linkedin"></i>
+      <a href="https://www.linkedin.com/in/hoangdang91/">Linkedin</a>
+    </li>
+    <li>
+      <i class="ion-logo-tumblr"></i>
+      <a href="https://t.me/wilsontdw">Telegram</a>
+    </li>
+    <li>
+      <i class="ion-logo-instagram"></i>
+      <a href="https://www.instagram.com/the.dangw___/">Instagram</a>
+    </li>
+    <li>
+      <i class="ion-logo-ionic"></i>
+      <a href="https://www.meetup.com/ProductTank-Ho-Chi-Minh/">ProductTank HCMC</a>
+    </li>
+  </ul>
+  
+  
   <form class="form" action="{% if site.data.settings.contact.email %}https://formspree.io/f/{{site.data.settings.contact.email}}{% else %}#{% endif %}" method="POST">
     <div class="form__group">
       <label class="form__label screen-reader-text" for="form-name">Your Name</label>
