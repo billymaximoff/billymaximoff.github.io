@@ -8,6 +8,8 @@ image_caption: 'GamiX, by Hoàng Đăng'
 tags:   [gamix, product, teamwork]
 ---
 
+**Bài dự thi 'Môi trường làm việc vui nhất' - One Mount's Birthday 2021**
+
 Đã bao giờ quí dị mở app VinID và đặt câu hỏi ‘thế lực’ nào đứng sau, bao thâu toàn bộ hoạt động may rủi, casino, lô tô, trả thưởng. Đã bao giờ ‘quí dị’ tham gia các chương trình nội bộ của tập đoàn, công ty và thắc mắc, kẻ nào đứng trong bóng đêm phát lượt lắc, phát quà cho mình? Hôm nay, tui sẽ bật mí cho quí dị nghe những gì cộng đồng mạng chưa biết về team Gami này. ‘Quí dị’ sẵn sàng nghe tui ‘vạch trần’ coi tụi nó là ai nha.
 
 
@@ -106,7 +108,7 @@ Tui luôn dặn tụi nhỏ từ ngày đầu tiên, là build team sản phẩm
 
 Quí dị coi tới đây nhớ để cho tụi nhỏ 1 like, share, subscribe và comment động viên nghen.
 
-Để kết thúc buổi livestream bóc trần sự thật hôm nay, tui cũng kính mời quí dị và cộng đồng mạng cùng xem một sản phẩm bi-hài-kịch của tụi nhỏ nhân dịp kết thúc năm cũ đã được tổ chức liveshow hoành tráng với nhiều nụ cười và nước mắt. Vở kịch đã được công chiếu vào đầu năm nay ở đây - [Reply 2020 - Nhìn lại một năm đã qua của Gami Team](/blog/gami-reply-20).
+Để kết thúc buổi livestream bóc trần sự thật hôm nay, tui cũng kính mời quí dị và cộng đồng mạng cùng xem một sản phẩm bi-hài-kịch của tụi nhỏ nhân dịp kết thúc năm cũ đã được tổ chức liveshow hoành tráng với nhiều nụ cười và nước mắt. Vở kịch đã được công chiếu vào đầu năm nay ở đây - **[Reply 2020 - Nhìn lại một năm đã qua của Gami Team](/blog/gami-reply-20)**.
 
 Thay mặt tụi nhỏ, cảm ơn quí dị.
 
