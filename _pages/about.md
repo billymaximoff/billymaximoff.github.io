@@ -57,7 +57,7 @@ Nếu cần trao đổi, anh em có thể <b>[Email](mailto:hoangdang.ux@gmail.c
 ___
 
 <b>Disclaimer.</b>
-- Vì thói quen công việc và đôi khi có những từ không thể tìm được từ tiếng Việt diễn đạt được trọn vẹn ý nghĩa của câu chữ nên mình xin phép dùng tiếng Anh xen kẽ. Anh em thông cảm nhé. Thanks .
-- Một số thuật ngữ được sử dụng trong blog được mượn từ mô hình Agile / Scrum
+- Vì thói quen công việc và đôi khi có những từ không thể tìm được từ tiếng Việt diễn đạt được trọn vẹn ý nghĩa của câu chữ nên mình xin phép dùng tiếng Anh xen kẽ. Anh em thông cảm nhé. Thanks.
+- Một số thuật ngữ được sử dụng trong blog được mượn từ mô hình Agile / Scrum.
 
 Source: *Thumbnail: Unsplash; Footer image: Dribbble*
