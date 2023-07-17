@@ -10,7 +10,7 @@ tags:   [gamix, product, teamwork]
 
 **Bài dự thi 'Môi trường làm việc vui nhất' - One Mount's Birthday 2021**
 
-Đã bao giờ quí dị mở app VinID và đặt câu hỏi ‘thế lực’ nào đứng sau, bao thâu toàn bộ hoạt động may rủi, casino, lô tô, trả thưởng. Đã bao giờ ‘quí dị’ tham gia các chương trình nội bộ của tập đoàn, công ty và thắc mắc, kẻ nào đứng trong bóng đêm phát lượt lắc, phát quà cho mình? Hôm nay, tui sẽ bật mí cho quí dị nghe những gì cộng đồng mạng chưa biết về team Gami này. ‘Quí dị’ sẵn sàng nghe tui ‘vạch trần’ coi tụi nó là ai nha.
+Đã bao giờ quí dị mở app VinID và đặt câu hỏi ‘thế lực’ nào đứng sau, bao thâu toàn bộ hoạt động may rủi, casino, lô tô, trả thưởng. Đã bao giờ ‘quí dị’ tham gia các chương trình nội bộ của tập đoàn, công ty và thắc mắc, kẻ nào đứng trong bóng đêm phát lượt lắc, phát quà cho mình? Hôm nay, tui sẽ bật mí cho quí dị nghe những gì cộng đồng mạng chưa biết về team Gami này. ‘Quí dị’ sẵn sàng nghe tui ‘vạch trần’ coi tụi nó là ai nha. 😎
 
 
 ## GamiX - là ai ta? Quen không? <a name="part1"></a>
@@ -36,10 +36,10 @@ Tụi nhỏ team này quậy lắm, giỡn hớt suốt ngày. Tui hỏi làm g�
 > <cite>- Trích **Cuộc phỏng vấn vội vàng với các cháu GamiX**</cite>
 <br>
 
-Nói vậy thôi chứ tụi con vui là vì mấy cái này nè!
+Nói vậy thôi chứ tụi con vui là vì mấy cái này nè! 👇🏻
 
 ### Vui vì làm sản phẩm vui
-Liên tục ra mắt những hoạt động, trò chơi tương tác, vui vẻ cho khách hàng & cả chính anh chị em trong công ty tham gia. Ngày nào cũng chơi xổ số, làm game lấy gì không vui. Mọi người đừng quên Town Hall Tháng 9 này sẽ có phần trò chơi có thưởng mừng Sinh nhật Tập đoàn cùng team GamiX. 
+Liên tục ra mắt những hoạt động, trò chơi tương tác, vui vẻ cho khách hàng & cả chính anh chị em trong công ty tham gia. Ngày nào cũng chơi xổ số, làm game lấy gì không vui. Mọi người đừng quên Town Hall Tháng 9 này sẽ có phần trò chơi có thưởng mừng Sinh nhật Tập đoàn cùng team GamiX. 🤩
 
 <div class="gallery-box">
   <div class="gallery">
@@ -49,7 +49,7 @@ Liên tục ra mắt những hoạt động, trò chơi tương tác, vui vẻ c
 </div>
 
 ### Vui vì làm việc vui
-Tất nhiên rồi, làm sao mà làm sản phẩm cho khách vui mà mình không vui được. Vậy nên tụi nhỏ kiếm chuyện bày trò quài. Update task được quay xổ số, work from home, họp mà nhớ thông tin cũng có quà, lâu lâu còn được voucher ăn uống miễn phí nữa. Coi nè. 
+Tất nhiên rồi, làm sao mà làm sản phẩm cho khách vui mà mình không vui được. Vậy nên tụi nhỏ kiếm chuyện bày trò quài. Update task được quay xổ số, work from home, họp mà nhớ thông tin cũng có quà, lâu lâu còn được voucher ăn uống miễn phí nữa. Coi nè. 🥳
 
 <div class="gallery-box">
   <div class="gallery">
@@ -65,9 +65,9 @@ Tất nhiên rồi, làm sao mà làm sản phẩm cho khách vui mà mình khô
 </div>
 
 ### Vui vì tạo ra giá trị cho người dùng và tổ chức
-Nhưng mà vui gì thì vui, giỡn cho cố mà không ra kết quả thì cũng thành vui xàm, vui nhảm thôi. Và đây cũng là những gì tụi nhỏ đã làm được, chưa quá hoành tráng nhưng mà tui cũng tự hào với vui lây.
+Nhưng mà vui gì thì vui, giỡn cho cố mà không ra kết quả thì cũng thành vui xàm, vui nhảm thôi. Và đây cũng là những gì tụi nhỏ đã làm được, chưa quá hoành tráng nhưng mà tui cũng tự hào với vui lây. 😌
 
-*Note. Các số liệu bị censored vì điều khoản và quy định bảo mật. Để xem bản full, hãy gia nhập cùng chúng tôi.*
+*Note. Các số liệu bị censored vì điều khoản và quy định bảo mật. Để xem bản full, hãy gia nhập team cùng tụi nhỏ để coi nhen.*
 
 <div class="gallery-box">
   <div class="gallery">
@@ -77,9 +77,9 @@ Nhưng mà vui gì thì vui, giỡn cho cố mà không ra kết quả thì cũn
 </div>
 
 ### Vui vì khách hàng phản hồi tích cực
-Ai mà chả thích được khen đúng không quí dị? Tui có nhờ ê-kíp tổng hợp lại mấy cái lời khen về cho tụi nhỏ làm động lực. Này là tui lấy đại diện thôi nha, mấy người khen người ta dặn tui không được để lộ danh tính nên tui không đưa lên hết, chứ nhiều lắm.
+Ai mà chả thích được khen đúng không quí dị? Tui có nhờ ê-kíp tổng hợp lại mấy cái lời khen về cho tụi nhỏ làm động lực. Này là tui lấy đại diện thôi nha, mấy người khen người ta dặn tui không được để lộ danh tính nên tui không đưa lên hết, chứ nhiều lắm. 😘
 
-*Note. Tên & hình ảnh khách hàng đã được chấp thuận sử dụng. Tên, hình ảnh có thể trùng hợp ngẫu nhiên với các nhân vật khác. Vui lòng không thắc mắc.*
+*Note. Mọi trùng hợp về tên, hình ảnh chỉ là ngẫu nhiên. Nếu có thắc mắc, quý dị comment dưới livestream để tui cho ê-kíp tổng hợp nghe.*
 
 <div class="gallery-box">
   <div class="gallery">
@@ -89,7 +89,7 @@ Ai mà chả thích được khen đúng không quí dị? Tui có nhờ ê-kíp
 </div>
 
 ## GamiX - thank you so much!
-Từ mội cái nhóm xíu xiu có 5 đứa hồi đầu, quay qua quay lại gần 3 năm, tụi nhỏ với sản phẩm tụi nó cũng ngày một trưởng thành, team cũng đông hơn. Nhiều lúc đông quá tui không nhớ nổi nên nhờ tụi nó chụp hình lại để sau tui còn nhớ. Quí dị coi tụi nhỏ dễ cưng hôn?
+Từ mội cái nhóm xíu xiu có 5 đứa hồi đầu, quay qua quay lại gần 3 năm, tụi nhỏ với sản phẩm tụi nó cũng ngày một trưởng thành, team cũng đông hơn. Nhiều lúc đông quá tui không nhớ nổi nên nhờ tụi nó chụp hình lại để sau tui còn nhớ. Quí dị coi tụi nhỏ dễ cưng hôn? 😗
 
 <div class="gallery-box">
   <div class="gallery">
@@ -106,10 +106,10 @@ Từ mội cái nhóm xíu xiu có 5 đứa hồi đầu, quay qua quay lại g�
 ## GamiX - lời dặn dò
 Tui luôn dặn tụi nhỏ từ ngày đầu tiên, là build team sản phẩm cũng quan trọng không kém việc phát triển sản phẩm cho khách hàng. **Một tập thể vui vẻ, đồng lòng và có chung mục tiêu đóng góp giá trị cho khách hàng và tổ chức sẽ luôn gặt hái được thành công.** Cảm ơn những nỗ lực, đóng góp của mấy đứa đã và đang tham gia team Gami. Chúc mấy đứa sẽ tiếp tục đồng hành cùng nhau và ngày càng trưởng thành.
 
-Quí dị coi tới đây nhớ để cho tụi nhỏ 1 like, share, subscribe và comment động viên nghen.
+Quí dị coi tới đây nhớ để cho tụi nhỏ 1 like, share, subscribe và comment động viên nghen. 🧡
 
 Để kết thúc buổi livestream bóc trần sự thật hôm nay, tui cũng kính mời quí dị và cộng đồng mạng cùng xem một sản phẩm bi-hài-kịch của tụi nhỏ nhân dịp kết thúc năm cũ đã được tổ chức liveshow hoành tráng với nhiều nụ cười và nước mắt. Vở kịch đã được công chiếu vào đầu năm nay ở đây - **[Reply 2020 - Nhìn lại một năm đã qua của Gami Team](/blog/gami-reply-20)**.
 
-Thay mặt tụi nhỏ, cảm ơn quí dị.
+Thay mặt tụi nhỏ, cảm ơn quí dị. 
 
 ![Thanks](https://pbs.twimg.com/media/F0-7_FtaUAABX9W?format=jpg&name=medium)
