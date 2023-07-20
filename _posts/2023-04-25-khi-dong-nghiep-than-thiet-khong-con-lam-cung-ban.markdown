@@ -24,26 +24,14 @@ H
 
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@circusquad22/video/7195603610397379845" data-video-id="7195603610397379845" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@circusquad22" href="https://www.tiktok.com/@circusquad22?refer=embed">@circusquad22</a> Sếp lì xì kiểu đỏ đen ♥️♣️♠️♦️ <a title="cotsongvanphong" target="_blank" href="https://www.tiktok.com/tag/cotsongvanphong?refer=embed">#cotsongvanphong</a> <a title="circusquad22" target="_blank" href="https://www.tiktok.com/tag/circusquad22?refer=embed">#circusquad22</a> <a title="dilamcogivui" target="_blank" href="https://www.tiktok.com/tag/dilamcogivui?refer=embed">#dilamcogivui</a> <a title="seplixi" target="_blank" href="https://www.tiktok.com/tag/seplixi?refer=embed">#seplixi</a> <a title="lixi" target="_blank" href="https://www.tiktok.com/tag/lixi?refer=embed">#lixi</a> <a target="_blank" title="♬ nhạc nền  - Cột sống văn phòng" href="https://www.tiktok.com/music/nhạc-nền-Cột-sống-văn-phòng-7195603609755716358?refer=embed">♬ nhạc nền  - Cột sống văn phòng</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 
-<iframe
-  src="https://www.tiktok.com/@circusquad22/video/7195603610397379845"
-  width="640"
-  height="360"
-  frameborder="0"
-  allowfullscreen
-></iframe>
 
 <iframe
   src="https://www.tiktok.com/embed/v2/7195603610397379845"
-  width="640"
-  height="360"
-  frameborder="0"
+  width="480"
+  height="960"
+  frameborder="20"
   allowfullscreen
 ></iframe>
-
-<div>
-  <img src="https://images.unsplash.com/photo-1613909207039-6b173b755cc1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2016&q=80" alt="chillintheblank" style="border-radius: 8px"> 
-</div>
-<br>
 
 Thực tình là trong các công ty công nghệ, thì không có cái role nào có nhiều quan điểm, trường phái như Product Owner (PO). 🥲 :psyduck: Tuy nhiên, không thể cứ nói khó là thôi được đúng không? '*Ông làm sản phẩm gần chục năm còn nói vậy thì tôi muốn gia nhập ngành biết làm sao?'* Anh em yên tâm, chính vì khó như thế thì mới có bài viết này. :)) 
 
@@ -63,6 +51,13 @@ Vậy trong các định nghĩa trên, định nghĩa nào là đúng? Trước 
 Suy ra,
 
 > Product Owner là người chịu trách nhiệm về sản phẩm, nhằm phục vụ mục tiêu của tổ chức (thường là kinh doanh) và đáp ứng được nhu cầu của người dùng/khách hàng, bao gồm nhưng không giới hạn trong việc phối hợp với các bộ phận khác để xây dựng, duy trì, phát triển,... sản phẩm.
+
+
+<div>
+  <img src="https://images.unsplash.com/photo-1613909207039-6b173b755cc1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2016&q=80" alt="chillintheblank" style="border-radius: 8px"> 
+</div>
+<br>
+
 
 Ví dụ:
 
