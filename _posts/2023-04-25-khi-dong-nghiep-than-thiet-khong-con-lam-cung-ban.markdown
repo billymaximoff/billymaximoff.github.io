@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Khi đồng nghiệp thân thiết không còn làm cùng bạn
-description: ...thì họ vẫn gắn bó với bạn theo cách khác.
-date: 2023-04-25 12:48:52 +0700
-image: 'https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/279753168_5025814980801589_4396901481463722989_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=tHpZ97IouiIAX8SX3IA&_nc_ht=scontent.fsgn2-7.fna&oh=00_AfAVr17ep_1x4aGQmlsabyYi6UB0aUx_vbwfjDydpCT4Jg&oe=64348C5F'
-image_caption: 'Circus Squad'
-tags: [team, circus]
+title: Làm Gamification thì lì xì làm sao cho chất?
+description: Hồi hhọp cùng 50 sắc thái bốc lì xì của các cháu báo thiếu niên báo nhi đồng team mình nhé.
+date: 2023-02-01 12:48:52 +0700
+image: 'https://pbs.twimg.com/media/F1f0sh_aAAIVzwh?format=jpg&name=large'
+image_caption: 'Lì xì không?'
+tags: [team, circus, gamification]
 ---
 Chào anh em, mình - Wilson đây. Như trong phần [About me](https://www.chillintheblank.com/about/) có nhắc đến, công việc chính hiện tại của mình là quản lý, phát triển sản phẩm \ Product Management & thiết kế trải nghiệm người dùng \ User Experience Design.
 
@@ -22,14 +22,23 @@ H
 
 ## Product Owner là gì?
 
-Lướt qua một số sản phẩm và dự án mình đã từng cộng tác, đọc tài liệu, cũng như trao đổi với một vài anh chị em ở nhiều level, có một vài định nghĩa như sau:
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@circusquad22/video/7195603610397379845" data-video-id="7195603610397379845" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@circusquad22" href="https://www.tiktok.com/@circusquad22?refer=embed">@circusquad22</a> Sếp lì xì kiểu đỏ đen ♥️♣️♠️♦️ <a title="cotsongvanphong" target="_blank" href="https://www.tiktok.com/tag/cotsongvanphong?refer=embed">#cotsongvanphong</a> <a title="circusquad22" target="_blank" href="https://www.tiktok.com/tag/circusquad22?refer=embed">#circusquad22</a> <a title="dilamcogivui" target="_blank" href="https://www.tiktok.com/tag/dilamcogivui?refer=embed">#dilamcogivui</a> <a title="seplixi" target="_blank" href="https://www.tiktok.com/tag/seplixi?refer=embed">#seplixi</a> <a title="lixi" target="_blank" href="https://www.tiktok.com/tag/lixi?refer=embed">#lixi</a> <a target="_blank" title="♬ nhạc nền  - Cột sống văn phòng" href="https://www.tiktok.com/music/nhạc-nền-Cột-sống-văn-phòng-7195603609755716358?refer=embed">♬ nhạc nền  - Cột sống văn phòng</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 
-- **Định nghĩa 1** - Product Owner là người chịu trách nhiệm tối đa hóa giá trị của sản phẩm từ thành quả làm việc của Scrum Team, để làm được việc này, PO cần làm việc với Scrum Team, các bộ phận khác trong tổ chức. (1)
-- **Định nghĩa 2** - Product Owner - một thành viên của nhóm phát triển sản phẩm. PO tham dự các cuộc họp Scrum hàng ngày và đánh giá mức độ ưu tiên của các item trong Product Backlog. PO cần đảm bảo Development Team có thể làm việc hiệu quả và đúng mục tiêu. (2)
-- **Định nghĩa 3** - Product Owner đóng vai trò là người đại diện và là đứng ra bảo vệ quyền lợi khách hàng trước Development Team. (3)
-- **Định nghĩa 4** - Product Owner là người giám sát, điều phối công việc và chịu trách nhiệm giải đáp các thắc mắc của Development Team. (4)
-- **Định nghĩa 5** - Product Owner là người sở hữu sản phẩm, đóng vai trò như mini-CEO và có quyền quyết định mọi thứ liên quan đến sản phẩm để đạt mục tiêu kinh doanh của tổ chức. (5)
-- Định nghĩa ... - thôi, 5 cái là quá nhiều rồi, chắc tạm dừng ở đây nha.
+<iframe
+  src="https://www.tiktok.com/@circusquad22/video/7195603610397379845"
+  width="640"
+  height="360"
+  frameborder="0"
+  allowfullscreen
+></iframe>
+
+<iframe
+  src="https://www.tiktok.com/embed/v2/7195603610397379845"
+  width="640"
+  height="360"
+  frameborder="0"
+  allowfullscreen
+></iframe>
 
 <div>
   <img src="https://images.unsplash.com/photo-1613909207039-6b173b755cc1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2016&q=80" alt="chillintheblank" style="border-radius: 8px"> 
