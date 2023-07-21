@@ -1,16 +1,15 @@
 ---
 layout: post
-title: Làm Gamification thì lì xì làm sao cho chất?
-description: Hồi hhọp cùng 50 sắc thái bốc lì xì của các cháu báo thiếu niên báo nhi đồng team mình nhé.
+title: Làm gamification thì lì xì sao cho chất?
+description: Hồi hộp cùng 50 sắc thái bốc lì xì của các cháu báo thiếu niên báo nhi đồng team mình nhé.
 date: 2023-02-01 12:48:52 +0700
 image: 'https://pbs.twimg.com/media/F1f0sh_aAAIVzwh?format=jpg&name=large'
 image_caption: 'Lì xì không?'
 tags: [team, circus, gamification]
 ---
-Chào anh em, mình - Wilson đây. Như trong phần [About me](https://www.chillintheblank.com/about/) có nhắc đến, công việc chính hiện tại của mình là quản lý, phát triển sản phẩm \ Product Management & thiết kế trải nghiệm người dùng \ User Experience Design.
 
-Hôm nay mình sẽ nói về một topic mà mình nghĩ 
-H
+Tết đến, xuân về. Sau hơn nửa tháng rình rang ở nhà và đốt không biết bao nhiêu cái bánh chưng, bao nhiêu ký mứt thì cũng đã đến lúc quay trở lại chốn công sở với vòng quay cơm áo gạo tiền. Ủa, post đầu năm sao tự nhiên mở màn cái nản ngang vậy. 🤧 Thôi quay trở lại nội dung chính. Ừ thì bên cạnh những gương mặt , những nụ cười ngờ nghệch thì tuyệt nhiên không thể nào thiếu những đôi bàn tay xòe ra đòi lì xì. Còn mùng là còn Tết, dù là ngày 14 đi nữa thì chúng nó vẫn cố chấp gọi mùng. 
+
 
 *Note. Nội dung trong .*
 
