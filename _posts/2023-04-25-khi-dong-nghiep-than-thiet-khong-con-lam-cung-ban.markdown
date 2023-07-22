@@ -23,6 +23,8 @@ Tết đến, xuân về. Sau hơn nửa tháng rình rang ở nhà và đốt k
 
 <iframe style="max-width: 605px;min-width: 325px;" src="https://www.tiktok.com/embed/v2/7195603610397379845" title="TikTok video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<iframe src="https://www.tiktok.com/embed/v2/7195603610397379845" title="TikTok video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Thực tình là trong các công ty công nghệ, thì không có cái role nào có nhiều quan điểm, trường phái như Product Owner (PO). 🥲 :psyduck: Tuy nhiên, không thể cứ nói khó là thôi được đúng không? '*Ông làm sản phẩm gần chục năm còn nói vậy thì tôi muốn gia nhập ngành biết làm sao?'* Anh em yên tâm, chính vì khó như thế thì mới có bài viết này. :)) 
 
 Vậy trong các định nghĩa trên, định nghĩa nào là đúng? Trước khi trả lời, mình cùng 'chia nhỏ vấn đề' ra để phân tích nhé.
