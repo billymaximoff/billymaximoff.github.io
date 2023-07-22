@@ -21,17 +21,7 @@ Tết đến, xuân về. Sau hơn nửa tháng rình rang ở nhà và đốt k
 
 ## Product Owner là gì?
 
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@circusquad22/video/7195603610397379845" data-video-id="7195603610397379845" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@circusquad22" href="https://www.tiktok.com/@circusquad22?refer=embed">@circusquad22</a> Sếp lì xì kiểu đỏ đen ♥️♣️♠️♦️ <a title="cotsongvanphong" target="_blank" href="https://www.tiktok.com/tag/cotsongvanphong?refer=embed">#cotsongvanphong</a> <a title="circusquad22" target="_blank" href="https://www.tiktok.com/tag/circusquad22?refer=embed">#circusquad22</a> <a title="dilamcogivui" target="_blank" href="https://www.tiktok.com/tag/dilamcogivui?refer=embed">#dilamcogivui</a> <a title="seplixi" target="_blank" href="https://www.tiktok.com/tag/seplixi?refer=embed">#seplixi</a> <a title="lixi" target="_blank" href="https://www.tiktok.com/tag/lixi?refer=embed">#lixi</a> <a target="_blank" title="♬ nhạc nền  - Cột sống văn phòng" href="https://www.tiktok.com/music/nhạc-nền-Cột-sống-văn-phòng-7195603609755716358?refer=embed">♬ nhạc nền  - Cột sống văn phòng</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
-
-<iframe width="560" height="315" src="https://www.tiktok.com/embed/v2/7195603610397379845" title="TikTok video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<iframe
-  src="https://www.tiktok.com/embed/v2/7195603610397379845"
-  width="480"
-  height="960"
-  frameborder="20"
-  allowfullscreen
-></iframe>
+<iframe style="max-width: 605px;min-width: 325px;" src="https://www.tiktok.com/embed/v2/7195603610397379845" title="TikTok video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Thực tình là trong các công ty công nghệ, thì không có cái role nào có nhiều quan điểm, trường phái như Product Owner (PO). 🥲 :psyduck: Tuy nhiên, không thể cứ nói khó là thôi được đúng không? '*Ông làm sản phẩm gần chục năm còn nói vậy thì tôi muốn gia nhập ngành biết làm sao?'* Anh em yên tâm, chính vì khó như thế thì mới có bài viết này. :)) 
 
