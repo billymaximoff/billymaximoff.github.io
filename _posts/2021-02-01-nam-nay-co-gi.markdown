@@ -17,65 +17,116 @@ Tuy nhiên, với máu 'màu mè' bẩm sinh 🤣, cộng thêm việc muốn gi
 Version gần nhất mình làm cho team cũng đã được một thời gian, từ 2019 lận. Thế nên, năm nay, mình update version 2.0 - nhiều scope hơn, rõ ràng hơn, hiện đại hơn. Share nhẹ để anh em hiểu một chút về những gì team mình đã, đang và sẽ làm được. Mong năm 2021, GamiX đánh đâu thắng đó. 💪🏻 Anh em decor Home Page của mình thế nào? Khoe nhẹ với team mình nhé.
 
 ___
-<center>
 ![Part1.1](https://pbs.twimg.com/media/F10Y4_haMAAOL71?format=jpg&name=large)
-</center>
 
-<center>
 ![Part1.2](https://pbs.twimg.com/media/F10Y_bvaEAUv-80?format=png&name=large)
-</center>
 
-<center>
 ![Part1.3](https://pbs.twimg.com/media/F10ZAkPaQAEFZND?format=jpg&name=large)
-</center>
 
-<center>
 ![Part1.4](https://pbs.twimg.com/media/F10ZFLxacAAeDgt?format=jpg&name=large)
-</center>
 
-<center>
 ![Part1.5](https://pbs.twimg.com/media/F10bDtxacAAjgBJ?format=jpg&name=large)
-</center>
+
 *Note. Các số liệu bị ẩn vì điều khoản và quy định bảo mật. Hãy gia nhập cùng chúng mình để được xem bản full nhé.* 😉
 
 
 
-<center>
 ![Part2.1](https://pbs.twimg.com/media/F10ZIEzaQAA23J_?format=jpg&name=large)
-</center>
 
-<center>
 ![Part2.2](https://pbs.twimg.com/media/F10ZPMBaAAA2Jkc?format=jpg&name=large)
-</center>
 
-<center>
 ![Part2.3](https://pbs.twimg.com/media/F10ZR2raIAAsiPM?format=jpg&name=large)
-</center>
 
 
 
-<center>
 ![Part3.1](https://pbs.twimg.com/media/F10ZUXZaQAAMaVX?format=jpg&name=large)
-</center>
 
-<center>
 ![Part3.2](https://pbs.twimg.com/media/F10ZVh_aMAAVv1w?format=jpg&name=large)
-</center>
 
-<center>
 ![Part3.3](https://pbs.twimg.com/media/F10ZWsvaIAECVc3?format=jpg&name=large)
-</center>
 
 
-<center>
+
 ![Part4.1](https://pbs.twimg.com/media/F10ZXvnaEAAdSz3?format=jpg&name=large)
-</center>
 
-<center>
 ![Part4.2](https://pbs.twimg.com/media/F10Za-baQAArU6K?format=jpg&name=large)
-</center>
 
-<center>
 ![Part4.3](https://pbs.twimg.com/media/F10ZcEFaEAE02H0?format=jpg&name=large)
-</center>
 
+___
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="https://pbs.twimg.com/media/F10Y4_haMAAOL71?format=jpg&name=large" loading="lazy">
+  </div>
+</div>
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="https://pbs.twimg.com/media/F10Y_bvaEAUv-80?format=png&name=large" loading="lazy">
+  </div>
+</div>
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="https://pbs.twimg.com/media/F10ZAkPaQAEFZND?format=jpg&name=large" loading="lazy">
+  </div>
+</div>
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="https://pbs.twimg.com/media/F10ZFLxacAAeDgt?format=jpg&name=large" loading="lazy">
+  </div>
+</div>
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="https://pbs.twimg.com/media/F10bDtxacAAjgBJ?format=jpg&name=large" loading="lazy">
+  </div>
+</div>
+
+*Note. Các số liệu bị ẩn vì điều khoản và quy định bảo mật. Hãy gia nhập cùng chúng mình để được xem bản full nhé.* 😉
+
+
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="https://pbs.twimg.com/media/F0-6AJNaUAAQ8-O?format=jpg&name=medium" loading="lazy">
+  </div>
+</div>
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="https://pbs.twimg.com/media/F0-6AJNaUAAQ8-O?format=jpg&name=medium" loading="lazy">
+  </div>
+</div>
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="https://pbs.twimg.com/media/F0-6AJNaUAAQ8-O?format=jpg&name=medium" loading="lazy">
+  </div>
+</div>
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="https://pbs.twimg.com/media/F0-6AJNaUAAQ8-O?format=jpg&name=medium" loading="lazy">
+  </div>
+</div>
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="https://pbs.twimg.com/media/F0-6AJNaUAAQ8-O?format=jpg&name=medium" loading="lazy">
+  </div>
+</div>
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="https://pbs.twimg.com/media/F0-6AJNaUAAQ8-O?format=jpg&name=medium" loading="lazy">
+  </div>
+</div>
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="https://pbs.twimg.com/media/F0-6AJNaUAAQ8-O?format=jpg&name=medium" loading="lazy">
+  </div>
+</div>
