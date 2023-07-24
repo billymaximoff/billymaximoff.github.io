@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  Gami - Năm nay có gì?
+title:  GamiX'21 - Năm nay có gì?
 description: Welcome to GamiX 2021. Đoán xem, chúng mình năm nay có gì hot!
 date:   2021-02-01 09:00:00 +0700
-image:  'https://pbs.twimg.com/media/F10Y8SxaIAA_w3m?format=jpg&name=medium'
-image_caption: 'GamiX, by Hoàng Đăng'
+image:  'https://pbs.twimg.com/media/F10Y8SxaIAA_w3m?format=jpg&name=large'
+image_caption: 'GamiX'21, by Hoàng Đăng'
 tags:   [gamix, product, teamwork]
 ---
 
@@ -18,27 +18,43 @@ Version gần nhất mình làm cho team cũng đã được một thời gian, 
 
 ___
 
-![Part1.1](https://pbs.twimg.com/media/F10Y4_haMAAOL71?format=jpg&name=medium)
-![Part1.2](https://pbs.twimg.com/media/F10Y_bvaEAUv-80?format=png&name=medium)
-![Part1.3](https://pbs.twimg.com/media/F10ZAkPaQAEFZND?format=jpg&name=medium)
-![Part1.4](https://pbs.twimg.com/media/F10ZFLxacAAeDgt?format=jpg&name=medium)
-![Part1.5](https://pbs.twimg.com/media/F10bDtxacAAjgBJ?format=jpg&name=medium)
 
-*Note. Các số liệu bị ẩn vì điều khoản và quy định bảo mật. Hãy gia nhập cùng chúng mình để được xem bản full nhé. 😉*
+<center>
+![Part1.1](https://pbs.twimg.com/media/F10Y4_haMAAOL71?format=jpg&name=large)
 
+![Part1.2](https://pbs.twimg.com/media/F10Y_bvaEAUv-80?format=png&name=large)
 
-![Part2.1](https://pbs.twimg.com/media/F10ZIEzaQAA23J_?format=jpg&name=medium)
-![Part2.2](https://pbs.twimg.com/media/F10ZPMBaAAA2Jkc?format=jpg&name=medium)
-![Part2.3](https://pbs.twimg.com/media/F10ZR2raIAAsiPM?format=jpg&name=medium)
+![Part1.3](https://pbs.twimg.com/media/F10ZAkPaQAEFZND?format=jpg&name=large)
 
+![Part1.4](https://pbs.twimg.com/media/F10ZFLxacAAeDgt?format=jpg&name=large)
 
-![Part3.1](https://pbs.twimg.com/media/F10ZUXZaQAAMaVX?format=jpg&name=medium)
-![Part3.2](https://pbs.twimg.com/media/F10ZVh_aMAAVv1w?format=jpg&name=medium)
-![Part3.3](https://pbs.twimg.com/media/F10ZWsvaIAECVc3?format=jpg&name=medium)
+![Part1.5](https://pbs.twimg.com/media/F10bDtxacAAjgBJ?format=jpg&name=large)
+</center>
+*Note. Các số liệu bị ẩn vì điều khoản và quy định bảo mật. Hãy gia nhập cùng chúng mình để được xem bản full nhé.* 😉
 
 
-![Part4.1](https://pbs.twimg.com/media/F10ZXvnaEAAdSz3?format=jpg&name=medium)
-![Part4.2](https://pbs.twimg.com/media/F10Za-baQAArU6K?format=jpg&name=medium)
-![Part4.3](https://pbs.twimg.com/media/F10ZcEFaEAE02H0?format=jpg&name=medium)
 
+<center>
+![Part2.1](https://pbs.twimg.com/media/F10ZIEzaQAA23J_?format=jpg&name=large)
+
+![Part2.2](https://pbs.twimg.com/media/F10ZPMBaAAA2Jkc?format=jpg&name=large)
+
+![Part2.3](https://pbs.twimg.com/media/F10ZR2raIAAsiPM?format=jpg&name=large)
+
+
+
+![Part3.1](https://pbs.twimg.com/media/F10ZUXZaQAAMaVX?format=jpg&name=large)
+
+![Part3.2](https://pbs.twimg.com/media/F10ZVh_aMAAVv1w?format=jpg&name=large)
+
+![Part3.3](https://pbs.twimg.com/media/F10ZWsvaIAECVc3?format=jpg&name=large)
+
+
+
+![Part4.1](https://pbs.twimg.com/media/F10ZXvnaEAAdSz3?format=jpg&name=large)
+
+![Part4.2](https://pbs.twimg.com/media/F10Za-baQAArU6K?format=jpg&name=large)
+
+![Part4.3](https://pbs.twimg.com/media/F10ZcEFaEAE02H0?format=jpg&name=large)
+</center>
 
