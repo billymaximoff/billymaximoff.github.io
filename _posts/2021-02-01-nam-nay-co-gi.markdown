@@ -31,11 +31,13 @@ ___
 
 
 
+
 ![Part2.1](https://pbs.twimg.com/media/F10ZIEzaQAA23J_?format=jpg&name=large)
 
 ![Part2.2](https://pbs.twimg.com/media/F10ZPMBaAAA2Jkc?format=jpg&name=large)
 
 ![Part2.3](https://pbs.twimg.com/media/F10ZR2raIAAsiPM?format=jpg&name=large)
+
 
 
 
@@ -47,86 +49,10 @@ ___
 
 
 
+
 ![Part4.1](https://pbs.twimg.com/media/F10ZXvnaEAAdSz3?format=jpg&name=large)
 
 ![Part4.2](https://pbs.twimg.com/media/F10Za-baQAArU6K?format=jpg&name=large)
 
 ![Part4.3](https://pbs.twimg.com/media/F10ZcEFaEAE02H0?format=jpg&name=large)
 
-___
-
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="https://pbs.twimg.com/media/F10Y4_haMAAOL71?format=jpg&name=large" loading="lazy">
-  </div>
-</div>
-
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="https://pbs.twimg.com/media/F10Y_bvaEAUv-80?format=png&name=large" loading="lazy">
-  </div>
-</div>
-
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="https://pbs.twimg.com/media/F10ZAkPaQAEFZND?format=jpg&name=large" loading="lazy">
-  </div>
-</div>
-
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="https://pbs.twimg.com/media/F10ZFLxacAAeDgt?format=jpg&name=large" loading="lazy">
-  </div>
-</div>
-
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="https://pbs.twimg.com/media/F10bDtxacAAjgBJ?format=jpg&name=large" loading="lazy">
-  </div>
-</div>
-
-*Note. Các số liệu bị ẩn vì điều khoản và quy định bảo mật. Hãy gia nhập cùng chúng mình để được xem bản full nhé.* 😉
-
-
-
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="https://pbs.twimg.com/media/F0-6AJNaUAAQ8-O?format=jpg&name=medium" loading="lazy">
-  </div>
-</div>
-
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="https://pbs.twimg.com/media/F0-6AJNaUAAQ8-O?format=jpg&name=medium" loading="lazy">
-  </div>
-</div>
-
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="https://pbs.twimg.com/media/F0-6AJNaUAAQ8-O?format=jpg&name=medium" loading="lazy">
-  </div>
-</div>
-
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="https://pbs.twimg.com/media/F0-6AJNaUAAQ8-O?format=jpg&name=medium" loading="lazy">
-  </div>
-</div>
-
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="https://pbs.twimg.com/media/F0-6AJNaUAAQ8-O?format=jpg&name=medium" loading="lazy">
-  </div>
-</div>
-
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="https://pbs.twimg.com/media/F0-6AJNaUAAQ8-O?format=jpg&name=medium" loading="lazy">
-  </div>
-</div>
-
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="https://pbs.twimg.com/media/F0-6AJNaUAAQ8-O?format=jpg&name=medium" loading="lazy">
-  </div>
-</div>
