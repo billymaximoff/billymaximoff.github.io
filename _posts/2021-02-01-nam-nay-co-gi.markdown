@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  GamiX'21 - Năm nay có gì?
+title:  GamiX 2021 - Năm nay có gì?
 description: Welcome to GamiX 2021. Đoán xem, chúng mình năm nay có gì hot!
 date:   2021-02-01 09:00:00 +0700
 image:  'https://pbs.twimg.com/media/F10Y8SxaIAA_w3m?format=jpg&name=large'
-image_caption: 'GamiX'21, by Hoàng Đăng'
+image_caption: 'GamiX 2021, by Hoàng Đăng'
 tags:   [gamix, product, teamwork]
 ---
 
