@@ -30,7 +30,7 @@ Xem file trên Google Docs: **[tại đây](https://docs.google.com/document/d/1
 </style>
 Google Docs
 ___
-<iframe src="https://docs.google.com/document/d/119BOQQqVeumpGiJkxxybdN02pIloIQXqgU1VstFtr7M/" style="border-radius: 0" frameborder="0" width="100%" height="180%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/document/d/119BOQQqVeumpGiJkxxybdN02pIloIQXqgU1VstFtr7M/" style="border-radius: 0" frameborder="0" width="100%" height="140%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 ___
 <br>
 <br>
