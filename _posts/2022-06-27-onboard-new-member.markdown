@@ -28,4 +28,7 @@ Xem file trên Google Docs: **[tại đây](https://docs.google.com/document/d/1
 
 <iframe src="https://docs.google.com/document/d/119BOQQqVeumpGiJkxxybdN02pIloIQXqgU1VstFtr7M/" style="border-radius: 0" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+<br>
+<br>
 
+<iframe src="https://docs.google.com/document/d/119BOQQqVeumpGiJkxxybdN02pIloIQXqgU1VstFtr7M/" style="border-radius: 0" frameborder="2" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
