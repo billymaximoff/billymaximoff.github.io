@@ -53,6 +53,6 @@ ___
 Google PDF
 
 ___
-<iframe src="https://drive.google.com/file/d/1luU61U6QoImOkDYhA5mP6athGc9QAz3y/view/" style="border-radius: 0" frameborder="0" width="100%" height="80%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://drive.google.com/file/d/1luU61U6QoImOkDYhA5mP6athGc9QAz3y/" style="border-radius: 0" frameborder="0" width="100%" height="80%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
