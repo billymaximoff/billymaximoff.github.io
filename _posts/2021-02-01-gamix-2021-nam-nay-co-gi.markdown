@@ -5,7 +5,7 @@ description: Welcome to GamiX 2021. Đoán xem, chúng mình năm nay có gì ho
 date:   2021-02-01 09:00:00 +0700
 image:  'https://pbs.twimg.com/media/F10Y8SxaIAA_w3m?format=jpg&name=large'
 image_caption: 'GamiX 2021, by Hoàng Đăng'
-tags:   [gamix, product, teamwork]
+tags:   [Gami, Produx Life, Team Up, Workation]
 ---
 
 Hmm. Cũng đã lâu mình chưa update Welcome Page của team. Cho bạn nào chưa biết hoặc không dùng, công ty mình dùng Confluence để viết và lưu trữ tài liệu, từ Business & Product Requirement Document đến Technical, QC,... Mỗi team, sản phẩm/nhóm sản phẩm có thể tạo một Space để chứa các tài liệu liên quan. (Chi tiết về Confluence và các sản phẩm của Atlassian mình sẽ share vào một bài viết khác).
