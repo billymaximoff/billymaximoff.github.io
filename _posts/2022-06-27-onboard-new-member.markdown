@@ -22,5 +22,9 @@ Post trước đã giới thiệu về 2 phần của Product Management - Quả
 <br>
 <br>
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vSPwnMcv1u6gOZjq-pv99I-msZJvdA4JVbl0Be6vMRDdzTO8aalVWWzd16A6PvOAveq5R_x6tgv0KCl/pub?embedded=true" style="border-radius: 0px"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vSPwnMcv1u6gOZjq-pv99I-msZJvdA4JVbl0Be6vMRDdzTO8aalVWWzd16A6PvOAveq5R_x6tgv0KCl/pub?embedded=true" style="border-radius: 0" frameborder="0"></iframe>
 
+<br>
+<br>
+
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vSPwnMcv1u6gOZjq-pv99I-msZJvdA4JVbl0Be6vMRDdzTO8aalVWWzd16A6PvOAveq5R_x6tgv0KCl/pub?embedded=true" style="border-radius: 0" frameborder="4"></iframe>
