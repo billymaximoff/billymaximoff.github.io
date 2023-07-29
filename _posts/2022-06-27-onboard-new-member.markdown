@@ -29,25 +29,24 @@ Xem file trên Google Docs: **[tại đây](https://docs.google.com/document/d/1
 .responsive-wrap iframe{ max-width: 100%;}
 </style>
 Google Docs
+___
 <iframe src="https://docs.google.com/document/d/119BOQQqVeumpGiJkxxybdN02pIloIQXqgU1VstFtr7M/" style="border-radius: 0" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
+___
 <br>
 <br>
 Google Sheet
+___
 <iframe src="https://docs.google.com/spreadsheets/d/19lC40UkYOFucvU4xxtjSuLmilAwRiSO7bmUX33C0G1Y/" style="border-radius: 0" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
+___
 <br>
 <br>
 Google Slides
+___
 <iframe src="https://docs.google.com/presentation/d/1ZZZJuvU_QDoiVC62lyONU_N093utlHfJUlM1M6s20As/" style="border-radius: 0" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-
-<br>
-<br>
-Dropbox Paper
-<iframe src="https://paper.dropbox.com/doc/How-To-Get-Into-Product-Management-And-Thrive--B9Art5KPy0w9v8e7MBkxz7G6AQ-L6M0RN71ESjW1DzYAyhBZ" style="border-radius: 0" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+___
 
 <br>
 <br>
-Notion
-<iframe src="https://wilsonixel.notion.site/What-is-a-Product-An-Introduction-to-Product-Management-f12b22e2ed484ed883d3f490d3fa957d?pvs=4" style="border-radius: 0" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
+
