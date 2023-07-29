@@ -29,24 +29,30 @@ Xem file trên Google Docs: **[tại đây](https://docs.google.com/document/d/1
 .responsive-wrap iframe{ max-width: 100%;}
 </style>
 Google Docs
+
 ___
 <iframe src="https://docs.google.com/document/d/119BOQQqVeumpGiJkxxybdN02pIloIQXqgU1VstFtr7M/" style="border-radius: 0" frameborder="0" width="100%" height="140%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 ___
 <br>
 <br>
 Google Sheet
+
 ___
 <iframe src="https://docs.google.com/spreadsheets/d/19lC40UkYOFucvU4xxtjSuLmilAwRiSO7bmUX33C0G1Y/" style="border-radius: 0" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 ___
 <br>
 <br>
 Google Slides
+
 ___
 <iframe src="https://docs.google.com/presentation/d/1ZZZJuvU_QDoiVC62lyONU_N093utlHfJUlM1M6s20As/" style="border-radius: 0" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 ___
 
 <br>
 <br>
+Google PDF
 
+___
+<iframe src="https://drive.google.com/file/d/1luU61U6QoImOkDYhA5mP6athGc9QAz3y/view/" style="border-radius: 0" frameborder="0" width="100%" height="80%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
