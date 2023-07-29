@@ -5,7 +5,7 @@ description: Tiếp nối series livestream bóc trần sự thật. Hôm nay tu
 date:   2021-09-19 09:00:00 +0700
 image:  'https://pbs.twimg.com/media/F0-_aZnaAAAvWD4?format=png&name=900x900'
 image_caption: 'GamiX, by Hoàng Đăng'
-tags:   [gamix, product, teamwork]
+tags:   [gami, productory, assemble]
 ---
 
 **Bài dự thi 'Môi trường làm việc vui nhất' - One Mount's Birthday 2021**

@@ -5,7 +5,7 @@ description: Dưới đây là những kinh nghiệm mình đã áp dụng khi c
 date: 2021-08-17 15:01:35 +0700
 image: 'https://images.unsplash.com/photo-1601055283742-8b27e81b5553?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80'
 image_caption: 'Tôi dương tính rồi! - From F0 to Normal (Phần 1)'
-tags: [health, tips]
+tags: [health, give forward]
 ---
 
 Hiện tại, đang là giai đoạn cao điểm của dịch. Thành phố Hồ Chí Minh phong tỏa, giãn cách theo Chỉ thị 16, khu mình ở là vùng Đỏ, chốt chặn, giăng dây,... có đủ cả. Và, em gái mình không may đã dương tính. Tuy nhiên, vì các khu cách ly đang quá tải nên tạm thời em vẫn được ở nhà, tính ra vẫn may.

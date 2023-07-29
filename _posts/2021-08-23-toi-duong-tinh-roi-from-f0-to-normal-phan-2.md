@@ -4,7 +4,7 @@ title:  Tôi dương tính rồi! - From F0 to Normal (Phần 2)
 description: Đã 1 tuần trôi qua, và như đã hẹn ở bài trước, mình tiếp tục share mọi người về trải nghiệm & những tips mình đã rút ra được khi chăm F0 tại nhà nhé.
 date:   2021-08-23 19:18:25 +0700
 image:  'https://images.unsplash.com/photo-1584265549731-fc0d5434ff76?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80'
-tags:   [health, tips, product]
+tags: [health, give forward]
 ---
 
 Đã 1 tuần trôi qua, và như đã hẹn ở **[bài trước](/blog/toi-duong-tinh-roi-from-f0-to-normal-phan-1)**, mình tiếp tục share mọi người về trải nghiệm & những tips mình đã rút ra được khi chăm F0 tại nhà nhé.
