@@ -10,4 +10,21 @@ tags:   [product 101, product basement]
 
 Post trước đã giới thiệu về 2 phần của Product Management - Quản lý Sản phẩm: Product Development - Phát triển Sản phẩm & Product Operation - Vận hành Sản phẩm. Bài viết này sẽ giới thiệu cho các bạn phần còn lại - Product Growth và thực tế áp dụng nhé.
 
-<iframe src="https://docs.google.com/document/d/e/119BOQQqVeumpGiJkxxybdN02pIloIQXqgU1VstFtr7M/pub?embedded=true"></iframe>
+<style>
+.responsive-wrap iframe{ max-width: 100%;}
+</style>
+<div class="responsive-wrap">
+<!-- this is the embed code provided by Google -->
+  <iframe src="https://docs.google.com/presentation/d/1ZZZJuvU_QDoiVC62lyONU_N093utlHfJUlM1M6s20As/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<!-- Google embed ends -->
+</div>
+
+<style>
+.responsive-wrap iframe{ max-width: 100%;}
+</style>
+<div class="responsive-wrap">
+<!-- this is the embed code provided by Google -->
+  <iframe src="https://docs.google.com/document/d/119BOQQqVeumpGiJkxxybdN02pIloIQXqgU1VstFtr7M/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<!-- Google embed ends -->
+</div>
+
