@@ -15,16 +15,17 @@ Post trước đã giới thiệu về 2 phần của Product Management - Quả
 </style>
 <div class="responsive-wrap">
 <!-- this is the embed code provided by Google -->
-  <iframe src="https://docs.google.com/presentation/d/1ZZZJuvU_QDoiVC62lyONU_N093utlHfJUlM1M6s20As/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="border-radius: 0px"></iframe>
+  <iframe src="https://docs.google.com/presentation/d/1ZZZJuvU_QDoiVC62lyONU_N093utlHfJUlM1M6s20As/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="border-radius: 0"></iframe>
 <!-- Google embed ends -->
 </div>
 
 <br>
 <br>
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vSPwnMcv1u6gOZjq-pv99I-msZJvdA4JVbl0Be6vMRDdzTO8aalVWWzd16A6PvOAveq5R_x6tgv0KCl/pub?embedded=true" style="border-radius: 0" frameborder="0"></iframe>
-
+Xem file trên Google Docs: **[tại đây](https://docs.google.com/document/d/e/2PACX-1vSPwnMcv1u6gOZjq-pv99I-msZJvdA4JVbl0Be6vMRDdzTO8aalVWWzd16A6PvOAveq5R_x6tgv0KCl/pub)**
 <br>
 <br>
 
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vSPwnMcv1u6gOZjq-pv99I-msZJvdA4JVbl0Be6vMRDdzTO8aalVWWzd16A6PvOAveq5R_x6tgv0KCl/pub?embedded=true" style="border-radius: 0" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+![Album](https://photos.app.goo.gl/XCCWCihCJZ29XDGe7)
