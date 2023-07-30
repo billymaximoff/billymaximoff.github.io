@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Successfull Communication with Stakeholders (Phần 1)
+title:  Successful Communication with Stakeholders (Phần 1)
 description: Giao tiếp hiệu quả với stakeholders là một kỹ năng cực kỳ cần thiết để đảm bảo sự thành công của sản phẩm, dự án, đặc biệt với Product Owner - người luôn được xem là cầu nối, nút thắt giữa các phòng ban, bộ phận. Công ty hiện tại của mình cũng đưa Stakeholders Management và Communication vào khung năng lực, phần nào khẳng định sự quan trọng của việc giao tiếp.
 date:   2022-07-17 09:00:00 +0700
 image:  'https://images.unsplash.com/photo-1530099486328-e021101a494a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3947&q=80'
@@ -50,9 +50,9 @@ Ví dụ:
 - Stakeholders đã gửi thiếu thông tin & muộn, gây ảnh hưởng đến dự án, dù đã nhắc nhở nhẹ nhàng nhiều lần sẽ cần warning để mọi người thấy mức độ nghiêm trọng của vấn đề.
 - Khi quân đoàn của Thanos đổ bộ xuống Trái Đất, Dr. Strange & Iron Man muốn cảnh cáo Ebony Maw: 'l'm sorry, Earth is closed today. You better pack it up and get outta here.' (*Xin lỗi, nhà tao nay đóng cửa. Biến giùm cái nà.* 😎) - sẽ không thể dùng giọng điệu, lời nói như cách an ủi đồng đội được.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-odssqo8W_o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-odssqo8W_o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 <em>Earth Is Closed Today / Tony Stark @ Avengers Infinity War</em>
+</iframe>
 
 <br>
 ## Stakeholders & Know Your Stakeholders

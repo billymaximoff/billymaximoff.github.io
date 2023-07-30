@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Successfull Communication with Stakeholders (Phần 2)
+title:  Successful Communication with Stakeholders (Phần 2)
 description: Để trở thành một Product Owner thành công, việc giao tiếp hiệu quả với các stakeholders là một yếu tố cực kỳ quan trọng. Giao tiếp đúng cách giúp bạn hiểu rõ hơn về yêu cầu và mong đợi của stakeholders, tạo lòng tin, sự ủng hộ, và đạt được sự đồng thuận về mục tiêu và thành công của sản phẩm.
 date:   2022-08-01 09:00:00 +0700
 image:  'https://pbs.twimg.com/media/F2RqCzebEAEnlUE?format=jpg&name=large'
@@ -25,14 +25,14 @@ Còn 5 phút nữa. Các bạn cũng nhanh tay lên nhé.
     <img src="https://pbs.twimg.com/media/F2RqLYZbIAA2WKz?format=jpg&name=medium" loading="lazy" alt="discuss">
     <img src="https://pbs.twimg.com/media/F2RqQuaaAAACOOZ?format=jpg&name=medium" loading="lazy" alt="discuss">
   </div>
-</div>
 <em>Discussion / Circus @ OneMount</em>
+</div>
 
 *Reng. Reng. Hết giờ.*
 
 Các bạn lần lượt trình bày về stakeholders mà mình đã phân tích và thảo luận cùng các bạn khác. Mọi người share khá nhiều về insight và solution hay. Có thể tóm tắt bằng các nguyên tắc sau:
 
-## Successfull Communication with Stakeholders
+## Successful Communication with Stakeholders
 
 ### 1. Hiểu Stakeholders
 
@@ -87,8 +87,8 @@ Bài tập về nhà: Bạn thử giải quyết các tình huống mà các ch�
     <img src="https://pbs.twimg.com/media/F2Rd9FtbcAAYWkk?format=jpg&name=medium" loading="lazy" alt="discuss">
     <img src="https://pbs.twimg.com/media/F2Rd3CBbkAASOAp?format=jpg&name=medium" loading="lazy" alt="discuss">
   </div>
-</div>
 <em>Discussion / Circus @ OneMount</em>
+</div>
 
 Chúc bạn trở thành bậc thầy giao tiếp! 😗
 
