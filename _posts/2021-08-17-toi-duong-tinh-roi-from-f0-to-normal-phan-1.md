@@ -5,7 +5,7 @@ description: Dưới đây là những kinh nghiệm mình đã áp dụng khi c
 date: 2021-08-17 15:01:35 +0700
 image: 'https://images.unsplash.com/photo-1601055283742-8b27e81b5553?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80'
 image_caption: 'Tôi dương tính rồi! - From F0 to Normal (Phần 1)'
-tags: [health, give forward]
+tags: [health, give forward, ấm app]
 ---
 
 Hiện tại, đang là giai đoạn cao điểm của dịch. Thành phố Hồ Chí Minh phong tỏa, giãn cách theo Chỉ thị 16, khu mình ở là vùng Đỏ, chốt chặn, giăng dây,... có đủ cả. Và, em gái mình không may đã dương tính. Tuy nhiên, vì các khu cách ly đang quá tải nên tạm thời em vẫn được ở nhà, tính ra vẫn may.
@@ -140,3 +140,9 @@ Post này hơi dài rồi. Qua tuần mình sẽ chia sẻ tiếp các giai đo�
 **[Phần 2. xem tiếp tại đây.](/blog/toi-duong-tinh-roi-from-f0-to-normal-phan-2)**
 
 _ Source/Photos: *Unsplash, Unicef, Google Maps của mình*
+
+___
+
+**[Give Forward](/tags/?tag=give+forward)** - Các bài viết mình share các tips, các nguồn tài liệu, khóa học hay mà mình tự tìm được hoặc nhận từ người khác. Hy vọng bạn cũng give it forward để tiếp tục lan truyền nha.
+
+**[Ấm App](/tags/?tag=am+app)** = Ấm + App - Đọc hơi giống Ấm Áp đúng không? Hehee. Series này mình sẽ share các ứng dụng, sản phẩm (App) mình dùng (có thể là digital hoặc physical) mà khi mình dùng thì thấy... Ấm. 

@@ -113,3 +113,9 @@ Quí dị coi tới đây nhớ để cho tụi nhỏ 1 like, share, subscribe v
 Thay mặt tụi nhỏ, cảm ơn quí dị. 
 
 ![Thanks](https://pbs.twimg.com/media/F0-7_FtaUAABX9W?format=jpg&name=medium)
+
+___
+
+**[Productory](/tags/?tag=productory)** = Product + Story - Series các câu chuyện vui buồn, thấm đẫm mồ hôi và... trà sữa về công việc Quản lý & Phát triển sản phẩm của mình ở các công ty, tổ chức.
+
+**[Assemble](/tags/?tag=assemble)** = Trích trong cụm: 'Avengers Assemble!' của Steve Roger / Captain America trong trận chiến End Game. Series này mình viết về các hoạt động team up & engage với team.

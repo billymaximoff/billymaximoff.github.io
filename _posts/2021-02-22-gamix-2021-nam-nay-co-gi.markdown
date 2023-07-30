@@ -61,3 +61,10 @@ ___
 
 ![Part4.3](https://pbs.twimg.com/media/F10ZcEFaEAE02H0?format=jpg&name=large)
 
+___
+
+**[Productory](/tags/?tag=productory)** = Product + Story - Series các câu chuyện vui buồn, thấm đẫm mồ hôi và... trà sữa về công việc Quản lý & Phát triển sản phẩm của mình ở các công ty, tổ chức.
+
+**[Assemble](/tags/?tag=assemble)** = Trích trong cụm: 'Avengers Assemble!' của Steve Roger / Captain America trong trận chiến End Game. Series này mình viết về các hoạt động team up & engage với team.
+
+**[Workation](/tags/?tag=workation)** = Work + Vacation / Station - Series các bài viết về chuyện đi làm nói chung. Hy vọng có thể giúp anh chị em được phần nào reflect và share kinh nghiệm. Để đi làm vui như đi chơi.

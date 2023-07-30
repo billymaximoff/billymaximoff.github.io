@@ -118,3 +118,8 @@ Cuối cùng, chúc anh chị em và gia đình, người thân bình an. Chúc 
 
 **[Phần 1. xem lại tại đây.](/blog/toi-duong-tinh-roi-from-f0-to-normal-phan-1)**
 
+___
+
+**[Give Forward](/tags/?tag=give+forward)** - Các bài viết mình share các tips, các nguồn tài liệu, khóa học hay mà mình tự tìm được hoặc nhận từ người khác. Hy vọng bạn cũng give it forward để tiếp tục lan truyền nha.
+
+**[Ấm App](/tags/?tag=am+app)** = Ấm + App - Đọc hơi giống Ấm Áp đúng không? Hehee. Series này mình sẽ share các ứng dụng, sản phẩm (App) mình dùng (có thể là digital hoặc physical) mà khi mình dùng thì thấy... Ấm. 
