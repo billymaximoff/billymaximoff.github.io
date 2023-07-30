@@ -10,9 +10,9 @@ tags:   [productory, workation]
 
 Xem lại **[Phần 1](/blog/successful-communication-with-stakeholders-part-1) tại đây** bạn nhé.
 
-Còn 5 phút nữa. Các bạn cũng nhanh tay lên nhé.
+Còn 5 phút nữa. Các bạn cũng nhanh tay lên nào. Sắp hết giờ rồi.
 
-Đây là hình ảnh tư liệu: **Nét đẹp lao lực của các cháu Sản phẩm, Vận hành, Vẽ vời vào một ngày (hơi) đẹp trời**. 😌
+Còn nếu bạn xong rồi thì có thể xem qua hình ảnh tư liệu mà ê-kíp bên mình mới tác nghiệp: **Nét đẹp lao lực của các cháu Sản phẩm, Vận hành, Vẽ vời vào một ngày (hơi) đẹp trời**. 😌
 
 <div class="gallery-box">
   <div class="gallery">
