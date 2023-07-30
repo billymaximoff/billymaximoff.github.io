@@ -16,14 +16,14 @@ Còn nếu bạn xong rồi thì có thể xem qua hình ảnh tư liệu mà ê
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="https://pbs.twimg.com/media/F2RqGCBbYAAQpwE?format=jpg&name=medium" loading="lazy" alt="discuss">
-    <img src="https://pbs.twimg.com/media/F2RqO2saoAATnvt?format=jpg&name=medium" loading="lazy" alt="discuss">
+    <img src="https://pbs.twimg.com/media/F2RqGCBbYAAQpwE?format=jpg&name=large" loading="lazy" alt="discuss">
+    <img src="https://pbs.twimg.com/media/F2RqO2saoAATnvt?format=jpg&name=large" loading="lazy" alt="discuss">
   </div>
 </div>
 <div class="gallery-box">
   <div class="gallery">
-    <img src="https://pbs.twimg.com/media/F2RqLYZbIAA2WKz?format=jpg&name=medium" loading="lazy" alt="discuss">
-    <img src="https://pbs.twimg.com/media/F2RqQuaaAAACOOZ?format=jpg&name=medium" loading="lazy" alt="discuss">
+    <img src="https://pbs.twimg.com/media/F2RqLYZbIAA2WKz?format=jpg&name=large" loading="lazy" alt="discuss">
+    <img src="https://pbs.twimg.com/media/F2RqQuaaAAACOOZ?format=jpg&name=large" loading="lazy" alt="discuss">
   </div>
 <em>Discussion / Circus @ OneMount</em>
 </div>
@@ -76,16 +76,16 @@ Bài tập về nhà: Bạn thử giải quyết các tình huống mà các ch�
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="https://pbs.twimg.com/media/F2Rd5s2aQAE6h0l?format=jpg&name=medium" loading="lazy" alt="discuss">
-    <img src="https://pbs.twimg.com/media/F2Rdyu-bwAAjrGE?format=jpg&name=medium" loading="lazy" alt="discuss">
-    <img src="https://pbs.twimg.com/media/F2RdwoeboAAvDHS?format=jpg&name=medium" loading="lazy" alt="discuss">
+    <img src="https://pbs.twimg.com/media/F2Rd5s2aQAE6h0l?format=jpg&name=large" loading="lazy" alt="discuss">
+    <img src="https://pbs.twimg.com/media/F2Rdyu-bwAAjrGE?format=jpg&name=large" loading="lazy" alt="discuss">
+    <img src="https://pbs.twimg.com/media/F2RdwoeboAAvDHS?format=jpg&name=large" loading="lazy" alt="discuss">
   </div>
 </div>
 <div class="gallery-box">
   <div class="gallery">
-    <img src="https://pbs.twimg.com/media/F2Rd7OsaQAE-mSZ?format=jpg&name=medium" loading="lazy" alt="discuss">
-    <img src="https://pbs.twimg.com/media/F2Rd9FtbcAAYWkk?format=jpg&name=medium" loading="lazy" alt="discuss">
-    <img src="https://pbs.twimg.com/media/F2Rd3CBbkAASOAp?format=jpg&name=medium" loading="lazy" alt="discuss">
+    <img src="https://pbs.twimg.com/media/F2Rd7OsaQAE-mSZ?format=jpg&name=large" loading="lazy" alt="discuss">
+    <img src="https://pbs.twimg.com/media/F2Rd9FtbcAAYWkk?format=jpg&name=large" loading="lazy" alt="discuss">
+    <img src="https://pbs.twimg.com/media/F2Rd3CBbkAASOAp?format=jpg&name=large" loading="lazy" alt="discuss">
   </div>
 <em>Discussion / Circus @ OneMount</em>
 </div>
