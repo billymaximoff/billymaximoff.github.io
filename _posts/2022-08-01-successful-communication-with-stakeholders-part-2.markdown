@@ -72,7 +72,7 @@ Trong quá trình phối hợp, có thể xảy ra xung đột ý kiến hoặc 
 
 Để trở thành một Product Owner thành công, việc giao tiếp hiệu quả với các stakeholders là một yếu tố cực kỳ quan trọng. Giao tiếp đúng cách giúp mình hiểu rõ hơn về yêu cầu và mong đợi của stakeholders, tạo lòng tin, sự ủng hộ, và đạt được sự đồng thuận về mục tiêu và thành công của sản phẩm.
 
-Bài tập về nhà: Bạn thử giải quyết các tình huống mà các cháu team mình hỏi. 
+**Bài tập về nhà**. Bạn thử giải quyết các tình huống mà các cháu team mình hỏi dưới đây rồi inbox mình cùng discuss tiếp nhé. 😉
 
 <div class="gallery-box">
   <div class="gallery">

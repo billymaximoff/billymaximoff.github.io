@@ -57,7 +57,9 @@ Ví dụ:
 <br>
 ## Stakeholders & Know Your Stakeholders
 
-**Stakeholder** có thể được định nghĩa là bất kỳ cá nhân hoặc bộ phận trong một dự án, công ty hoặc tổ chức có tham gia và ảnh hưởng đến kết quả, tác động này có thể tích cực hoặc tiêu cực. Ở phạm vi cá nhân, stakeholders là những người có ảnh hướng đến kết quả của mình. Ví dụ: Với anh em Developer, PO và QC team mình là stakeholders, còn team khác thì không - bởi vì 2 bên không làm việc với nhau, tác động đến output của anh em rất ít.
+**Stakeholder** có thể được định nghĩa là bất kỳ cá nhân hoặc bộ phận trong một dự án, công ty hoặc tổ chức có tham gia và ảnh hưởng đến kết quả, tác động này có thể tích cực hoặc tiêu cực. Ở phạm vi cá nhân, stakeholders là những người có ảnh hướng đến kết quả của mình. 
+
+Ví dụ: Với anh em Developer, PO và QC team mình là stakeholders, còn team khác thì không - bởi vì 2 bên không làm việc với nhau, tác động đến output của anh em rất ít.
 
 > Bất kỉ tri bỉ, bách chiến bất đãi. ⚔
 >
