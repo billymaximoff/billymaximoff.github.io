@@ -5,7 +5,7 @@ description: Tiếp nối series livestream bóc trần sự thật. Hôm nay tu
 date:   2021-09-19 09:00:00 +0700
 image:  'https://pbs.twimg.com/media/F0-_aZnaAAAvWD4?format=png&name=900x900'
 image_caption: 'GamiX, by Hoàng Đăng'
-tags:   [gami, productory, assemble]
+tags:   [gami, productory, avengers assemble]
 ---
 
 **Bài dự thi 'Môi trường làm việc vui nhất' - One Mount's Birthday 2021**
@@ -118,4 +118,4 @@ ___
 
 **[Productory](/tags/?tag=productory)** = Product + Story - Series các câu chuyện vui buồn, thấm đẫm mồ hôi và... trà sữa về công việc Quản lý & Phát triển sản phẩm của mình ở các công ty, tổ chức.
 
-**[Assemble](/tags/?tag=assemble)** = Trích trong cụm: 'Avengers Assemble!' của Steve Roger / Captain America trong trận chiến End Game. Series này mình viết về các hoạt động team up & engage với team.
+**[Avengers Assemble](/tags/?tag=avengers+assemble)** = Câu nói nổi tiếng: 'Avengers Assemble!' của Steve Roger / Captain America trong trận chiến End Game. Series này mình viết về các hoạt động team up, build culture & engage với team.

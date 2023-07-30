@@ -5,7 +5,7 @@ description: Welcome to GamiX 2021. Đoán xem, chúng mình năm nay có gì ho
 date:   2021-02-22 09:00:00 +0700
 image:  'https://pbs.twimg.com/media/F10Y8SxaIAA_w3m?format=jpg&name=large'
 image_caption: 'GamiX 2021, by Hoàng Đăng'
-tags:   [gami, productory, assemble, workation]
+tags:   [gami, productory, avengers assemble, workation]
 ---
 
 Hmm. Cũng đã lâu mình chưa update Welcome Page của team. Cho bạn nào chưa biết hoặc không dùng, công ty mình dùng Confluence để viết và lưu trữ tài liệu, từ Business & Product Requirement Document đến Technical, QC,... Mỗi team, sản phẩm/nhóm sản phẩm có thể tạo một Space để chứa các tài liệu liên quan. (Chi tiết về Confluence và các sản phẩm của Atlassian mình sẽ share vào một bài viết khác).
@@ -65,6 +65,6 @@ ___
 
 **[Productory](/tags/?tag=productory)** = Product + Story - Series các câu chuyện vui buồn, thấm đẫm mồ hôi và... trà sữa về công việc Quản lý & Phát triển sản phẩm của mình ở các công ty, tổ chức.
 
-**[Assemble](/tags/?tag=assemble)** = Trích trong cụm: 'Avengers Assemble!' của Steve Roger / Captain America trong trận chiến End Game. Series này mình viết về các hoạt động team up & engage với team.
+**[Avengers Assemble](/tags/?tag=avengers+assemble)** = Câu nói nổi tiếng: 'Avengers Assemble!' của Steve Roger / Captain America trong trận chiến End Game. Series này mình viết về các hoạt động team up, build culture & engage với team.
 
 **[Workation](/tags/?tag=workation)** = Work + Vacation / Station - Series các bài viết về chuyện đi làm nói chung. Hy vọng có thể giúp anh chị em được phần nào reflect và share kinh nghiệm. Để đi làm vui như đi chơi.
