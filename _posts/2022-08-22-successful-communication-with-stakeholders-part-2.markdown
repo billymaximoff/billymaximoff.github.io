@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  Successful Communication with Stakeholders (Phần 2)
-description: Để trở thành một Product Owner thành công, việc giao tiếp hiệu quả với các stakeholders là một yếu tố cực kỳ quan trọng. Giao tiếp đúng cách giúp bạn hiểu rõ hơn về yêu cầu và mong đợi của stakeholders, tạo lòng tin, sự ủng hộ, và đạt được sự đồng thuận về mục tiêu và thành công của sản phẩm.
-date:   2022-08-01 09:00:00 +0700
+description: Mời bạn cùng team mình tìm hiểu giao tiếp đúng cách & làm sao để hiểu rõ hơn của stakeholders, từ đó, tạo lòng tin, sự ủng hộ, đạt được sự đồng thuận về mục tiêu và thành công của sản phẩm nghen.
+date:   2022-08-22 09:00:00 +0700
 image:  'https://pbs.twimg.com/media/F2RqCzebEAEnlUE?format=jpg&name=large'
 image_caption: 'Discussion / Circus @ OneMount'
 tags:   [productory, workation]
@@ -10,7 +10,10 @@ tags:   [productory, workation]
 
 Xem lại **[Phần 1](/blog/successful-communication-with-stakeholders-part-1) tại đây** bạn nhé.
 
-Còn 5 phút nữa. Các bạn cũng nhanh tay lên nào. Sắp hết giờ rồi.
+*(Xin lỗi các bạn. Title mình không biết dịch sang tiếng Việt như nào. Giao tiếp hiệu quả thì ổn, nhưng stakeholders là... các bên liên quan nghe hơi tối nghĩa nên bài này title tiếng Anh nha. Chán ghê nơi).* 🤧
+
+Còn 5 phút nữa. Các bạn cũng nhanh tay lên nào. Sắp hết giờ rồi. (5 phút ở vũ trụ One Mount dài bằng 35 ngày ở thế giới thực). 😗
+
 
 Còn nếu bạn xong rồi thì có thể xem qua hình ảnh tư liệu mà ê-kíp bên mình mới tác nghiệp: **Nét đẹp lao lực của các cháu Sản phẩm, Vận hành, Vẽ vời vào một ngày (hơi) đẹp trời**. 😌
 
@@ -25,7 +28,7 @@ Còn nếu bạn xong rồi thì có thể xem qua hình ảnh tư liệu mà ê
     <img src="https://pbs.twimg.com/media/F2RqLYZbIAA2WKz?format=jpg&name=large" loading="lazy" alt="discuss">
     <img src="https://pbs.twimg.com/media/F2RqQuaaAAACOOZ?format=jpg&name=large" loading="lazy" alt="discuss">
   </div>
-<em>Discussion / Circus @ OneMount</em>
+<em>Discussion / Circus @ One Mount</em>
 </div>
 
 *Reng. Reng. Hết giờ.*
@@ -71,6 +74,8 @@ Trong quá trình phối hợp, có thể xảy ra xung đột ý kiến hoặc 
 ## Tóm lại
 
 Để trở thành một Product Owner thành công, việc giao tiếp hiệu quả với các stakeholders là một yếu tố cực kỳ quan trọng. Giao tiếp đúng cách giúp mình hiểu rõ hơn về yêu cầu và mong đợi của stakeholders, tạo lòng tin, sự ủng hộ, và đạt được sự đồng thuận về mục tiêu và thành công của sản phẩm.
+
+Các phần trên không chỉ làm một lần hay trở nên êm đẹp trong ngày một ngày hai. Bạn hãy set nó trở thành công việc định kỳ mỗi sprint (retro), tháng, quý... Update khi thay đổi stakeholders để đảm bảo mối quan hệ luôn bền chặt.
 
 **Bài tập về nhà**. Bạn thử giải quyết các tình huống mà các cháu team mình hỏi dưới đây rồi inbox mình cùng discuss tiếp nhé. 😉
 

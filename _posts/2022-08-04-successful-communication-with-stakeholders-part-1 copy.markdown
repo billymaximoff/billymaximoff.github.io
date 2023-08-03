@@ -1,16 +1,14 @@
 ---
 layout: post
-title:  Successful Communication with Stakeholders (Phần 1)
-description: Giao tiếp hiệu quả với stakeholders là một kỹ năng cực kỳ cần thiết để đảm bảo sự thành công của sản phẩm, dự án, đặc biệt với Product Owner - người luôn được xem là cầu nối, nút thắt giữa các phòng ban, bộ phận. Công ty hiện tại của mình cũng đưa Stakeholders Management và Communication vào khung năng lực, phần nào khẳng định sự quan trọng của việc giao tiếp.
-date:   2022-07-17 09:00:00 +0700
+title: Lookback H1.2022 - Nửa năm nhìn lại 
+description: Khi các cháu bị bắt trả bài. Ủa chứ nửa năm rồi mấy đứa làm được gì? 🤧
+date:   2022-08-04 09:00:00 +0700
 image:  'https://images.unsplash.com/photo-1530099486328-e021101a494a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3947&q=80'
 image_caption: 'Communication / Akson @ Unsplash'
 tags:   [productory, workation]
 ---
 
-*(Hự, xin lỗi các bạn. Title mình không biết dịch sang tiếng Việt như nào. Giao tiếp hiệu quả thì ổn, nhưng stakeholders là... các bên liên quan nghe hơi tối nghĩa nên bài này title tiếng Anh nha. Chán ghê nơi).* 🤧
-
-Tình hình là vài tuần trở lại đây, mình nhận được feedbacks từ anh chị em trong công ty về các bạn Product team mình, cộng thêm việc các output không được deliver mượt mà như trước. Mình thử dành thêm thời gian quan sát cách các bạn trao đổi và xử lý công việc ở các threads, channels thì có vẻ team đang có vấn đề về giao tiếp thật. Vậy nên, mình setup một buổi sharing về topic: **'Successful Communication with Stakeholders'** để mọi người cùng nhìn lại và điều chỉnh cho hiệu quả hơn. 
+Mìn
 
 **Note.** Vì việc giao tiếp chưa tốt có thể là hệ quả của nhiều nguyên nhân chủ quan như quản lý công việc, thời gian, giới hạn năng lực,... hay khách quan như thành viên mới, thông tin từ stakeholders chưa đẩy đủ, thay đổi yêu cầu,... Tuy nhiên, trong phạm vi của buổi sharing không thể đi qua quá nhiều nội dung, các phần trên sẽ có buổi khác và / hoặc personalize cho từng bạn. Chúng mình sẽ tập trung vào những điều cơ bản và có thể áp dụng để cải thiện được ngay.
 
