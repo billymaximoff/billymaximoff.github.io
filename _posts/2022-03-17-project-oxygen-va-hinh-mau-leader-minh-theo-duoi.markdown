@@ -89,7 +89,7 @@ Với công ty, tổ chức:
 
 Tham khảo - **Manager Feedback Survey / re:Work @ Google**: 
 <br>
-<iframe src="https://docs.google.com/document/d/1WFSzd4gEQd2xDsKW57Oku-PRFymag_ZMYWbvmSXOBaM/" style="border-radius: 0" frameborder="0" width="100%" height="140%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/document/d/1WFSzd4gEQd2xDsKW57Oku-PRFymag_ZMYWbvmSXOBaM/edit?usp=sharing&resourcekey=0-W_dA-KE1eXyDi1K5ucVpDA/" style="border-radius: 0" frameborder="0" width="100%" height="140%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <br>
 <br>
 Với bản thân, mọi người cùng xem bản thân mình ✅ được bao nhiêu trong số 10 đặc điểm trên - riêng mục 9 có thể thay thế bằng tổ chức của bạn. Những phần còn thiếu, hãy lên plan để fill up.
