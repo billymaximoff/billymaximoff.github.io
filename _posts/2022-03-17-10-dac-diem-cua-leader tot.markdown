@@ -1,0 +1,58 @@
+---
+layout: post
+title: Project Oxygen và hình mẫu leader mình theo đuổi
+description: 
+date:   2022-03-17 09:00:00 +0700
+image:  'https://images.unsplash.com/photo-1491911923017-19f90d8d7f83?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1587&q=80'
+image_caption: 'Product / Austin Distel @ Unsplash'
+tags:   [Leadership, Avengers Assemble]
+---
+
+Post trước đã giới thiệu về 2 phần của Product Management - Quản lý Sản phẩm: Product Development - Phát triển Sản phẩm & Product Operation - Vận hành Sản phẩm. Bài viết này sẽ giới thiệu cho các bạn phần còn lại - Product Growth và thực tế áp dụng nhé.
+
+<style>
+.responsive-wrap iframe{ max-width: 100%;}
+</style>
+<div class="responsive-wrap">
+<!-- this is the embed code provided by Google -->
+  <iframe src="https://docs.google.com/presentation/d/1ZZZJuvU_QDoiVC62lyONU_N093utlHfJUlM1M6s20As/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="border-radius: 0"></iframe>
+<!-- Google embed ends -->
+</div>
+
+<br>
+<br>
+
+Xem file trên Google Docs: **[tại đây](https://docs.google.com/document/d/119BOQQqVeumpGiJkxxybdN02pIloIQXqgU1VstFtr7M/edit?usp=sharing)**
+<br>
+<br>
+<style>
+.responsive-wrap iframe{ max-width: 100%;}
+</style>
+Google Docs
+
+___
+<iframe src="https://docs.google.com/document/d/119BOQQqVeumpGiJkxxybdN02pIloIQXqgU1VstFtr7M/" style="border-radius: 0" frameborder="0" width="100%" height="140%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+___
+<br>
+<br>
+Google Sheet
+
+___
+<iframe src="https://docs.google.com/spreadsheets/d/19lC40UkYOFucvU4xxtjSuLmilAwRiSO7bmUX33C0G1Y/" style="border-radius: 0" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+___
+<br>
+<br>
+Google Slides
+
+___
+<iframe src="https://docs.google.com/presentation/d/1ZZZJuvU_QDoiVC62lyONU_N093utlHfJUlM1M6s20As/" style="border-radius: 0" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+___
+
+<br>
+<br>
+Google PDF
+
+___
+<iframe src="https://drive.google.com/file/d/1luU61U6QoImOkDYhA5mP6athGc9QAz3y/" style="border-radius: 0" frameborder="0" width="100%" height="80%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
