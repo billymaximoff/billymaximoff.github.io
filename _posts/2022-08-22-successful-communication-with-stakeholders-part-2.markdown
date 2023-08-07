@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Successful Communication with Stakeholders (Phần 2)
-description: Mời bạn cùng team mình tìm hiểu giao tiếp đúng cách & làm sao để hiểu rõ hơn của stakeholders, từ đó, tạo lòng tin, sự ủng hộ, đạt được sự đồng thuận về mục tiêu và thành công của sản phẩm nghen.
+description: Mời bạn tiếp tục cùng team mình tìm hiểu cách giao tiếp đúng & hiểu stakeholders hơn nghen.
 date:   2022-08-22 09:00:00 +0700
 image:  'https://pbs.twimg.com/media/F2RqCzebEAEnlUE?format=jpg&name=large'
 image_caption: 'Discussion / Circus @ OneMount'
@@ -33,7 +33,10 @@ Còn nếu bạn xong rồi thì có thể xem qua hình ảnh tư liệu mà ê
 
 *Reng. Reng. Hết giờ.*
 
-Các bạn lần lượt trình bày về stakeholders mà mình đã phân tích và thảo luận cùng các bạn khác. Mọi người share khá nhiều về insight và solution hay. Có thể tóm tắt bằng các nguyên tắc sau:
+Các nhóm lần lượt trình bày về stakeholders mà mình đã phân tích và thảo luận cùng các nhóm khác. Rất nhiều về insight và solution hay được kể ra - mà không cần bất kỳ giáo án nào hướng dẫn. Điều đó cho thấy rằng, việc hiểu stakeholders (hay bất kỳ ai) rất đơn giản - chỉ cần chúng ta dành thời gian quan sát, để tâm hơn đến họ, hoàn cảnh, tính cách, nhu cầu,...
+
+Tuy nhiên, để ngắn gọn và dễ nhớ, chúng mình tóm tắt bằng các nguyên tắc sau:
+
 
 ## Successful Communication with Stakeholders
 
@@ -95,7 +98,7 @@ Các phần trên không chỉ làm một lần hay trở nên êm đẹp trong 
 <em>Discussion / Circus @ OneMount</em>
 </div>
 
-Chúc bạn trở thành bậc thầy giao tiếp! 😗
+Chúc các bạn sớm trở thành bậc thầy giao tiếp! 😗
 
 ___
 
