@@ -5,7 +5,7 @@ description: Leader tốt giống như oxy vậy - cực kỳ cần thiết như
 date:   2022-03-17 09:00:00 +0700
 image:  'https://images.unsplash.com/photo-1491911923017-19f90d8d7f83?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1587&q=80'
 image_caption: 'Product / Austin Distel @ Unsplash'
-tags:   [Leadership, Avengers Assemble]
+tags:   [Leadership, Avengers Assemble, Workation]
 ---
 
 Có lần, mình tình cờ được đọc bài viết về Project Oxygen của Google. Nhờ vậy mình xác định và góp phần xây dựng được rõ ràng hơn hình mẫu leader mà mình muốn trở thành. Hành trình này có thể sẽ rất dài và mình vẫn đang trên con đường để hoàn thiện mỗi ngày. Hôm nay, mình share lại cho anh em cùng tham khảo, biết đâu, mình lại có ai đó chung chí hướng thì sao. 😗
@@ -27,10 +27,12 @@ Sứ mệnh của họ là phát triển một thứ cực kỳ quan trọng v�
 Họ - muốn **XÂY DỰNG MỘT ĐỘI NGŨ LEADER TỐT HƠN**.
 
 Project này tập trung vào giải quyết hai câu hỏi:
-**1) Do leaders (*) matter? / Leaders có quan trọng không?
-2) What if every employee at Google had an awesome leader? / Điều gì sẽ xảy ra nếu mỗi nhân viên tại Google đều có một leader 'xịn sò'?**
 
-Spoiler alert: Leaders matter, a lot. / Leaders ảnh hưởng đến chúng ta rất rất nhiều. 😗
+- 1) Do leaders (*) matter? / Leaders có quan trọng không?
+
+- 2) What if every employee at Google had an awesome leader? / Điều gì sẽ xảy ra nếu mỗi nhân viên tại Google đều có một leader 'xịn sò'?
+
+Spoiler alert. **Leaders matter, a lot. / Leaders ảnh hưởng đến chúng ta rất rất nhiều.** 😗
 
 (*) Từ gốc trong Project Oxygen là 'manager', mình dùng tạm từ 'leader' thay thế để không nhầm lẫn với vai trò quản lý đơn thuần.
 
@@ -38,9 +40,10 @@ Vì vậy, như cách một tập đoàn khai thác dữ liệu kiểu Google c�
 
 Mọi người có thể xem thêm về Project Oxygen tại đây:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JattR1uoX7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JattR1uoX7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 <em>Michelle Donovan - Co-Founder, Original Project Oxygen Researchers & Kevin Burkhard - Popular Manager @ Google</em>
-<br>
+</iframe>
+
 <br>
 <style>
 .responsive-wrap iframe{ max-width: 100%;}
@@ -54,8 +57,9 @@ Mọi người có thể xem thêm về Project Oxygen tại đây:
 
 
 ## 10 tố chất của một leader 'xịn sò'
-<br>
+
 ![8 Habit](https://lh3.googleusercontent.com/QHnklPaN7UlXlR0-7EYtcVUTg0zTeGdtm7dqYm0Z1ubCX1FdSyxcHTQMGNPm4CfvOakEr6_1dTMlSmrOxtbT3QA=w1614)
+<br>
 <br>
 10 tố chất của một leader 'xịn sò' theo tiêu chuẩn Oxygen, Google bao gồm:
 
@@ -72,7 +76,7 @@ Mọi người có thể xem thêm về Project Oxygen tại đây:
 
 Chi tiết hơn về 10 tố chất trên: [Project Oxygen – The 10 Qualities You Need to Be a Great Leader](https://institutesuccess.com/2019/07/project-oxygen-the-10-qualities-you-need-to-be-a-great-leader/)
 
-**Note.** Ban đầu, danh sách này chỉ gồm 8 tố chất. Về sau, mục 3 & 6 được cập nhật và bổ sung mục 9 & 10.
+**Note.** Ban đầu, danh sách này chỉ gồm 8 mục. Về sau, mục 3 & 6 được cập nhật và bổ sung mục 9 & 10.
 
 
 
@@ -83,12 +87,16 @@ Với công ty, tổ chức:
 - Đào tạo kỹ năng và tạo điều kiện cho nhân sự thử sức ngay khi họ chưa trở thành leader hay manager
 - Đồng hành và phản hồi liên tục với các bạn leader / manager, đặc biệt là người mới
 
-Tham khảo - **Manager Feedback Survey**: 
+Tham khảo - **Manager Feedback Survey / re:Work @ Google**: 
 <br>
 <iframe src="https://docs.google.com/document/d/1WFSzd4gEQd2xDsKW57Oku-PRFymag_ZMYWbvmSXOBaM/" style="border-radius: 0" frameborder="0" width="100%" height="140%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <br>
 <br>
-Với bản thân, mọi người cùng xem bản thân mình ✅ được bao nhiêu trong số 10 đặc điểm trên - riêng mục 9 có thể thay thế bằng tổ chức của bạn. Những phần còn thiếu, hãy lên plan để fill up. Những leader Oxygen đều có điểm chung là những người dành sự quan tâm sâu sắc cho team mà họ lead, nhờ vậy team xây dựng được sự tin tưởng, gắn kết và cùng nhau phát triển. Thế nên, nếu bạn đã đạt 10/10 điểm, xin chúc mừng team của bạn đã có một leader siêu xịn sò. Hãy share và build thêm nhiều nhiều leader xịn như bạn nha. 
+Với bản thân, mọi người cùng xem bản thân mình ✅ được bao nhiêu trong số 10 đặc điểm trên - riêng mục 9 có thể thay thế bằng tổ chức của bạn. Những phần còn thiếu, hãy lên plan để fill up.
+
+Những Oxygen leaders đều có điểm chung là những người dành sự quan tâm sâu sắc cho team mà họ lead, nhờ vậy team xây dựng được sự tin tưởng, gắn kết và cùng nhau phát triển. Sẽ không có bất kỳ leader hay manager tốt nào chỉ quan tâm đến công việc mà bỏ qua đào tạo, xây dựng đội ngũ.
+
+Thế nên, nếu bạn đã đạt 10/10 điểm, xin chúc mừng team của bạn đã có một leader siêu xịn sò. Hãy share và build thêm nhiều nhiều leader xịn như bạn nha. 
 
 
 
@@ -98,7 +106,7 @@ Dưới đây là một vài bài viết, video hay liên quan đến Project Ox
 
 - [Google’s Quest to Build a Better Boss / New York Times](https://www.nytimes.com/2011/03/13/business/13hire.html)
 - [How Google Sold Its Engineers on Management / Havard Business Review](https://hbr.org/2013/12/how-google-sold-its-engineers-on-management)
-- How Google Makes Managers Awesome / re:Work
+- How Google Makes Managers Awesome / re:Work:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QC_PGHkRvTw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
