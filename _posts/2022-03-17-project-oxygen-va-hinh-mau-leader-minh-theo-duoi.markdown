@@ -5,7 +5,7 @@ description: Leader tốt giống như oxy vậy - cực kỳ cần thiết như
 date:   2022-03-17 09:00:00 +0700
 image:  'https://images.unsplash.com/photo-1491911923017-19f90d8d7f83?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1587&q=80'
 image_caption: 'Product / Austin Distel @ Unsplash'
-tags:   [Leadership, Avengers Assemble, Workation]
+tags:   [leadership, avengers assemble, workation]
 ---
 
 Có lần, mình tình cờ đọc được bài viết về Project Oxygen của Google. Hình mẫu leader bấy lâu mình tìm kiếm bỗng nhiên trở nên rõ ràng & sống động đến lạ. Và cũng từ hôm đó, mình chọn trở thành một Oxygen Leader. Hành trình này có thể sẽ rất dài và mình vẫn đang trên con đường để hoàn thiện mỗi ngày. Hôm nay, rảnh rang nhìn lại, mình viết vài dòng share cho anh em cùng tham khảo, biết đâu, có ai đó chung chí hướng vì một... môi trường làm việc trong lành như mình thì sao. 😗
@@ -88,7 +88,7 @@ Với công ty, tổ chức:
 
 Tham khảo - **Manager Feedback Survey / re:Work @ Google**: 
 <br>
-<iframe src="https://docs.google.com/document/d/1WFSzd4gEQd2xDsKW57Oku-PRFymag_ZMYWbvmSXOBaM/edit?usp=sharing&resourcekey=0-W_dA-KE1eXyDi1K5ucVpDA/" style="border-radius: 0" frameborder="0" width="100%" height="140%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/document/d/1WFSzd4gEQd2xDsKW57Oku-PRFymag_ZMYWbvmSXOBaM/edit?usp=sharing&resourcekey=0-W_dA-KE1eXyDi1K5ucVpDA" style="border-radius: 0" frameborder="0" width="100%" height="140%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <br>
 <br>
 Với bản thân, mọi người cùng xem mình ✅ được bao nhiêu trong số 10 đặc điểm trên - riêng mục 9 có thể thay thế bằng tổ chức của bạn. Những phần còn thiếu, hãy lên plan để fill up.
