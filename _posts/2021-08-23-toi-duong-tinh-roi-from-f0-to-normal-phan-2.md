@@ -7,7 +7,7 @@ image:  'https://images.unsplash.com/photo-1584265549731-fc0d5434ff76?ixlib=rb-4
 tags: [health, give forward, warm app]
 ---
 
-Đã 1 tuần trôi qua, và như đã hẹn ở **[bài trước](/blog/toi-duong-tinh-roi-from-f0-to-normal-phan-1)**, mình tiếp tục share mọi người về trải nghiệm & những tips mình đã rút ra được khi chăm F0 tại nhà nhé.
+Đã 1 tuần trôi qua, và như đã hẹn ở **[bài trước](/blog/toi-duong-tinh-roi-from-f0-to-normal-phan-1)**, mình tiếp tục share với mọi người về trải nghiệm & những tips mình đã rút ra được khi chăm F0 tại nhà nhé.
 
 **[Phần 1.](/blog/toi-duong-tinh-roi-from-f0-to-normal-phan-1)** <br>
 - Khuyến cáo & Lưu ý

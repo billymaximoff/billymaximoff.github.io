@@ -1,20 +1,18 @@
 ---
 layout: post
 title: Tôi dương tính rồi! - From F0 to Normal (Phần 1)
-description: Dưới đây là những kinh nghiệm mình đã áp dụng khi chăm sóc người thân F0. Hy vọng có thể giúp mọi người phần nào.
+description: Dưới đây là những kinh nghiệm mình khi chăm sóc người thân F0. Hy vọng có thể giúp mọi người phần nào.
 date: 2021-08-17 15:01:35 +0700
 image: 'https://images.unsplash.com/photo-1601055283742-8b27e81b5553?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80'
 image_caption: 'Tôi dương tính rồi! - From F0 to Normal (Phần 1)'
 tags: [health, give forward, warm app]
 ---
 
-Hiện tại, đang là giai đoạn cao điểm của dịch. Thành phố Hồ Chí Minh phong tỏa, giãn cách theo Chỉ thị 16, khu mình ở là vùng Đỏ, chốt chặn, giăng dây,... có đủ cả. Và, em gái mình không may đã dương tính. Tuy nhiên, vì các khu cách ly đang quá tải nên tạm thời em vẫn được ở nhà, tính ra vẫn may.
+Hiện tại, đang là giai đoạn cao điểm của dịch. Thành phố Hồ Chí Minh phong tỏa, giãn cách theo Chỉ thị 16, khu mình ở là vùng Đỏ, chốt chặn, giăng dây,... có đủ cả. Và, em gái mình không may dương tính. Tuy nhiên, vì các khu cách ly đang quá tải nên tạm thời em được ở nhà, tính ra vẫn may.
 
-Mình đã chăm sóc em mình được hơn 1 tuần và tình hình tiến triển khá tốt. Qua chuyện này, mình thấy rằng, mọi người thường có tâm lý chủ quan, không chuẩn bị trước cho các tình huống xấu nên khi F0 mọi người rất bối rối dẫn đến xử lý chưa đúng hoặc thiếu sót. Sau khi sharing với các anh chị em trên công ty, mình nghĩ sẽ có nhiều anh chị em ngoài kia cũng sẽ phải chăm sóc người bệnh như vậy.
+Mình đã chăm sóc em mình được hơn 1 tuần và tình hình tiến triển khá tốt. Qua chuyện này, mình thấy rằng, F0 đáng sợ thật nhưng không khó đối phó. Chỉ là mọi người thường chủ quan, không chuẩn bị trước cho các tình huống xấu nên khi F0 mọi người rất bối rối dẫn đến xử lý chưa đúng hoặc thiếu sót. Sau khi sharing với các anh chị em trên công ty, mình nghĩ sẽ có nhiều bạn ngoài kia cũng sẽ phải chăm sóc người bệnh như vậy.
 
-Thế nên mình viết lại những kinh nghiệm mình đã áp dụng. Ngoài ra, vì bản thân là dân Product nên mình cũng tận dụng một số ứng dụng để hỗ trợ mình tốt hơn.
-
-Mong rằng chút chia sẻ này có thể hữu ích nếu bạn / người thân chẳng may F0 (hoặc các bệnh tương tự).
+Thế nên mình viết lại chút kinh nghiệm, mong rằng chút chia sẻ này có thể hữu ích nếu bạn / người thân chẳng may F0 (hoặc các bệnh tương tự).
 
 **Phần 1.**
 - [Khuyến cáo & Lưu ý](#part1)

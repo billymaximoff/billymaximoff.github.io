@@ -10,7 +10,7 @@ tags:   [gami, productory, avengers assemble]
 
 **Bài dự thi 'Môi trường làm việc vui nhất' - One Mount's Birthday 2021**
 
-Đã bao giờ quí dị mở app VinID và đặt câu hỏi ‘thế lực’ nào đứng sau, bao thâu toàn bộ hoạt động may rủi, casino, lô tô, trả thưởng. Đã bao giờ ‘quí dị’ tham gia các chương trình nội bộ của tập đoàn, công ty và thắc mắc, kẻ nào đứng trong bóng đêm phát lượt lắc, phát quà cho mình? Hôm nay, tui sẽ bật mí cho quí dị nghe những gì cộng đồng mạng chưa biết về team Gami này. ‘Quí dị’ sẵn sàng nghe tui ‘vạch trần’ coi tụi nó là ai nha. 😎
+Đã bao giờ 'quý dị' mở app VinID và đặt câu hỏi ‘thế lực’ nào đứng sau, bao thâu toàn bộ hoạt động may rủi, casino, lô tô, trả thưởng. Đã bao giờ ‘quý dị’ tham gia các chương trình nội bộ của tập đoàn, công ty và thắc mắc, kẻ nào đứng trong bóng đêm phát lượt lắc, phát quà cho mình? Hôm nay, tui sẽ bật mí cho 'quý dị' nghe những gì cộng đồng mạng chưa biết về team Gami này. ‘Quý dị’ sẵn sàng nghe tui ‘vạch trần’ coi tụi nó là ai nha. 😎
 
 
 ## GamiX - là ai ta? Quen không? <a name="part1"></a>
