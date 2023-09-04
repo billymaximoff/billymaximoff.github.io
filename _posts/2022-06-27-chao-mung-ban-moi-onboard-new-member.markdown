@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Chào mừng bạn mới 👋🏻
-description: Team mình sẽ lại chào đon thành viên mới vào ngày mai. Nhân đây, mình sẽ share cho các bạn team mình đã onboard thành viên mới như thế nào nha!
+description: Team mình sẽ lại chào đón thành viên mới vào ngày mai. Nhân đây, mình sẽ share cho các bạn team mình đã onboard thành viên mới như thế nào nha!
 date:   2022-06-27 09:00:00 +0700
 image:  'https://images.pexels.com/photos/3826676/pexels-photo-3826676.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
 image_caption: 'welcome / cottonbro studio @ Pexel'
@@ -41,13 +41,18 @@ Trước khi bắt đầu onboard thành viên mới vào team, leader cần xá
 
 Mỗi bạn mới có nền tảng kiến thức, kỹ năng, kinh nghiệm và phong cách làm việc khác nhau. Do đó, leader cần điều chỉnh quá trình onboard để phù hợp với nhu cầu và năng lực của từng bạn. Ví dụ: Senior Product Owner đã có kinh nghiệm làm việc với sản phẩm tương tự, leader có thể tập trung vào việc giới thiệu về sự khác biệt của sản phẩm, rút ngắn thời gian tìm hiểu tài liệu,... Nếu Junior Product Owner / Fresher chưa quen với công cụ hoặc quy trình của team, leader có thể dành nhiều thời gian để hướng dẫn và luyện tập thêm.
 
+## 3. Chuẩn bị được gì thì nên chuẩn bị
 
-## 3. Tạo không khí thoải mái và thân thiện
+- Tổng hợp tất cả những tài liệu, kênh liên lạc / PIC, scope & nội dung trao đổi vào 1 nơi dễ dàng tra cứu, thay vì để thành viên mới mất thời gian loay hoay đi hỏi những nội dung đáng-lẽ-ra-phải-được-chuẩn-bị-từ-trước. 
+- Phối hợp với các bộ phận liên quan để cấp quyền đăng nhập,các tài khoản dùng chung,... để bạn mới nhanh chóng hòa nhập vào công việc. Phần này cần sự đồng thuận, quy trình hóa với HR, IT Helpdesk, Security,...
+
+
+## 4. Tạo không khí thoải mái và thân thiện
 
 Onboard thành viên mới vào team không chỉ là việc truyền đạt thông tin mà còn là việc xây dựng mối quan hệ. Leader cần tạo không khí thoải mái và thân thiện cho quá trình onboard để bạn mới cảm thấy được chào đón và tôn trọng. Team nên lưu ý: sử dụng ngôn ngữ dễ hiểu và lịch sự, tránh sử dụng các thuật ngữ hoặc cụm từ khó hiểu, đặt câu hỏi mở và lắng nghe ý kiến của thành viên mới, khuyến khích sự tham gia và góp ý của thành viên mới, khen ngợi và động viên thành viên mới khi họ hoàn thành tốt các nhiệm vụ.
 
 
-## 4. Đánh giá và cải thiện quá trình onboard
+## 5. Đánh giá và cải thiện quá trình onboard
 
 Sau khi kết thúc quá trình onboard, leader cần đánh giá và cải thiện quá trình này để có thể áp dụng cho các thành viên mới tiếp theo. Các phương pháp đánh giá:
 - Lấy phản hồi từ thành viên mới về những điểm tốt và điểm cần cải thiện của quá trình onboard
@@ -55,7 +60,8 @@ Sau khi kết thúc quá trình onboard, leader cần đánh giá và cải thi�
 - Đánh giá performance và tiến độ của thành viên mới trong thời gian đầu làm việc.
 Từ đó sửa đổi nội dung, thời lượng, phương pháp và công cụ của quá trình onboard, chia sẻ kinh nghiệm và bài học về quá trình onboard với các leader khác, cập nhật và bổ sung các tài liệu và nguồn thông tin liên quan cho quá trình onboard.
 
-## 5. Tuyệt đối KHÔNG 'thao túng', xây dựng định kiến với thành viên mới hay với team
+
+## 6. Tuyệt đối KHÔNG 'thao túng', xây dựng định kiến với thành viên mới hay với team
 
 Một lưu ý cực kỳ quan trọng - leader & team hãy tạo điều kiện 'fresh' nhất với thành viên mới, để bạn có cơ hội trải nghiệm, tiếp cận với mọi người, công việc bằng con mắt khách quan nhất. Tránh xây dựng định kiến về bạn hoặc về các thành viên khác trong team hay 'thao túng' tâm lý bạn mới thông qua các câu chuyện một chiều, thiếu tính xác thực, không đẩy đủ nhằm lôi kéo thành viên mới thích / không thích người khác.
 
@@ -67,7 +73,7 @@ Ngược lại, lời khuyên với các bạn mới:
 
 ---
 
-Dưới đây là file chi tiết về ONBOARDING NEW PRODUCT OWNER - ĐỨC ANH vào ngày mai. Bạn có thể tham khảo và xây dựng cho team mình một lộ trình chào mừng bạn mới phù hợp.
+Dưới đây là file chi tiết về **ONBOARDING NEW PRODUCT OWNER - ĐỨC ANH** vào ngày mai. Bạn có thể tham khảo và xây dựng cho team mình một lộ trình chào mừng bạn mới phù hợp.
 
 Xem file trên Google Docs: **[tại đây](https://docs.google.com/document/d/119BOQQqVeumpGiJkxxybdN02pIloIQXqgU1VstFtr7M/edit?usp=sharing)**
 <br>
@@ -85,3 +91,9 @@ Tất nhiên, đây không phải là một công việc dễ dàng. Nó đòi h
 
 Hy vọng bài viết này có ích cho bạn. Nếu bạn có bất kỳ câu hỏi hay ý kiến nào, inbox cùng mình trao đổi nhé. Cảm ơn bạn đã đọc! 😊
 
+___
+
+**[Productory](/tags/?tag=productory)** = Product + Story - Series các câu chuyện vui buồn, thấm đẫm mồ hôi và... trà sữa về công việc Quản lý & Phát triển sản phẩm của mình ở các công ty, tổ chức.
+
+
+**[Workation](/tags/?tag=workation)** = Work + Vacation / Station - Series các bài viết về chuyện đi làm nói chung. Hy vọng có thể giúp anh chị em được phần nào reflect và share kinh nghiệm. Để đi làm vui như đi chơi.
