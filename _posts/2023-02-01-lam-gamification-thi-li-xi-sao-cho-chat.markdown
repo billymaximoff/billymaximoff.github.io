@@ -64,10 +64,9 @@ Vốn sẵn tính thích đỏ đen, may rủi, lại cũng dắt túi sơ sơ v
 <div class="gallery-box">
   <div class="gallery">
     <img src="https://pbs.twimg.com/media/F1f0hbGagAA90wO?format=jpg&name=medium" loading="lazy" alt="Product">
-    <img src="https://pbs.twimg.com/media/F1f0kLGaMAER_7y?format=jpg&name=medium" loading="lazy" alt="Product">
   </div>
+
 - Người chị nổ phát súng đầu tiên mở đầu cuộc chơi. Những lá bài trên tay như tiên đoán trước được vận mệnh năm nay của chị - dù thua nhẹ cuộc chơi nhưng chắc chắn chị sẽ thắng cả trận chiến. Chồng con và thế giới sẽ yêu thương chị nhiều như số ♥ có trong những lá bài kia vậy. Chúc chị hạnh phúc và được chồng tặng nhiều vàng hơn năm ngoái. 
-- Đầu năm hoan hỉ, come back cho team bốc lì xì, cứ 1 điểm đổi 1 tờ mà người em may mắn dù bốc bao nhiêu lần cũng chỉ một kết quả, ắt hẳn là định mệnh. Dù sao campaign cũng kết thúc tốt đẹp. Chúc cả nhà năm mới luôn là kẻ may mắn trong mọi ván bài nhoé! 
 
 
 
@@ -84,7 +83,9 @@ Chúc cả nhà năm mới may mắn, vạn sự... (Ô Lạp Na Lạp) Như Ý!
 
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@circusquad22/video/7195603610397379845" data-video-id="7195603610397379845" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@circusquad22" href="https://www.tiktok.com/@circusquad22?refer=embed">@circusquad22</a> Sếp lì xì kiểu đỏ đen ♥️♣️♠️♦️ <a title="cotsongvanphong" target="_blank" href="https://www.tiktok.com/tag/cotsongvanphong?refer=embed">#cotsongvanphong</a> <a title="circusquad22" target="_blank" href="https://www.tiktok.com/tag/circusquad22?refer=embed">#circusquad22</a> <a title="dilamcogivui" target="_blank" href="https://www.tiktok.com/tag/dilamcogivui?refer=embed">#dilamcogivui</a> <a title="seplixi" target="_blank" href="https://www.tiktok.com/tag/seplixi?refer=embed">#seplixi</a> <a title="lixi" target="_blank" href="https://www.tiktok.com/tag/lixi?refer=embed">#lixi</a> <a target="_blank" title="♬ nhạc nền  - Cột sống văn phòng" href="https://www.tiktok.com/music/nhạc-nền-Cột-sống-văn-phòng-7195603609755716358?refer=embed">♬ nhạc nền  - Cột sống văn phòng</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 
+
 ___
+
 
 **[Productory](/tags/?tag=productory)** = Product + Story - Series các câu chuyện vui buồn, thấm đẫm mồ hôi và... trà sữa về công việc Quản lý & Phát triển sản phẩm của mình ở các công ty, tổ chức.
 

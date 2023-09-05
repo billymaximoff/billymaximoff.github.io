@@ -22,11 +22,11 @@ Mình có thể chia tạm thành 2 đối tượng chính khi onboard: Squad Te
      - Hai bên đi đến đồng thuận và thống nhất về lộ trình: ngắn hạn (thử việc) và dài hạn (1 - 2 năm ở tổ chức)
 
 ![welcomein](https://images.unsplash.com/photo-1603912699214-92627f304eb6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3800&q=80)
-
+<br>
 
 Dù onboard theo cách nào, theo mình, nên đảm bảo các tiêu chí sau:
 
-
+<br>
 ## 1. Xác định goals & plan của quá trình onboard
 
 Trước khi bắt đầu onboard thành viên mới vào team, leader cần xác định rõ goals và plan.
@@ -34,7 +34,7 @@ Trước khi bắt đầu onboard thành viên mới vào team, leader cần xá
 - Plan có thể bao gồm các hoạt động như: giới thiệu về team và các thành viên, cung cấp các tài liệu và nguồn thông tin liên quan, tổ chức các buổi học tập và thảo luận, giao các nhiệm vụ nhỏ và đánh giá kết quả, phản hồi và hỗ trợ liên tục.
 
 Buổi 1-1 mình nhắc đến ở trên chính là buổi để 2 bên trao đổi kỹ với nhau về goals và plan.
-
+<br>
 
 ## 2. Personalize onboard theo từng cá nhân
 
@@ -42,14 +42,14 @@ Mỗi bạn mới có nền tảng kiến thức, kỹ năng, kinh nghiệm và 
 Ví dụ:
 - Senior Product Owner đã có kinh nghiệm làm việc với sản phẩm tương tự, leader có thể tập trung vào việc giới thiệu về sự khác biệt của sản phẩm, rút ngắn thời gian tìm hiểu tài liệu,...
 - Nếu Junior Product Owner / Fresher chưa quen với công cụ hoặc quy trình của team, leader có thể dành nhiều thời gian để hướng dẫn và luyện tập thêm.
-
+<br>
 
 ## 3. Chủ động chuẩn bị những gì có thể
 
 - Tổng hợp tất cả những tài liệu, kênh liên lạc / PIC, scope & nội dung trao đổi vào 1 nơi dễ dàng tra cứu, thay vì để thành viên mới mất thời gian loay hoay đi hỏi những nội dung đáng-lẽ-ra-phải-được-chuẩn-bị-từ-trước. 
 - Phối hợp với các bộ phận liên quan để cấp quyền đăng nhập,các tài khoản dùng chung,... để bạn mới nhanh chóng hòa nhập vào công việc. Phần này cần sự đồng thuận, quy trình hóa với HR, IT Helpdesk, Security,...
 - Khi add bạn mới vào group, hãy nhớ giới thiệu với mọi người trong channel về bạn mới; đồng thời giới thiệu với bạn mới channel này có ai, mục đích để làm gì.
-
+<br>
 
 ## 4. Tạo không khí thoải mái và thân thiện
 
@@ -58,6 +58,7 @@ Onboard thành viên mới vào team không chỉ là việc truyền đạt th�
 - Team cũng nên lưu ý sử dụng ngôn ngữ dễ hiểu và lịch sự, tránh sử dụng các thuật ngữ hoặc cụm từ khó hiểu; đặt câu hỏi mở và lắng nghe ý kiến, khuyến khích sự tham gia và góp ý của thành viên mới, khen ngợi và động viên bạn khi bạn hoàn thành tốt các nhiệm vụ.
 - Chủ động làm quen và hỗ trợ bạn mới. Team chỉ làm quen với 1 bạn mới, nhưng với bạn mới thì tất cả mọi thứ đều phải làm quen.
 - Team có thể có hoạt động chào mừng như giới thiệu, tặng 'voucher' hoặc cùng nhau ăn trưa,...
+
 ___
 
 **Minh họa.** Hình ảnh vé máy bay Onboard của team mình dành tặng cho các bạn mới. ✈️
@@ -67,14 +68,14 @@ ___
     <img src="https://pbs.twimg.com/media/F5R0PrQaYAI7Ag9?format=jpg&name=900x900" loading="lazy" alt="GMXVT">
   </div>
 </div>
-
+<br>
 
 ## 5. Thường xuyên sync-up 2 chiều
 
 - Leader nên đặt lịch định kỳ mỗi tuần hoặc 2 tuần 1 lần để sync-up với bạn mới.
 - Một lỗi thường gặp khi onboard là leader chỉ gặp nhân sự mới 2 lần: ngày nhận việc và ngày đánh giá thử việc. Suốt thời gian 2 tháng, bạn mới sẽ phải đối mặt với rất nhiều vấn đề, nếu không sync-up thường xuyên, sẽ tạo khoảng cách giữa leader / team với bạn mới; đồng thời các vấn đề phát sinh không được nắm bắt và hỗ trợ, giải quyết sớm.
 - Ngoài ra, leader cũng nên collect thêm thông tin qua quan sát, team, buddy.
-
+<br>
 
 
 ## 6. Đánh giá và cải thiện quá trình onboard
@@ -84,19 +85,22 @@ Sau khi kết thúc quá trình onboard, leader cần đánh giá và cải thi�
 - Kiểm tra mức độ hiểu và hài lòng của thành viên mới với công việc và team
 - Đánh giá performance và tiến độ của thành viên mới trong thời gian đầu làm việc.
 Từ đó sửa đổi nội dung, thời lượng, phương pháp và công cụ của quá trình onboard, chia sẻ kinh nghiệm và bài học về quá trình onboard với các leader khác, cập nhật và bổ sung các tài liệu và nguồn thông tin liên quan cho quá trình onboard.
+<br>
 
 
 ## 7. Tuyệt đối KHÔNG 'thao túng', xây dựng định kiến với thành viên mới hay với team
 
 Một lưu ý cực kỳ quan trọng - leader & team hãy tạo điều kiện 'fresh' nhất với thành viên mới, để bạn có cơ hội trải nghiệm, tiếp cận với mọi người, công việc bằng con mắt khách quan nhất. Tránh xây dựng định kiến về bạn hoặc về các thành viên khác trong team hay 'thao túng' tâm lý bạn mới thông qua các câu chuyện một chiều, thiếu tính xác thực, không đẩy đủ nhằm lôi kéo thành viên mới thích / không thích người khác.
+<br>
 
 
-## Lời khuyên với các bạn mới
+## 8. Lời khuyên cho các bạn mới
 
 - Hãy chủ động và làm việc khoa học
 - Dành thời gian tìm hiểu sản phẩm, phạm vi công việc phụ trách
 - Quan sát và nhìn nhận khách quan
 - Đặt câu hỏi phản biện khi tiếp nhận thông tin
+<br>
 
 
 ## Kết
@@ -105,9 +109,9 @@ Onboard không chỉ đơn giản là giới thiệu về công việc, mục ti
 
 Tất nhiên, đây không phải là một công việc dễ dàng. Nó đòi hỏi sự chuẩn bị kỹ lưỡng, sự quan tâm và hỗ trợ của các thành viên - đặc biệt là leader. 
 
-Trong bài viết sau, mình sẽ share cho các bạn **[Checklist Onboard](/checklist-onboard-thanh-vien-moi)**.
+Trong bài viết sau, mình sẽ share cho các bạn **[Checklist Onboard](/blog/checklist-onboard-thanh-vien-moi)**.
 
-Hy vọng bài viết này có ích cho bạn. Nếu bạn có bất kỳ câu hỏi hay ý kiến nào, inbox cùng mình trao đổi nhé. Cảm ơn bạn đã đọc! 😊
+Còn bạn thì sao? Inbox chia sẻ với mình trải nghiệm onboard đáng nhớ nhất của bạn nhé. Cảm ơn bạn đã đọc! 😊
 
 ___
 
