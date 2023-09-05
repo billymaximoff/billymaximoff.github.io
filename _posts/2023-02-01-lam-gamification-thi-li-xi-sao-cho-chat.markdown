@@ -37,6 +37,8 @@ Vốn sẵn tính thích đỏ đen, may rủi, lại cũng dắt túi sơ sơ v
 - Nếu được 10 điểm (3 cào, 3 tây), mình sẽ x2 + thêm 100,000 đồng. Tức là 10 tờ x2 + 100,000 đồng = 500,000 đồng.
 - Nếu được 0 điểm (bù), chúc bạn đen bạc đỏ tình. Yêu thương rất nhiều.
 
+___
+
 **Tư liệu.** Hình ảnh 50 sắc thái bốc lì xì của các cháu báo thiếu niên báo nhi đồng team mình. Trò chơi nhân phẩm vẫn theo luật cũ: bao nhiêu nút thì rút bấy nhiêu tờ 20 xu. 3 tây thì x2, thêm 100 xu. Bù thì năm đó lấy chồng, mua nhà, mua đất. 
 
 <div class="gallery-box">
@@ -68,7 +70,7 @@ Vốn sẵn tính thích đỏ đen, may rủi, lại cũng dắt túi sơ sơ v
   </div>
 </div>
 <br>
-<br>
+
 - Người chị nổ phát súng đầu tiên mở đầu cuộc chơi. Những lá bài trên tay như tiên đoán trước được vận mệnh năm nay của chị - dù thua nhẹ cuộc chơi nhưng chắc chắn chị sẽ thắng cả trận chiến. Chồng con và thế giới sẽ yêu thương chị nhiều như số ♥ có trong những lá bài kia vậy. Chúc chị hạnh phúc và được chồng tặng nhiều vàng hơn năm ngoái. 
 - Đầu năm hoan hỉ, come back cho team bốc lì xì, cứ 1 điểm đổi 1 tờ mà người em may mắn dù bốc bao nhiêu lần cũng chỉ một kết quả, ắt hẳn là định mệnh, buồn ghê chứ. Dù sao campaign cũng kết thúc tốt đẹp. Cúc cả nhà năm mới luôn là kẻ may mắn trong mọi ván bài nhoé. 😌
 <br>

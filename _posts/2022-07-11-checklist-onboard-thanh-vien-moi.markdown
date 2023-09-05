@@ -33,6 +33,7 @@ Như đã hẹn, mình sẽ tiếp tục share cho các bạn checklist các cô
     - Buddy là phương thức hiệu quả để nâng leading skills và tính trách nhiệm của các thành viên trong team. Khuyến khích bằng cách thêm các bonuses cho Buddy và có đánh giá cả Buddy lẫn Newcomer sau thử việc.
 
 ![Buddy](https://images.unsplash.com/photo-1582578598774-a377d4b32223?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3500&q=80)
+<em>Buddy / Unsplash</em>
 
 <br>
 <br>
@@ -67,7 +68,6 @@ Riêng với giai đoạn Probation - Thử việc, có thể chia thành 3 giai
 ___
 
 Đính kèm **Onboarding File.** 101 / ONBOARDING NEW PRODUCT OWNER - ĐỨC ANH.
-Các bạn có thể tham khảo và xây dựng cho team mình một kế hoạch onboard bạn mới chuẩn chỉnh nha. 
 
 ___
 
@@ -77,7 +77,7 @@ Xem file trên Google Docs: **[tại đây](https://docs.google.com/document/d/1
 <iframe src="https://docs.google.com/document/d/119BOQQqVeumpGiJkxxybdN02pIloIQXqgU1VstFtr7M/" style="border-radius: 0" frameborder="0" width="100%" height="140%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <br>
 
-Trên đây chỉ là ví dụ tham khảo của team mình. Dựa vào các tiêu chí ở bài viết **[Chào mừng bạn mới 👋🏻](/blog/checklist-onboard-thanh-vien-moi)**, các bạn có thể xây dựng cho mình quy trình onboard phù hợp với tình hình và nhu cầu của tổ chức nha.
+Trên đây chỉ là ví dụ tham khảo của team mình. Dựa vào các tiêu chí ở bài viết **[Chào mừng bạn mới 👋🏻](/blog/chao-mung-ban-moi-onboard-new-member)**, các bạn có thể xây dựng cho mình quy trình onboard phù hợp với tình hình và nhu cầu của tổ chức nha.
 
 Chúc các bạn chào đón được nhiều thành viên mới tích cực! ✌🏻
 
