@@ -36,7 +36,6 @@ Như đã hẹn, mình sẽ tiếp tục share cho các bạn checklist các cô
 <em>Buddy / Unsplash</em>
 
 <br>
-<br>
 
 ## Onboarding Day
 
@@ -55,7 +54,6 @@ Như đã hẹn, mình sẽ tiếp tục share cho các bạn checklist các cô
 | Invite Lunch                                  | Line Manager...   | To-do         |
 | ...                                           | ...               | ...           |
 
-<br>
 <br>
 
 ## Post-Onboarding / Probation

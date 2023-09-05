@@ -13,8 +13,10 @@ Hơn 10 năm đi làm, mình đã được làm việc với các team khác nha
 
 Mình có thể chia tạm thành 2 đối tượng chính khi onboard: Squad Team (Scrum Team) & Product Team.
 
-- Squad Team: từ khi form team cho đến gần 2 năm sau đó - team mình khoảng hơn 20 người, gần như mọi thành viên mới join team mình đều 1-1 meeting với họ, bất kể đó là Developer (Backend, Mobile, Web,...) hay QC, Designer. Với mình, điều này đặc biệt quan trọng, nhất là vào giai đoạn đầu - vì mình cần từng thành viên trong team hiểu được vì sao product / project này tồn tại, mọi người sẽ đóng vai trò gì, quan điểm làm việc, mục tiêu chung giữa 2 bên,... Từ đó, các bạn có thêm động lực & cùng đóng góp vào sản phẩm và việc vận hành của team. Mặt khác, các bạn thuộc chuyên môn không phải product mình không tham gia phỏng vấn, đánh giá trước đó, nên buổi 1-1 này cùng là dịp 2 bên được lắng nghe, tìm hiểu phần nào tính cách, nhu cầu của người sẽ đi cùng mình giai đoạn tới.
-- Product Team: với team Product, ngoài các mục tiêu chung về sản phẩm, business, văn hóa,... vai trò của mình hay các leader sẽ còn là người đồng hành cùng các bạn bước lên những nấc thang cao hơn trong career path. Thế nên, dù các bạn thuộc squad team nào, under leader nào, onboard về project, product bao nhiêu buổi, mình sẽ luôn dành thời gian 1-1 với từng bạn.
+- **Squad Team**: từ khi form team cho đến gần 2 năm sau đó - team mình khoảng hơn 20 người, gần như mọi thành viên mới join team mình đều 1-1 meeting với họ, bất kể đó là Developer (Backend, Mobile, Web,...) hay QC, Designer.
+    - Với mình, điều này đặc biệt quan trọng, nhất là vào giai đoạn đầu - vì mình cần từng thành viên trong team hiểu được vì sao product / project này tồn tại, mọi người sẽ đóng vai trò gì, quan điểm làm việc, mục tiêu chung giữa 2 bên,... Từ đó, các bạn có thêm động lực & cùng đóng góp vào sản phẩm và việc vận hành của team.
+    - Mặt khác, các bạn thuộc chuyên môn không phải product nên mình không tham gia phỏng vấn, đánh giá trước đó, buổi 1-1 này cùng là dịp 2 bên được lắng nghe, tìm hiểu phần nào tính cách, nhu cầu của người sẽ đi cùng mình giai đoạn tới.
+- **Product Team**: với team Product, ngoài các mục tiêu chung về sản phẩm, business, văn hóa,... vai trò của mình hay các leader sẽ còn là người đồng hành cùng các bạn bước lên những nấc thang cao hơn trong career path. Thế nên, dù các bạn thuộc squad team nào, under leader nào, onboard về project, product bao nhiêu buổi, mình sẽ luôn dành thời gian 1-1 với từng bạn.
      - Mình sẽ share lại đánh giá của mình sau buổi phỏng vấn trước đó / hoặc trong quá trình tiếp xúc, làm việc - điểm mạnh, hạn chế,...
      - Lắng nghe phản hồi của bạn về đánh giá trên để tìm điểm cân bằng
      - Từ đó, mình share về mục tiêu và lộ trình từ view của mình & tổ chức
@@ -67,6 +69,7 @@ ___
     <img src="https://pbs.twimg.com/media/F5R0WjfaYAAeRBj?format=jpg&name=900x900" loading="lazy" alt="GMXVT">
     <img src="https://pbs.twimg.com/media/F5R0PrQaYAI7Ag9?format=jpg&name=900x900" loading="lazy" alt="GMXVT">
   </div>
+  <em>Đức Anh & Tín Lư</em>
 </div>
 <br>
 

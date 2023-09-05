@@ -5,7 +5,7 @@ description: Hồi hộp cùng 50 sắc thái bốc lì xì của các cháu bá
 date: 2023-02-01 12:48:52 +0700
 image: 'https://pbs.twimg.com/media/F1f0sh_aAAIVzwh?format=jpg&name=large'
 image_caption: 'Lì xì không?'
-tags: [productory, avengers assemble, gamification, circus, gami]
+tags: [productory, avengers assemble]
 ---
 
 ...
@@ -52,6 +52,7 @@ ___
     <img src="https://pbs.twimg.com/media/F1f0Lz-aEAEFJFX?format=jpg&name=medium" loading="lazy" alt="GMXVT">
     <img src="https://pbs.twimg.com/media/F1f0N1DaUAAzvyW?format=jpg&name=medium" loading="lazy" alt="GMXVT">
   </div>
+  <em>Circus Squad x Lì xì</em>
 </div>
 <br>
 
@@ -62,23 +63,26 @@ ___
 - Lì xì may rủi soạn sẵn: người bốc sẽ vui, nhưng mình lại... đứng ngoài sự vui đó vì mình biết chắc chắn số tiền sẽ lì xì.
 - Thế nên, trò trên, bản thân mình dù là người lì xì cũng như được tham gia vào sự may rủi đó, mọi người đều hồi hộp sau mỗi lần bốc bài. Chưa kể, cảm giác hé nhẹ từng quân bài - 9, 10 nhưng lại ra 2 thì chỉ được 1 điểm thôi. Cơ mà hạn chế là mọi người chịu khó đổi tiền mặt & chuẩn bị hầu bao rủng rỉnh chút nha. Cảm giác rút xoẹt xoẹt từng tờ tiền mới thơm phức xòe ra lì xì nó thích lắm. 😗
 
+___
+
+**Tư liệu.** Một mùa campaign kết thúc tốt đẹp. Chúc cả nhà năm mới luôn là kẻ may mắn trong mọi ván bài nhoé. 😌
 
 <div class="gallery-box">
   <div class="gallery">
     <img src="https://pbs.twimg.com/media/F5SEldZaYAAZc6S?format=jpg&name=medium" loading="lazy" alt="GMXVT">
     <img src="https://pbs.twimg.com/media/F1f0kLGaMAER_7y?format=jpg&name=medium" loading="lazy" alt="GMXVT">
   </div>
+  <em>Gami & Marketing x Lì xì</em>
 </div>
-<br>
 
 - Người chị nổ phát súng đầu tiên mở đầu cuộc chơi. Những lá bài trên tay như tiên đoán trước được vận mệnh năm nay của chị - dù thua nhẹ cuộc chơi nhưng chắc chắn chị sẽ thắng cả trận chiến. Chồng con và thế giới sẽ yêu thương chị nhiều như số ♥ có trong những lá bài kia vậy. Chúc chị hạnh phúc và được chồng tặng nhiều vàng hơn năm ngoái. 
-- Đầu năm hoan hỉ, come back cho team bốc lì xì, cứ 1 điểm đổi 1 tờ mà người em may mắn dù bốc bao nhiêu lần cũng chỉ một kết quả, ắt hẳn là định mệnh, buồn ghê chứ. Dù sao campaign cũng kết thúc tốt đẹp. Cúc cả nhà năm mới luôn là kẻ may mắn trong mọi ván bài nhoé. 😌
+- Đầu năm hoan hỉ, come back cho team bốc lì xì, cứ 1 điểm đổi 1 tờ mà người em may mắn dù bốc bao nhiêu lần cũng chỉ một kết quả, ắt hẳn là định mệnh, buồn ghê chứ. 
 <br>
 
 
 ## Dặn dò nhẹ 
 
-À, một lời dặn dò nhẹ, dù biến tấu như thế nào, thì lì xì vẫn mang ý nghĩa tinh thần nhiều hơn vật chất. Hãy để lì xì là một trải nghiệm đầy ý nghĩa, vui vẻ để mình chờ đợi và nhớ về hơn là giá trị của lì xì. Như mình chẳng hạn, hay giữ tiền lì xì của mọi người chứ không tiêu. Có lần từng bốc được vài tờ 20,000 đồng của một bạn Marketing, trộm vía may mắn như nào, bạn mát tay mua đất nên từ khi được lì xì, mình cũng được lây vía. Trộm vía x7777 lần. 😌
+À, một lời dặn dò nhẹ, dù biến tấu như thế nào, thì lì xì vẫn mang ý nghĩa tinh thần nhiều hơn vật chất. Thế nên đừng buồn, đừng tiếc, đừng cay cú ăn thua. Hãy để lì xì là một trải nghiệm đầy ý nghĩa, vui vẻ để mình chờ đợi và nhớ về hơn là giá trị của lì xì. Như mình chẳng hạn, hay giữ tiền lì xì của mọi người chứ không tiêu. Có lần từng bốc được vài tờ 20,000 đồng của một bạn Marketing, trộm vía may mắn như nào, bạn mát tay mua đất nên từ khi được lì xì, mình cũng được lây vía. Trộm vía x7777 lần. 😌
 
 
 ## 🧧🌸🌼
