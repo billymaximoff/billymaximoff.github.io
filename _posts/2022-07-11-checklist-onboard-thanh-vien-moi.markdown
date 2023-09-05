@@ -33,6 +33,7 @@ Như đã hẹn, mình sẽ tiếp tục share cho các bạn checklist các cô
     - Buddy là phương thức hiệu quả để nâng leading skills và tính trách nhiệm của các thành viên trong team. Khuyến khích bằng cách thêm các bonuses cho Buddy và có đánh giá cả Buddy lẫn Newcomer sau thử việc.
 
 ![Buddy](https://images.unsplash.com/photo-1582578598774-a377d4b32223?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3500&q=80)
+
 <br>
 <br>
 
@@ -52,6 +53,7 @@ Như đã hẹn, mình sẽ tiếp tục share cho các bạn checklist các cô
 | Sharing về Technical,...                      | Tech Lead, QC Lead| To-do         |
 | Invite Lunch                                  | Line Manager...   | To-do         |
 | ...                                           | ...               | ...           |
+
 <br>
 <br>
 

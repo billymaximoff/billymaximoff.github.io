@@ -109,7 +109,7 @@ Onboard không chỉ đơn giản là giới thiệu về công việc, mục ti
 
 Tất nhiên, đây không phải là một công việc dễ dàng. Nó đòi hỏi sự chuẩn bị kỹ lưỡng, sự quan tâm và hỗ trợ của các thành viên - đặc biệt là leader. 
 
-Trong bài viết sau, mình sẽ share cho các bạn **[Checklist Onboard](/blog/checklist-onboard-thanh-vien-moi)**.
+Trong bài viết sau, mình sẽ share **[Checklist Onboard](/blog/checklist-onboard-thanh-vien-moi)** - tổng hợp những công việc cần làm trước, trong & sau ngày onboard.
 
 Còn bạn thì sao? Inbox chia sẻ với mình trải nghiệm onboard đáng nhớ nhất của bạn nhé. Cảm ơn bạn đã đọc! 😊
 
