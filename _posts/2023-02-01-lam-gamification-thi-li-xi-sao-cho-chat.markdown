@@ -16,8 +16,8 @@ Tết đến, xuân về. Sau hơn nửa tháng rình rang ở nhà và đốt k
 <em>Lắc lì xì Tết 2020 / Team mình phụ trách</em>
 
 Vốn sẵn tính thích đỏ đen, may rủi, lại cũng dắt túi sơ sơ vài năm chạy gamification, chẳng lẽ lại chia đều thì lại ngại với anh em quá (dài dòng văn vở thế thôi chứ thực ra chia đều thì... tốn 😗). Thế là mình chế cháo chút từ trò bốc bài cào tính điểm mời nước vẫn chơi với anh em hằng tuần.
-
-
+<br>
+<br>
 
 ## Luật của trò chơi nhân phẩm
 
@@ -28,8 +28,8 @@ Vốn sẵn tính thích đỏ đen, may rủi, lại cũng dắt túi sơ sơ v
     - Các lá: J, Q, K mỗi lá tính 10 điểm.
     - Điểm của người chơi trong mỗi ván là số lẻ của tổng điểm ba lá bài. Ví dụ, tổng ba lá là 27 điểm thì được 7 điểm (hay gọi là nút), 10 điểm thì được 0 điểm (gọi là bù). Trường hợp đặc biệt là ai sở hữu được cả ba lá bài J, Q, K mới được tính là 10 điểm (gọi là ba cào hoặc ba tiên).
 - Không quan tâm đến chất cơ ♥️, rô ♦️, chuồn ♣️, bích ♠️ của mỗi lá bài.
-
-
+<br>
+<br>
 
 ## Quy thưởng
 
@@ -51,7 +51,7 @@ Vốn sẵn tính thích đỏ đen, may rủi, lại cũng dắt túi sơ sơ v
     <img src="https://pbs.twimg.com/media/F1f0N1DaUAAzvyW?format=jpg&name=medium" loading="lazy" alt="GMXVT">
   </div>
 </div>
-
+<br>
 
 
 ## Vì sao mình & mọi người thích lì xì may rủi như này?
@@ -63,11 +63,15 @@ Vốn sẵn tính thích đỏ đen, may rủi, lại cũng dắt túi sơ sơ v
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="https://pbs.twimg.com/media/F1f0hbGagAA90wO?format=jpg&name=medium" loading="lazy" alt="Product">
+    <img src="https://pbs.twimg.com/media/F5SEldZaYAAZc6S?format=jpg&name=medium" loading="lazy" alt="GMXVT">
+    <img src="https://pbs.twimg.com/media/F1f0kLGaMAER_7y?format=jpg&name=medium" loading="lazy" alt="GMXVT">
   </div>
-
+</div>
+<br>
+<br>
 - Người chị nổ phát súng đầu tiên mở đầu cuộc chơi. Những lá bài trên tay như tiên đoán trước được vận mệnh năm nay của chị - dù thua nhẹ cuộc chơi nhưng chắc chắn chị sẽ thắng cả trận chiến. Chồng con và thế giới sẽ yêu thương chị nhiều như số ♥ có trong những lá bài kia vậy. Chúc chị hạnh phúc và được chồng tặng nhiều vàng hơn năm ngoái. 
-
+- Đầu năm hoan hỉ, come back cho team bốc lì xì, cứ 1 điểm đổi 1 tờ mà người em may mắn dù bốc bao nhiêu lần cũng chỉ một kết quả, ắt hẳn là định mệnh, buồn ghê chứ. Dù sao campaign cũng kết thúc tốt đẹp. Cúc cả nhà năm mới luôn là kẻ may mắn trong mọi ván bài nhoé. 😌
+<br>
 
 
 ## Dặn dò nhẹ 
