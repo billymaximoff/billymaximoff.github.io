@@ -36,7 +36,6 @@ Ngoài ra, Ry cũng viết một vài blog chia sẻ về cuộc sống của m�
     <img src="https://pbs.twimg.com/media/F5floZxa0AA_Dpr?format=jpg&name=large" loading="lazy" alt="GMXVT">
     <img src="https://pbs.twimg.com/media/F5flmQma0AAdOOx?format=jpg&name=large" loading="lazy" alt="GMXVT">
   </div>
-</div>
 <div class="gallery-box">
   <div class="gallery">
     <img src="https://pbs.twimg.com/media/F5flknWbwAA2bF_?format=jpg&name=large" loading="lazy" alt="GMXVT">
@@ -81,7 +80,7 @@ Sà Và Ná ~ Sài Gòn và Nắng - fanpage kể chuyện bằng tranh. Những
 
 <br>
 
-## Liên lạc với RyChan bằng cách nào
+## Liên lạc với Ry bằng cách nào?
 
 Khoe sơ sơ vậy thôi, chi tiết mọi người nhớ vô website **[RyChan.vn](https://rychan.vn/)** thường xuyên để xem post mới nghen.
 
