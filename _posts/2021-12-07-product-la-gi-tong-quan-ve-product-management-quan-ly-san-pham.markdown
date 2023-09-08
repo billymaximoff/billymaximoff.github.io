@@ -5,10 +5,10 @@ description: Như mention ở bio, công việc chính của mình là Quản l�
 date:   2021-12-07 09:00:00 +0700
 image:  'https://images.unsplash.com/photo-1483058712412-4245e9b90334?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80'
 image_caption: 'Product / Unsplash'
-tags:   [product 101, product basement]
+tags:   [productory, product 101]
 ---
 
-Như mention ở **[bio](/about)**, công việc chính của mình là Quản lý và Phát triển Sản phẩm - Product Management. Với những anh em đang làm trong ngành công nghệ, chắc hẳn công việc này không mới hay lạ lẫm. Với người ngoài ngành thì rất khác, không ít lần, mình nhận được câu hỏi từ gia đình, bạn bè hoặc đối tác không làm trong ngành công nghệ về công việc Sản phẩm / Product và những thuật ngữ tưởng chừng cơ bản - nhưng lại cực kỳ xa lạ và khó hiểu với họ.
+Như mention ở **[bio](/about)** & nhiều post trước, công việc chính của mình là Quản lý và Phát triển Sản phẩm - Product Management. Với những anh em đang làm trong ngành công nghệ, chắc hẳn công việc này không mới hay lạ lẫm. Với người ngoài ngành thì rất khác, không ít lần, mình nhận được câu hỏi từ gia đình, bạn bè hoặc đối tác không làm trong ngành công nghệ về công việc Sản phẩm / Product và những thuật ngữ tưởng chừng cơ bản - nhưng lại cực kỳ xa lạ và khó hiểu với họ.
 
 Ví như, trong thuật ngữ của ngành Luật, 'tội phạm' là từ chỉ hành động chứ không phải chỉ người; 'người làm chứng' khác với 'người chứng kiến'; 'đầu thú' khác với 'tự thú',... Còn trong thuật ngữ ngành Y, 'chief/present complaint' là 'lý do nhập viện/khai bệnh', 'culture' không phải là 'văn hóa' mà là 'nuôi cấy một nhóm vi khuẩn để phục vụ cho nghiên cứu y tế và khoa học',... Rõ ràng với những ai đang công tác trong ngành trên thì mấy từ này quá là dễ như kem bơ 🥑, còn chúng ta thì chịu thua đúng không?
 
@@ -41,12 +41,19 @@ Hiện tại, có rất nhiều định nghĩa, quan điểm và trường phái
 
 Việc tạo ra một sản phẩm bao gồm một loạt các hoạt động, bao gồm nghiên cứu thị trường, thiết kế sản phẩm, phát triển, kiểm thử, vận hành, triển khai… nhằm đáp ứng nhu cầu của khách hàng và thúc đẩy sự phát triển kinh doanh. Toàn bộ quá trình này được gọi là Quản lý Sản phẩm - Product Management.
 
-#### Nội dung chia sẻ dưới đây (và cả trong blog này) là góc nhìn cá nhân của mình đúc kết được sau gần 10 năm trong ngành. Với mình, nó là nền tảng và sử dụng xuyên suốt trong quá trình làm việc, từ xây dựng career path, build team, phỏng vấn, đánh giá,... Các bài viết liên quan về sau nếu có, sẽ dựa một phần vào quan điểm này. 
+#### Nội dung chia sẻ dưới đây (và cả trong blog này) là góc nhìn cá nhân của mình đúc kết được sau nhiều năm trong ngành. Với mình, nó là nền tảng và sử dụng xuyên suốt trong quá trình làm việc, từ xây dựng career path, build team, phỏng vấn, đánh giá,... Các bài viết liên quan về sau nếu có, sẽ dựa một phần vào quan điểm này. 
 
 Dựa vào tính chất, kỹ năng và stakeholders liên quan, Product Management có thể chia thành 3 phần:
 - **Product Development / Build**: Phát triển Sản phẩm
 - **Product Operation**: Vận hành Sản phẩm
 - **Product Growth / Biz**: Tăng trưởng / Kinh doanh Sản phẩm
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="https://pbs.twimg.com/media/Ftlem29aUAAQmwW?format=jpg&name=medium" loading="lazy">
+  </div>
+  <em> The Triad in Product Management / Hoàng Đăng</em>
+</div>
 
 Tùy từng tổ chức & vị trí, công việc của Người làm Sản phẩm (*) sẽ có thể gồm 1, 2 hoặc cả 3 phần trên, chịu trách nhiệm sản phẩm phụ trách và là người đại diện cho tiếng nói của khách hàng trong tổ chức.
 Trong các bài viết về sau, mình sẽ giải thích chi tiết tính chất từng phần, cũng như những kỹ năng gì cần thiết để làm việc tốt trong từng giai đoạn đó,...
@@ -55,9 +62,10 @@ Trong các bài viết về sau, mình sẽ giải thích chi tiết tính chấ
 ## Tóm lại
 
 - Sản phẩm là bất kỳ vật phẩm vật lý (physical) hoặc kỹ thuật số (digital) nào được tạo ra hoặc thiết kế để đáp ứng nhu cầu hoặc giải quyết một vấn đề cho khách hàng.
-- Quản lý Sản phẩm rất quan trọng đối với sự thành công của bất kỳ doanh nghiệp nào muốn giữ vững sự cạnh tranh trong thị trường nhanh chóng và thay đổi liên tục.
+- Quản lý Sản phẩm giữ vai trò quan trọng đối với sự thành công của bất kỳ doanh nghiệp nào muốn giữ vững sự cạnh tranh trong thị trường nhanh chóng và thay đổi liên tục.
 
 ___
 
-**[Product 101](/tags/?tag=product+101)** - Series các bài viết cho 'người chơi' hệ Sản phẩm. Từ những kiến thức cơ bản về sản phẩm, phương pháp quản lý sản phẩm + những kỹ năng cần thiết để tạo ra những sản phẩm thành công và đáp ứng nhu cầu của khách hàng. Nếu bạn đam mê tìm hiểu và muốn thành công trong lĩnh vực sản phẩm, thì đây chính là chuỗi bài viết dành cho bạn.
+**[Productory](/tags/?tag=productory)** = Product + Story - Series các câu chuyện vui buồn, thấm đẫm mồ hôi và... trà sữa về công việc Quản lý & Phát triển sản phẩm của mình ở các công ty, tổ chức.
 
+**[Product 101](/tags/?tag=product+101)** - Series các bài viết cơ bản cho 'người chơi' hệ Sản phẩm. Nếu bạn đam mê tìm hiểu và muốn thành công trong lĩnh vực sản phẩm, thì đây chính là chuỗi bài viết dành cho bạn. Khuyến cáo: Không phù hợp với các anh chị chuyên gia, lăn lộn lâu năm trong ngành.

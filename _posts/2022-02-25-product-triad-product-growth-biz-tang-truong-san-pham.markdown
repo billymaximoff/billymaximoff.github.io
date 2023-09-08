@@ -1,22 +1,18 @@
 ---
 layout: post
-title:  Product Triad - Bộ 3 Quản lý Sản phẩm (Phần 2)
-description: Mặc dù được giới thiệu cuối cùng - là phần thứ 3 trong Bộ 3 Quản lý Sản phẩm, nhưng Product Growth lại là giai đoạn được triển khai đầu tiên. Điều này đúng với cả các sản phẩm đã đưa ra thị trường hay trong giai đoạn tìm hiểu, nghiên cứu để phát triển.
-date:   2022-04-25 09:00:00 +0700
+title:  Product Growth / Biz
+description: Mặc dù được giới thiệu cuối cùng - là phần thứ 3 trong Bộ 3 Quản lý Sản phẩm, nhưng Product Growth lại là giai đoạn được triển khai đầu tiên. Điều này đúng với cả các sản phẩm đã đưa ra thị trường hay trong giai đoạn tìm hiểu, nghiên cứu để phát triển. Ủa sao kỳ vậy ta? 🤔
+date:   2022-02-25 09:00:00 +0700
 image:  'https://images.unsplash.com/photo-1559526324-4b87b5e36e44?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2671&q=80'
 image_caption: 'Product / Austin Distel @ Unsplash'
-tags:   [product 101, product basement]
+tags:   [productory, product 101]
 ---
 
-Post trước đã giới thiệu về 2 phần của Product Management - Quản lý Sản phẩm: Product Development - Phát triển Sản phẩm & Product Operation - Vận hành Sản phẩm. Bài viết này sẽ giới thiệu cho các bạn phần còn lại - Product Growth và thực tế áp dụng nhé.
 
-<b>Disclaimer.</b>
-- Vì có những từ không thể tìm được từ tiếng Việt diễn đạt được trọn vẹn ý nghĩa của câu chữ nên mình xin phép dùng tiếng Anh xen kẽ. Nếu anh em thấy có từ nào phù hợp hơn thì comment bên dưới để mình 'hot fix' nhé. Thanks .
-- Một số thuật ngữ được sử dụng trong bài được mượn từ mô hình Agile / Scrum
-
-
-#### Nội dung chia sẻ dưới đây là góc nhìn của mình đúc kết được sau nhiều năm trong ngành. Với mình, nó là nền tảng và sử dụng xuyên suốt trong quá trình làm việc, từ xây dựng career path, build team, phỏng vấn, đánh giá,... Các bài viết liên quan về sau nếu có, sẽ dựa một phần vào quan điểm này.
-
+Các bạn có thể xem các bài viết liên quan tại đây:
+- **[Product Development / Build: Phát triển Sản phẩm](/blog/product-triad-product-developement-phat-trien-san-pham)**
+- **[Product Operation: Vận hành Sản phẩm](/blog/product-triad-product-operation-van-hanh-san-pham)**
+- **[Product Growth / Biz: Tăng trưởng / Kinh doanh Sản phẩm](/blog/product-triad-product-growth-biz-tang-truong-san-pham)**
 
 
 ## 3. Product Growth / Biz: Tăng trưởng / Kinh doanh Sản phẩm
@@ -76,7 +72,9 @@ Tùy từng tổ chức sẽ có định nghĩa về định nghĩa, tên gọi 
 
 Tuy nhiên, tất cả các giai đoạn trên đều cần được thực hiện đúng, đủ, PO cần đảm bảo rằng sản phẩm của mình đáp ứng được nhu cầu của khách hàng và mang lại giá trị cho công ty. Bằng cách xây dựng năng lực và tham gia vào 3 giai đoạn Product Development - Phát triển Sản phẩm; Product Operation - Vận hành Sản phẩm và Product Growth -  Tăng trưởng Sản phẩm, PO có thể tạo ra sản phẩm thành công.
 
--
+___
 
-**[Product 101](/tags/?tag=product+101)** - Series các bài viết cho người chơi hệ Sản phẩm. Từ những kiến thức cơ bản về sản phẩm, phương pháp quản lý sản phẩm + những kỹ năng cần thiết để tạo ra những sản phẩm thành công và đáp ứng nhu cầu của khách hàng. Nếu bạn đam mê tìm hiểu và muốn thành công trong lĩnh vực sản phẩm, thì đây chính là chuỗi bài viết dành cho bạn.
+**[Productory](/tags/?tag=productory)** = Product + Story - Series các câu chuyện vui buồn, thấm đẫm mồ hôi và... trà sữa về công việc Quản lý & Phát triển sản phẩm của mình ở các công ty, tổ chức.
+
+**[Product 101](/tags/?tag=product+101)** - Series các bài viết cơ bản cho 'người chơi' hệ Sản phẩm. Nếu bạn đam mê tìm hiểu và muốn thành công trong lĩnh vực sản phẩm, thì đây chính là chuỗi bài viết dành cho bạn. Khuyến cáo: Không phù hợp với các anh chị chuyên gia, lăn lộn lâu năm trong ngành.
 

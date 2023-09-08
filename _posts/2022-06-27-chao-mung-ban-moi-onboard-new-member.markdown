@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Chào mừng bạn mới 👋🏻
-description: Ngày mai, team mình sẽ lại chào đón thành viên mới. Nhân đây, mình sẽ share cho các bạn team mình đã onboard thành viên mới như thế nào nha!
+description: Ngày mai, team mình sẽ lại chào đón thành viên mới. Nhân đây, mình sẽ share cho các bạn team mình đã onboard thành viên mới như thế nào. 
 date:   2022-06-26 09:00:00 +0700
 image:  'https://images.pexels.com/photos/3826676/pexels-photo-3826676.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
 image_caption: 'welcome / cottonbro studio @ Pexel'

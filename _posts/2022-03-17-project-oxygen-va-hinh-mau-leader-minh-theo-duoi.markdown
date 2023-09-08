@@ -97,7 +97,7 @@ Những Oxygen Leaders đều có điểm chung là những người dành sự 
 
 Thế nên, nếu bạn đã đạt 10/10 điểm, xin chúc mừng team của bạn đã có một leader siêu xịn sò. Hãy share và build thêm nhiều nhiều leader xịn như bạn nha. 
 
-Sau bài viết này, bạn có muốn trở thành Oxygen Leader không, hay hình mẫu leader bạn muốn trở thànhs như thế nào? Inbox chia sẻ cùng mình nha.
+Sau bài viết này, bạn có muốn trở thành Oxygen Leader không, hay hình mẫu leader bạn muốn trở thành như thế nào? Đừng quên inbox chia sẻ cùng mình. 😙
 
 
 ## Tham khảo
