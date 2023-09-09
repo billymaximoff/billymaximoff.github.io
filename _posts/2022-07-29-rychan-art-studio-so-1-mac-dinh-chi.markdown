@@ -5,7 +5,7 @@ description: Một sự kết hợp giữa Sà Và Ná ⤫ Hoàng Đăng.
 date:   2022-07-29 09:00:00 +0700
 image:  'https://pbs.twimg.com/media/F5fhDuEa4AAdRmn?format=jpg&name=large'
 image_caption: 'RyChan 4yrs @ Updated 2023'
-tags:   [productory, wcrew, itsdangw]
+tags:   [wcrew, collab x]
 ---
 
 
