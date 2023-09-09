@@ -5,14 +5,14 @@ description: Welcome to GamiX 2021. Đoán xem, chúng mình năm nay có gì ho
 date:   2021-02-22 09:00:00 +0700
 image:  'https://pbs.twimg.com/media/F10Y8SxaIAA_w3m?format=jpg&name=large'
 image_caption: 'GamiX 2021, by Hoàng Đăng'
-tags:   [gami, productory, avengers assemble, workation]
+tags:   [gami, productory, workation]
 ---
 
-Hmm. Cũng đã lâu mình chưa update Welcome Page của team. Cho bạn nào chưa biết hoặc không dùng, công ty mình dùng Confluence để viết và lưu trữ tài liệu, từ Business & Product Requirement Document đến Technical, QC,... Mỗi team, sản phẩm/nhóm sản phẩm có thể tạo một Space để chứa các tài liệu liên quan. (Chi tiết về Confluence và các sản phẩm của Atlassian mình sẽ share vào một bài viết khác).
+Hmm. Cũng đã lâu mình chưa update Welcome Page của team. Cho bạn nào chưa biết hoặc không dùng, công ty mình sử dụng Confluence để viết và lưu trữ tài liệu, từ Business & Product Requirement Document đến Technical, QC,... Mỗi team, sản phẩm/nhóm sản phẩm có thể tạo một Space để chứa các tài liệu liên quan. *(Chi tiết về Confluence và các sản phẩm của Atlassian mình sẽ share vào một bài viết khác).*
 
 Khi một Space mới được tạo, Confluence sẽ tạo 1 page Overview - mặc định, đây là nơi đầu tiên các thành viên sẽ thấy khi truy cập Space. Nếu ví Space là một ngôi nhà, thì page Overview như mặt tiền của căn nhà. Thông thường, mình thấy các team hay dùng nơi này để list các task đang chạy hoặc pin một vài link đến các document hay truy cập, thậm chí cả list bugs.
 
-Tuy nhiên, với máu 'màu mè' bẩm sinh 😗, cộng thêm việc muốn giới thiệu về team, sản phẩm và... flex nhanh thành tích, plan, mình hay dành thời gian decor trang này. Team mỗi ngày mở lên có thêm động lực, khách đi ngang cũng thấy thu hút. 
+Tuy nhiên, với máu 'màu mè' bẩm sinh, cộng thêm việc muốn giới thiệu về team, sản phẩm và... flex nhanh thành tích, plan, mình hay dành thời gian decor trang này. Team mỗi ngày mở lên có thêm động lực, khách đi ngang cũng thấy thu hút. 
 
 Version gần nhất mình làm cho team cũng đã được một thời gian, từ 2019 lận. Thế nên, năm nay, mình update version 2.0 - nhiều scope hơn, rõ ràng hơn, hiện đại hơn. Share nhẹ để anh em hiểu một chút về những gì team mình đã, đang và sẽ làm được. Mong năm 2021, GamiX đánh đâu thắng đó. 💪🏻
 
@@ -64,7 +64,5 @@ ___
 ___
 
 **[Productory](/tags/?tag=productory)** = Product + Story - Series các câu chuyện vui buồn, thấm đẫm mồ hôi và... trà sữa về công việc Quản lý & Phát triển sản phẩm của mình ở các công ty, tổ chức.
-
-**[Avengers Assemble](/tags/?tag=avengers+assemble)** = Câu nói nổi tiếng: 'Avengers Assemble!' của Steve Roger / Captain America trong trận chiến End Game. Series này mình viết về các hoạt động team up, build culture & engage với team.
 
 **[Workation](/tags/?tag=workation)** = Work + Vacation / Station - Series các bài viết về chuyện đi làm nói chung. Hy vọng có thể giúp anh chị em được phần nào reflect và share kinh nghiệm. Để đi làm vui như đi chơi.

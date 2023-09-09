@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Product Triad - Product Operation
-description: Tiếp tục với chiêu thứ 2 trong "Bộ 3 Siêu năng lực" của Product Guys - Vận hành Sản phẩm 👷🏻‍♂️
+title:  Product Triad - Product Operation 👩🏻‍🏫
+description: Product Operation là giai đoạn vô hình mà khá nhiều công ty bỏ qua, không mô tả như một phần công việc của PO (và nhiều vị trí khác), nhưng những tác động của nó đến kết quả sản phẩm là không hề nhỏ.
 date:   2022-01-21 09:00:00 +0700
 image:  'https://images.unsplash.com/photo-1554224155-6726b3ff858f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2811&q=80'
 image_caption: 'Budget / Kelly Sikkema @ Unsplash'

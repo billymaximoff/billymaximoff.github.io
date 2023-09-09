@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Product Growth / Biz
+title:  Product Triad - Product Growth / Biz 👨🏻‍⚖️
 description: Mặc dù được giới thiệu cuối cùng - là phần thứ 3 trong Bộ 3 Quản lý Sản phẩm, nhưng Product Growth lại là giai đoạn được triển khai đầu tiên. Điều này đúng với cả các sản phẩm đã đưa ra thị trường hay trong giai đoạn tìm hiểu, nghiên cứu để phát triển. Ủa sao kỳ vậy ta? 🤔
 date:   2022-02-25 09:00:00 +0700
 image:  'https://images.unsplash.com/photo-1559526324-4b87b5e36e44?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2671&q=80'

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Product Triad - Product Development / Build
-description: Cùng bắt đầu với chiêu thức đầu tiên trong "Bộ 3 Siêu năng lực" của Product Guys - Phát triển Sản phẩm 👷🏻‍♂️
+title:  Product Triad - Product Development / Build 👷🏻‍♂️
+description: Cùng bắt đầu với chiêu thức đầu tiên trong "Bộ 3 Siêu năng lực" của Product Guys - Phát triển Sản phẩm 
 date:   2022-01-03 09:00:00 +0700
 image:  'https://images.unsplash.com/photo-1609851451108-e937620f1210?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80'
 image_caption: 'Product / Tran Mau Tri Tam @ Unsplash'

@@ -3,7 +3,7 @@ layout: post
 title:  GamiX - Đen thôi, Đỏ quên đi
 description: Tiếp nối series livestream bóc trần sự thật. Hôm nay tui sẽ bật mí cho quí dị nghe những gì cộng đồng mạng chưa biết về team thao túng niềm vui này. Quí dị sẵn sàng nghe tui ‘vạch trần’ coi tụi nó là ai nha.
 date:   2021-09-19 09:00:00 +0700
-image:  'https://pbs.twimg.com/media/F0-_aZnaAAAvWD4?format=png&name=900x900'
+image:  'https://pbs.twimg.com/media/F0-_aZnaAAAvWD4?format=png&name=medium'
 image_caption: 'GamiX, by Hoàng Đăng'
 tags:   [gami, productory, avengers assemble]
 ---
