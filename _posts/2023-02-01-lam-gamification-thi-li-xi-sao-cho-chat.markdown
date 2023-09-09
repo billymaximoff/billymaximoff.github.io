@@ -4,7 +4,7 @@ title: Làm gamification thì lì xì sao cho chất? 🧧
 description: Hồi hộp cùng 50 sắc thái bốc lì xì của các cháu báo thiếu niên báo nhi đồng team mình nhé.
 date: 2023-02-01 12:48:52 +0700
 image: 'https://pbs.twimg.com/media/F1f0sh_aAAIVzwh?format=jpg&name=large'
-image_caption: 'Lì xì không?'
+image_caption: 'Lì xì không? @ Đăng'
 tags: [productory, avengers assemble]
 ---
 
