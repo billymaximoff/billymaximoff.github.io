@@ -8,7 +8,7 @@ permalink: /about-eng/
 
 **[Phiên bản tiếng Việt ở đây bạn nhé!](/about)**
 
-Hi, I'm **Hoang Dang**, you can call me **Wilson**. My main job is Product Management for a tech company in Ho Chi Minh City, Vietnam.
+Hi, I'm **Hoang Dang**, you can call me **Wilson**. My main job is Product Management in Ho Chi Minh City, Vietnam.
 
 I like coffee chat and listening to people's stories. Occasionally, I take on freelance or consulting projects. So, if you need a partner or just want to chat about 'Product-stories' or hobbies,... feel free to ping me. 👨🏻‍💻 
 

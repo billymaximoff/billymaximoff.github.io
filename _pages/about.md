@@ -8,7 +8,7 @@ image: 'https://pbs.twimg.com/media/F0k5CS_aMAAo2Tv?format=jpg&name=medium'
 
 **[This post is also available in English](/about-eng).**
 
-Hi, mình là <b>Hoàng Đăng</b>, anh em có thể gọi mình là <b>Wilson</b>. Công việc chính của mình là Quản lý & Phát triển Sản phẩm - Product Management cho một công ty công nghệ ở TP. Hồ Chí Minh. 
+Hi, mình là <b>Hoàng Đăng</b>, anh em có thể gọi mình là <b>Wilson</b>. Công việc chính của mình là Quản lý & Phát triển Sản phẩm - Product Management ở TP. Hồ Chí Minh. 
 
 Mình thích du lịch, cà phê và nghe mọi người kể chuyện. Thi thoảng mình cũng nhận vài kèo freelance hoặc consult. Thế nên, nếu anh em cần partner hay chỉ đơn giản là cùng 'chém gió về chuyện ngành', sở thích,... thì ping mình nhé. 👨🏻‍💻
 
