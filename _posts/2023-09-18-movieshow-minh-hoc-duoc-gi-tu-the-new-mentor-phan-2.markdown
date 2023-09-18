@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MovieShow - Mình học được gì từ The New Mentor (Phần 2)
-description: Dù chỉ là một chương trình truyền hình thực tế để giải trí, nhưng The New Mentor thực sự vượt xa sự kỳ vọng của người xem và một lần nữa khẳng định: "Leader giỏi sẽ đào tạo ra leader giỏi!" 😲
+description: Dù chỉ là một chương trình truyền hình thực tế để giải trí, nhưng The New Mentor thực sự vượt xa sự kỳ vọng của người xem và một lần nữa khẳng định - "Leader giỏi sẽ đào tạo ra leader giỏi!" 😎
 date:   2023-09-18 09:00:00 +0700
 image:  'https://pbs.twimg.com/media/F5_uov0bUAAAbGh?format=jpg&name=large'
 image_caption: 'The New Mentor / 2023'
@@ -77,9 +77,13 @@ The New Mentor - một lần nữa khẳng định: **"Leader giỏi sẽ đào 
 
 Xem thêm: **[Project Oxygen và hình mẫu leader mình theo đuổi](/blog/project-oxygen-va-hinh-mau-leader-minh-theo-duoi)**
 
-Mình cũng rút ra được kha khá. Còn bạn, bạn thấy ưng ý phần nào nhất? Nếu được trở thành The New Mentor, bạn nghĩ mình sẽ có phong cách giống Super Mentor nào? 
+Mình cũng rút ra được kha khá. Còn bạn, bạn thấy ưng ý phần nào nhất?
+- Bạn muốn đóng vai trò gì? Host - người tạo ra sân chơi cho các bạn được thử sức? Hay Super Mentor - người trực tiếp hướng dẫn, đào tạo ra các thế hệ leader mới?
+- Nhìn lại xem, nếu là manager, bạn đã tạo điều kiện cho các thành viên được thử thách chưa - hay chỉ focus vào một, hai cá nhân?
+- Nếu bạn là member, bạn đã đề xuất hay nắm bắt cơ hội để trở thành leader chưa?
+- Nếu được trở thành The New Mentor, bạn nghĩ mình sẽ có phong cách giống Super Mentor nào? 
 
-
+Mình tin chắc, nếu có sân chơi đủ hay, leader tạo điều kiện, dù có trở thành The New Mentor hay không, chắc chắn bài học mà các bạn nhận được sẽ cực kỳ lớn. Chúc các bạn sớm trở thành "The New Mentor"!
 
 ___
 
