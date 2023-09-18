@@ -28,10 +28,10 @@ Tạm thời không đề cập đến câu chuyện hậu trường, đời tư
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="https://pbs.twimg.com/media/F6ABSkFaIAA39kc?format=png&name=large" loading="lazy" alt="GMXVT">
+    <img src="https://pbs.twimg.com/media/F6ABQWEaIAAOt6h?format=png&name=large" loading="lazy" alt="GMXVT">
     <img src="https://pbs.twimg.com/media/F6ABdZjaIAA_Vrf?format=png&name=large" loading="lazy" alt="GMXVT">
     <img src="https://pbs.twimg.com/media/F6ABabqaIAELxku?format=png&name=large" loading="lazy" alt="GMXVT">
-    <img src="https://pbs.twimg.com/media/F6ABQWEaIAAOt6h?format=png&name=large" loading="lazy" alt="GMXVT">
+    <img src="https://pbs.twimg.com/media/F6ABSkFaIAA39kc?format=png&name=large" loading="lazy" alt="GMXVT">
     <img src="https://pbs.twimg.com/media/F6ABb_YaIAAFMza?format=png&name=large" loading="lazy" alt="GMXVT">
     <img src="https://pbs.twimg.com/media/F6ABVfCaIAQ3qXj?format=png&name=large" loading="lazy" alt="GMXVT">
   </div>
@@ -46,7 +46,7 @@ Tạm thời không đề cập đến câu chuyện hậu trường, đời tư
    + Để trở thành mentor / host (hay leader), chúng ta cần những tố chất nào?
 
 
-(*) *Thực ra, có một sự khác biệt tương đối lớn giữa Teaching, Training, Mentoring & Coaching. Trong phạm vi bài viết này và chương trình, yếu tố mentor được sử dụng như một sự hướng dẫn nói chung.*
+(*) Thực ra, có một sự khác biệt tương đối lớn giữa Teaching, Training, Mentoring & Coaching. Trong phạm vi bài viết này và chương trình, yếu tố mentor được sử dụng như một sự hướng dẫn nói chung.
 
 ___
 
@@ -66,7 +66,7 @@ Tiếp tục, trong Tập 3, Cao Ngân và Thu Trang lần lượt là 2 New Men
   </div>
   <em>Cao Ngân vs Mai Ngô @ The New Mentor / Ep.03</em>
 </div>
-<br>
+
 
 Để sắp xếp được ai đứng ở đâu, pose dáng nào, cần hiểu điểm mạnh, hạn chế của mỗi thành viên: cao hay thấp, góc mặt nào đẹp hơn, style commercial, high fashion hay beauty queen, trang phục sáng hay tối để không bị hòa vào background,... Tương tự như vậy, ở bên ngoài, leader xịn cần thực sự thấu hiểu đồng đội, biết đặc tính của từng bạn để đặt vào đúng nơi phát huy tiềm năng. Mình vẫn hay nói vui, team mạnh không phải ai cũng mạnh, mà là team phối hợp hài hòa, nhịp nhàng. 3♠️ mà biết chơi thì vẫn ăn trắng như thường. 😌
 
@@ -77,7 +77,7 @@ Tiếp tục, trong Tập 3, Cao Ngân và Thu Trang lần lượt là 2 New Men
 >
 > <cite>Cris Horwang @ The New Mentor / Ep.03</cite>
 <br>
-
+<br>
 
 
 ## Kinh nghiệm & Kỹ năng Thị phạm
@@ -97,7 +97,6 @@ Thị phạm là một phương pháp sư phạm - một người làm động t
   </div>
   <em>Thanh Hằng x Hồ Ngọc Hà @ The New Mentor / Ep.05</em>
 </div>
-<br>
 
 
 → Leader không nhất thiết phải là người giỏi chuyên môn nhất, nhiều kinh nghiệm nhất - nhưng chắc chắn phải có chuyên môn, kinh nghiệm chắc chắn mới có thể thị phạm, hướng dẫn, khiến mọi người nể phục và nhất là thấu hiểu team.
@@ -111,7 +110,7 @@ Ví dụ: Một Product Manager có thể không thường xuyên viết detail 
   </div>
   <em>Hương Giang x Matoom @ The New Mentor / Ep.05</em>
 </div>
-<br>
+
 
 → Hay nói rộng hơn, một leader giỏi phải lãnh đạo bằng gương, tức là làm điều mình nói và nói điều mình làm. Leader phải là người đi đầu, thể hiện các giá trị, thái độ và hành vi mong muốn trong tổ chức, dự án hay mục tiêu cá nhân. Rất khó để yêu cầu team đi làm đúng giờ nếu chính bản thân mình cũng không tuân thủ đúng không?
 

@@ -26,7 +26,7 @@ Nếu như các tập trước, chỉ có duy nhất 1 thí sinh được chọn
   </div>
   <em>Pông Chuẩn & Hương Giang @ The New Mentor / Ep.06</em>
 </div>
-<br>
+
 
 → Một leader xịn không chỉ cần có tầm nhìn, mà còn biết cách truyền cảm hứng cho người khác theo đuổi tầm nhìn đó, biết cách giao tiếp hiệu quả, thể hiện niềm tin và nhiệt huyết, khen ngợi và khuyến khích, lắng nghe, thấu hiểu và tạo ra một văn hóa làm việc tích cực, sáng tạo và hợp tác.
 
@@ -37,7 +37,7 @@ Milor Trần - kiếp nạn 82 / mentor thứ 5 của chương trình bên cạn
 → Leader phải xây dựng được văn hóa học hỏi, cầu thị và tôn trọng lẫn nhau, bất kể vị trí, vai trò, khả năng hay khác biệt. Tôn trọng ý kiến, góp ý và phản hồi của người khác, cũng như công nhận và đánh giá công sức của họ là cách team trưởng thành nhanh và bền vững nhất.
 
 Xem thêm: **[Successfull Communication with Stakeholders](/blog/successful-communication-with-stakeholders-part-1)**
-
+<br>
 
 
 ## Các kỹ năng khác...
@@ -48,7 +48,7 @@ The New Mentor như một thế giới thu nhỏ, phản ánh tương đối đ�
 - **Sáng tạo** 💡: Sáng tạo để đưa ra những ý tưởng mới, đột phá và khác biệt, giải quyết các vấn đề, tận dụng các cơ hội và tạo ra các giá trị, đồng thời khuyến khích sáng tạo trong đội nhóm, tạo ra một môi trường làm việc thân thiện với sự đổi mới và thử thách.
 - **Tự tin** 😎: Tự tin để dẫn dắt và quyết định, tin vào bản thân, vào khả năng và năng lực của mình. Tự tin giúp leader tỏa sáng, thu hút và ảnh hưởng đến người khác.
 - **Trách nhiệm** 💪🏻: Tất nhiên rồi, leader phải có trách nhiệm với công việc của mình và của đội nhóm, luôn tuân thủ các nguyên tắc, tiêu chuẩn, cam kết đã đặt ra và chịu trách nhiệm cho các kết quả, thành công và thất bại của team.
-
+<br>
 
 
 ## Leadership Styles
@@ -61,13 +61,13 @@ Ngoài các thí sinh, thông qua hình ảnh và cách huấn luyện, chúng t
   </div>
   <em>Super Mentors, Judges @ The New Mentor / 2023</em>
 </div>
-<br>
+
 
 - **Thanh Hằng**: thần thái, cách lãnh đạo điềm tĩnh, bản lĩnhít khi phải can thiệp vào công việc của team, chú trọng đến việc trau dồi đạo đức và hành xử.
 - **Hồ Ngọc Hà**: điềm đạm, tĩnh lặng và sâu lắng, nhưng cũng không kém phần quyết đoán, nói ít nhưg nói câu nào chắc câu đó, đúng trọng tâm và sẵn sàng lên tiếng khi cần thiết.
 - **Hương Giang**: Sáng tạo, tư duy thông minh, xử lý sắc bén, thẳng thắn, hiện rõ sự quyết tâm bảo vệ team mình. Hướng dẫn team cũng rất tốt, rõ ràng dễ hiểu, tận tâm với thí sinh của mình.
 - **Lan Khuê**: khôn khéo, ôn hòa, tập trung vào công việc, tin tưởng team, sẵn sàng tạo mọi điều kiện để team có thể được trải nghiệm, thử thách - kể cả điều đó có thể gây ra hậu quả.
-
+<br>
 
 ## Kết
 
