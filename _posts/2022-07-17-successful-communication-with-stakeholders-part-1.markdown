@@ -8,9 +8,7 @@ image_caption: 'Communication / Akson @ Unsplash'
 tags:   [productory, workation]
 ---
 
-*(Hự, xin lỗi các bạn. Title mình không biết dịch sang tiếng Việt như nào. Giao tiếp hiệu quả thì ổn, nhưng stakeholders là... các bên liên quan nghe hơi tối nghĩa nên bài này title tiếng Anh nha. Chán ghê nơi).* 🤧
-
-Tình hình là vài tuần trở lại đây, mình nhận được feedbacks từ anh chị em trong công ty về các bạn Product team mình, cộng thêm việc các output không được deliver mượt mà như trước. Mình thử dành thêm thời gian quan sát cách các bạn trao đổi và xử lý công việc ở các threads, channels thì có vẻ team đang có vấn đề về giao tiếp thật. Vậy nên, mình setup một buổi sharing về topic: **'Successful Communication with Stakeholders'** để mọi người cùng nhìn lại và điều chỉnh cho hiệu quả hơn. 
+Tình hình là vài tuần trở lại đây, mình nhận được feedback từ anh chị em trong công ty về các bạn Product team mình, cộng thêm việc các output không được deliver mượt mà như trước. Mình thử dành thêm thời gian quan sát cách các bạn trao đổi và xử lý công việc ở các threads, channels thì có vẻ team đang có vấn đề về giao tiếp thật. Vậy nên, mình setup một buổi sharing về topic: **'Successful Communication with Stakeholders'** để mọi người cùng nhìn lại và điều chỉnh cho hiệu quả hơn. 
 
 **Note.** Vì việc giao tiếp chưa tốt có thể là hệ quả của nhiều nguyên nhân chủ quan như quản lý công việc, thời gian, giới hạn năng lực,... hay khách quan như thành viên mới, thông tin từ stakeholders chưa đẩy đủ, thay đổi yêu cầu,... Tuy nhiên, trong phạm vi của buổi sharing không thể đi qua quá nhiều nội dung, các phần trên sẽ có buổi khác và / hoặc personalize cho từng bạn. Chúng mình sẽ tập trung vào những điều cơ bản và có thể áp dụng để cải thiện được ngay.
 

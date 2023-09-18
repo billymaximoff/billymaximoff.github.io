@@ -10,7 +10,6 @@ tags:   [productory, workation]
 
 Xem lại **[Phần 1](/blog/successful-communication-with-stakeholders-part-1) tại đây** bạn nhé.
 
-*(Xin lỗi các bạn. Title mình không biết dịch sang tiếng Việt như nào. Giao tiếp hiệu quả thì ổn, nhưng stakeholders là... các bên liên quan nghe hơi tối nghĩa nên bài này title tiếng Anh nha. Chán ghê nơi).* 🤧
 
 Còn 5 phút nữa. Các bạn cũng nhanh tay lên nào. Sắp hết giờ rồi. (5 phút ở vũ trụ One Mount dài bằng 35 ngày ở thế giới thực). 😗
 
@@ -31,7 +30,7 @@ Còn nếu bạn xong rồi thì có thể xem qua hình ảnh tư liệu mà ê
 <em>Discussion / Circus @ One Mount</em>
 </div>
 
-*Reng. Reng. Hết giờ.*
+*Ting. Ting. Hết giờ.*
 
 Các nhóm lần lượt trình bày về stakeholders mà mình đã phân tích và thảo luận cùng các nhóm khác. Rất nhiều về insight và solution hay được kể ra - mà không cần bất kỳ giáo án nào hướng dẫn. Điều đó cho thấy rằng, việc hiểu stakeholders (hay bất kỳ ai) rất đơn giản - chỉ cần chúng ta dành thời gian quan sát, để tâm hơn đến họ, hoàn cảnh, tính cách, nhu cầu,...
 
