@@ -62,7 +62,7 @@ Tiếp tục, trong Tập 3, Cao Ngân và Thu Trang lần lượt là 2 New Men
 <div class="gallery-box">
   <div class="gallery">
     <img src="https://pbs.twimg.com/media/F6Ufq6Ta0AAKOgh?format=jpg&name=large" loading="lazy" alt="GMXVT">
-    <img src="hhttps://pbs.twimg.com/media/F6UfsQhasAA2yvH?format=jpg&name=large" loading="lazy" alt="GMXVT">
+    <img src="https://pbs.twimg.com/media/F6UfsQhasAA2yvH?format=jpg&name=large" loading="lazy" alt="GMXVT">
   </div>
   <em>Cao Ngân vs Mai Ngô @ The New Mentor / Ep.03</em>
 </div>
