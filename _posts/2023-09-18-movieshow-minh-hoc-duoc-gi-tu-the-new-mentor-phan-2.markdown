@@ -3,7 +3,7 @@ layout: post
 title: MovieShow - Mình học được gì từ The New Mentor (Phần 2)
 description: Dù chỉ là một chương trình truyền hình thực tế để giải trí, nhưng The New Mentor thực sự vượt xa sự kỳ vọng của người xem và một lần nữa khẳng định - "Leader giỏi sẽ đào tạo ra leader giỏi!" 😎
 date:   2023-09-18 09:00:00 +0700
-image:  'https://pbs.twimg.com/media/F5_uov0bUAAAbGh?format=jpg&name=large'
+image:  '/images/posts/post.jpeg'
 image_caption: 'The New Mentor / 2023'
 tags:   [leadership, workation, movieshow]
 ---
