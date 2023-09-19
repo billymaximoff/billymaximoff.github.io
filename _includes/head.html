@@ -1,14 +1,13 @@
 <head>
-  
+  <!-- Other head content -->
   <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-8CL31R4GDL"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-8CL31R4GDL');
-</script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-8CL31R4GDL"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-8CL31R4GDL');
+  </script>
   
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -29,41 +28,23 @@
   <!-- Facebook OpenGraph -->
   <meta property="og:title" content="{% if page.url == "/" %}{{ site.data.settings.title }}{% else %}{{ page.title }} – {{ site.data.settings.title }}{% endif %}">
   <meta property="og:description" content="{% if page.url == "/" %}{{ site.data.settings.description | strip_html | xml_escape }}{% elsif page.description %}{{ page.description | strip_html | xml_escape }}{% else %}{{ page.excerpt | strip_html | xml_escape }}{% endif %}">
-  <meta property="og:image" content="{{ page.image | absolute_url }}">
+  <meta property="og:image" content="{{ page.image | prepend: site.baseurl | escape }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <!-- Add other OG tags as needed -->
 
+  <!-- Google Site Verification -->
   <meta name="google-site-verification" content="9PP3JfiE7OcckAYcod-l6AXnfrlHIz19kt3VlM4phyo" />
   
   <!-- Icon Homescreen -->
-  <!--
   <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
   <link rel="apple-touch-icon" sizes="152x152" href="/images/apple-touch-icon-ipad.png">
   <link rel="apple-touch-icon" sizes="167x167" href="/images/apple-touch-icon-ipad-pro.png">
-  -->
 
   <!-- Fonts -->
-  <!--
-  <link rel="preconnect" href="https://fonts.gstatic.com">
-
-  <link rel="preload" href="https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@300;400;500;700;800&display=swap" as="style">
-
-  <link href="https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@300;400;500;700;800&display=swap" rel="stylesheet"> -->
-  
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@400;500;700;800;900&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700;800&display=swap" rel="stylesheet">
-  
-  <!-- Other head content -->
-  <meta property="og:title" content="{{ page.title | escape }}">
-  <meta property="og:description" content="{{ page.description | escape }}">
-  <meta property="og:image" content="{{ page.image | prepend: site.baseurl | escape }}">
-  <!-- Add other OG tags as needed -->
-  
-
-  <!-- Ionicons -->
-  <link rel="preload" href="https://unpkg.com/ionicons@4.5.0/dist/css/ionicons.min.css" as="style">
-
-  <link href="https://unpkg.com/ionicons@4.5.0/dist/css/ionicons.min.css" rel="stylesheet">
 
   <script>
     {% if site.data.settings.color_scheme == "auto" %}
@@ -86,9 +67,9 @@
   </script>
 
   <style>
-  {% capture include_to_scssify %}
-    {% include main.scss %}
-  {% endcapture %}
-  {{ include_to_scssify | scssify }}
+    {% capture include_to_scssify %}
+      {% include main.scss %}
+    {% endcapture %}
+    {{ include_to_scssify | scssify }}
   </style>
 </head>
