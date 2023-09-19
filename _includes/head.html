@@ -17,6 +17,12 @@
     gtag('js', new Date());
     gtag('config', 'G-8CL31R4GDL');
   </script>
+  
+  <!-- Meta Share -->
+  <meta property="og:title" content="{{ page.title | escape }}">
+  <meta property="og:description" content="{{ page.description | escape }}">
+  <meta property="og:image" content="{{ page.image | prepend: site.baseurl | escape }}">
+  <!-- Add other OG tags as needed -->
 
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image">
