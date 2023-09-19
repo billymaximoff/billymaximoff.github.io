@@ -79,7 +79,7 @@ Xem thêm: **[Project Oxygen và hình mẫu leader mình theo đuổi](/blog/pr
 
 Mình cũng rút ra được kha khá. Còn bạn, bạn thấy ưng ý phần nào nhất?
 - Bạn muốn đóng vai trò gì? Host - người tạo ra sân chơi cho các bạn được thử sức? Hay Super Mentor - người trực tiếp hướng dẫn, đào tạo ra các thế hệ leader mới?
-- Nhìn lại xem, nếu là manager, bạn đã tạo điều kiện cho các thành viên được thử thách chưa - hay chỉ focus vào một, hai cá nhân?
+- Nhìn lại xem, nếu là manager, bạn đã tạo điều kiện cho các thành viên được thử thách chưa - hay chỉ focus vào một, hai cá nhân? 
 - Nếu bạn là member, bạn đã đề xuất hay nắm bắt cơ hội để trở thành leader chưa?
 - Nếu được trở thành The New Mentor, bạn nghĩ mình sẽ có phong cách giống Super Mentor nào? 
 
