@@ -3,7 +3,7 @@ layout: post
 title: MovieShow - Mình học được gì từ The New Mentor (Phần 1)
 description: Tạm thời không đề cập đến câu chuyện hậu trường, đời tư của celeb hay chuyên môn của nghề người mẫu, The New Mentor là một trong những chương trình truyền hình thực tế (và cả không thực tế) hiếm hoi chú trọng đến yếu tố lãnh đạo - leadership trong công việc. 😲
 date:   2023-08-31 09:00:00 +0700
-image:  'https://pbs.twimg.com/media/F6VRiUeaUAA4_n-?format=jpg&name=large'
+image:  '/images/posts/post.jpg'
 image_caption: 'The New Mentor / 2023'
 tags:   [leadership, workation, movieshow]
 ---
