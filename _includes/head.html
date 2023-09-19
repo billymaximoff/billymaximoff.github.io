@@ -51,6 +51,12 @@
   <link href="https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@400;500;700;800;900&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700;800&display=swap" rel="stylesheet">
   
+  <!-- Other head content -->
+  <meta property="og:title" content="{{ page.title | escape }}">
+  <meta property="og:description" content="{{ page.description | escape }}">
+  <meta property="og:image" content="{{ page.image | prepend: site.baseurl | escape }}">
+  <!-- Add other OG tags as needed -->
+  
 
   <!-- Ionicons -->
   <link rel="preload" href="https://unpkg.com/ionicons@4.5.0/dist/css/ionicons.min.css" as="style">
