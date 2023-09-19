@@ -38,7 +38,7 @@ menu__settings:
 # Author Settings
 author:
   author__name: Hoàng Đăng \ Wilson D.
-  author__bio: Hi, mình là Hoàng Đăng \ Wilson. Mình thích công nghệ, du lịch và cà phê với bạn bè. Hiện tại mình đang làm Quản lý, Phát triển Sản phẩm - Product Management ở Sài Gòn. Blog này là nơi mình viết những thứ linh tinh về cuộc sống & công việc. Cùng connect nhé. Thanks for your interest. 🦾
+  author__bio: Hi, mình là Hoàng Đăng \ Wilson. Mình thích công nghệ, du lịch và cà phê với bạn bè. Hiện tại mình đang làm Quản lý, Phát triển Sản phẩm - Product Management ở Sài Gòn. Blog này là nơi mình viết những thứ linh tinh về cuộc sống & công việc. Cùng connect nhé. Thanks for your interest. 🦾 / © Vui lòng liên kết đến bài gốc khi trích dẫn các nội dung từ trang web này.
   author__avatar: '/images/avatar.jpeg'
 
 social:
@@ -152,7 +152,7 @@ footer__background__image: "https://cdn.dribbble.com/users/31232/screenshots/541
 # Contact Settings
 contact:
   email:  # Formspree (https://formspree.io/) form id
-  description: Nếu cần trao đổi về công việc - Quản lý, Phát triển Sản phẩm - Product Management hay đơn giản là 'chém gió về chuyện ngành', sở thích,... anh em có thể liên hệ với mình qua các kênh bên dưới. // If you are seeking a partner for Product Management, User Experience,... or just want to coffee talk about the above fields, do not hesitate to contact me. I would love to stay connected with you. Thanks. 🤟🏻
+  description: Nếu cần trao đổi về công việc - Quản lý, Phát triển Sản phẩm - Product Management hay đơn giản là 'chém gió về chuyện ngành', sở thích,... anh em có thể liên hệ với mình qua các kênh bên dưới. // If you are seeking a partner for Product Management, User Experience,... or just want to coffee talk about the above fields, do not hesitate to contact me. I would love to stay connected with you. Thanks. 🤟🏻 
 
 # email: wilson.citb@gmail.com # Add your email for contact form
 # description: Nếu cần trao đổi về công việc - Quản lý, Phát triển Sản phẩm - Product Management hay chém gió, anh em có thể email hoặc nhắn tin cho mình qua Telegram. Contact mình đặt ở Home & cuối trang. # Add a description of your form

@@ -20,7 +20,7 @@ The New Mentor là chương trình truyền hình thực tế tìm kiếm và đ
 Tạm thời không đề cập đến câu chuyện hậu trường, đời tư của celeb hay chuyên môn của nghề người mẫu, The New Mentor là một trong những chương trình truyền hình thực tế (và cả không thực tế) hiếm hoi chú trọng đến yếu tố lãnh đạo - leadership trong công việc. (*)
 
 
-### Hay từ concept & format đến thông điệp!
+### Hay từ concept, chiến lược đến thông điệp!
 
 - Concept độc đáo: Nhà sản xuất cho biết chương trình sẽ không đào tạo kỹ năng ban đầu, do đó hứa hẹn đây là sân chơi của những gương mặt ít nhiều đã có kinh nghiệm trên sàn catwalk. Ở mỗi tập, người chơi sẽ được trải nghiệm, tiếp xúc một lĩnh vực mới để đưa ra kỹ năng xử lý, thích nghi với các tình huống. Từ đó, chọn ra người mẫu nổi bật làm “thủ lĩnh”, huấn luyện viên toàn năng mới.
 
@@ -70,7 +70,7 @@ Tiếp tục, trong Tập 3, Cao Ngân và Thu Trang lần lượt là 2 New Men
 
 Để sắp xếp được ai đứng ở đâu, pose dáng nào, cần hiểu điểm mạnh, hạn chế của mỗi thành viên: cao hay thấp, góc mặt nào đẹp hơn, style commercial, high fashion hay beauty queen, trang phục sáng hay tối để không bị hòa vào background,... Tương tự như vậy, ở bên ngoài, leader xịn cần thực sự thấu hiểu đồng đội, biết đặc tính của từng bạn để đặt vào đúng nơi phát huy tiềm năng. Mình vẫn hay nói vui, team mạnh không phải ai cũng mạnh, mà là team phối hợp hài hòa, nhịp nhàng. 3♠️ mà biết chơi thì vẫn ăn trắng như thường. 😌
 
-→ Leader cần có khả năng phân công công việc cho đội nhóm một cách hợp lý và hiệu quả, cách xác định và phân tích các nhiệm vụ, mục tiêu và tiến độ, đồng thời lựa chọn và ủy quyền cho những người có khả năng và năng lực thích hợp.
+#### → Leader cần có khả năng phân công công việc cho đội nhóm một cách hợp lý và hiệu quả, cách xác định và phân tích các nhiệm vụ, mục tiêu và tiến độ, đồng thời lựa chọn và ủy quyền cho những người có khả năng và năng lực thích hợp.
 
 
 > We are looking for a New Mentor. If you wanna be a mentor, you have to help the other people to.
@@ -99,7 +99,7 @@ Thị phạm là một phương pháp sư phạm - một người làm động t
 </div>
 
 
-→ Leader không nhất thiết phải là người giỏi chuyên môn nhất, nhiều kinh nghiệm nhất - nhưng chắc chắn phải có chuyên môn, kinh nghiệm chắc chắn mới có thể thị phạm, hướng dẫn, khiến mọi người nể phục và nhất là thấu hiểu team.
+#### → Leader không nhất thiết phải là người giỏi chuyên môn nhất, nhiều kinh nghiệm nhất - nhưng chắc chắn phải có chuyên môn, kinh nghiệm vững vàng mới có thể thị phạm, hướng dẫn, khiến mọi người nể phục và nhất là thấu hiểu team.
 
 Ví dụ: Một Product Manager có thể không thường xuyên viết detail document vì cần dành thời gian ưu tiên vào strategy, planning,... nhưng không có nghĩa là không biết viết. Thậm chí, khi cần có thể viết và viết tốt và hướng dẫn người khác viết tốt chứ không thể lấy lý do vì mình là lead, là manager nên những phần này, phần kia không biết làm.
 
@@ -112,7 +112,7 @@ Ví dụ: Một Product Manager có thể không thường xuyên viết detail 
 </div>
 
 
-→ Hay nói rộng hơn, một leader giỏi phải lãnh đạo bằng gương, tức là làm điều mình nói và nói điều mình làm. Leader phải là người đi đầu, thể hiện các giá trị, thái độ và hành vi mong muốn trong tổ chức, dự án hay mục tiêu cá nhân. Rất khó để yêu cầu team đi làm đúng giờ nếu chính bản thân mình cũng không tuân thủ đúng không?
+#### → Hay nói rộng hơn, leader xịn phải lãnh đạo bằng gương, tức là làm điều mình nói và nói điều mình làm. Leader phải là người đi đầu, thể hiện các giá trị, thái độ và hành vi mong muốn trong tổ chức. Rất khó để yêu cầu team đi làm đúng giờ nếu chính bản thân mình cũng không tuân thủ đúng không?
 
 
 Xem thêm: **[MovieShow - Mình học được gì từ The New Mentor (Phần 2)](/blog/movieshow-minh-hoc-duoc-gi-tu-the-new-mentor-phan-2)**

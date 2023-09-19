@@ -9,6 +9,7 @@
   </script>
   
   <!-- Meta Tags -->
+  <!--
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -16,6 +17,13 @@
   <meta name='description' content='{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.data.settings.description }}{% endif %}'>
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.data.settings.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
+  -->
+  
+   <!-- Meta Tags Share -->
+  <meta property="og:title" content="{{ page.title | escape }}">
+  <meta property="og:description" content="{{ page.description | escape }}">
+  <meta property="og:image" content="{{ page.image | prepend: site.baseurl | escape }}">
+  <!-- Add other OG tags as needed -->
   
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image">
@@ -80,4 +88,46 @@
     {% endcapture %}
     {{ include_to_scssify | scssify }}
   </style>
+  
+    <!-- No Copy -->
+  <style>
+  body {
+    user-select: none;
+  }
+</style>
+
+<script>
+  document.addEventListener("contextmenu", function(e) {
+    e.preventDefault();
+  });
+</script>
+  
+  
+      <!-- No Rightclick -->
+  document.addEventListener("DOMContentLoaded", function() {
+  document.addEventListener("contextmenu", function(e) {
+    e.preventDefault();
+  });
+
+  document.addEventListener("keydown", function(e) {
+    if (
+      (e.ctrlKey && e.shiftKey && e.key === "I") || // Ctrl + Shift + I
+      (e.ctrlKey && e.shiftKey && e.key === "J") || // Ctrl + Shift + J
+      (e.keyCode === 83 && (navigator.platform.match("Mac") ? e.metaKey : e.ctrlKey)) || // Ctrl/Cmd + S
+      (e.ctrlKey && e.key === "U") || // Ctrl + U
+      e.keyCode === 123 // F12
+    ) {
+      disableEvent(e);
+    }
+  });
+
+  function disableEvent(e) {
+    e.stopPropagation ? e.stopPropagation() : (window.event.cancelBubble = true);
+    e.preventDefault();
+    return false;
+  }
+});
+
+  
+  
 </head>

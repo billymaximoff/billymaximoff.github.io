@@ -34,7 +34,7 @@ Như mình đã từng mention, giao tiếp hiệu quả không có nghĩa lúc 
 
 Milor Trần - kiếp nạn 82 / mentor thứ 5 của chương trình bên cạnh những góp ý chuyên môn, đóng góp cho thành quả của các đội thì cũng liên tục làm khó dễ, chất vấn với các thí sinh với thái độ khá khó chịu. Không rõ dụng ý của chương trình có phải làm tăng độ khó cho game không hay còn là lời nhắn nhủ: Khi chúng ta đi làm, không phải stakeholders nào cũng vui vẻ, thiện chí, sẽ có những người rất khó để hợp tác và chúng ta phải tìm cách deal và "sống chung" với họ.
 
-→ Leader phải xây dựng được văn hóa học hỏi, cầu thị và tôn trọng lẫn nhau, bất kể vị trí, vai trò, khả năng hay khác biệt. Tôn trọng ý kiến, góp ý và phản hồi của người khác, cũng như công nhận và đánh giá công sức của họ là cách team trưởng thành nhanh và bền vững nhất.
+#### → Leader phải xây dựng được văn hóa học hỏi, cầu thị và tôn trọng lẫn nhau, bất kể vị trí, vai trò, khả năng hay khác biệt. Tôn trọng ý kiến, góp ý và phản hồi của người khác, cũng như công nhận và đánh giá công sức của họ là cách team trưởng thành nhanh và bền vững nhất.
 
 Xem thêm: **[Successfull Communication with Stakeholders](/blog/successful-communication-with-stakeholders-part-1)**
 <br>

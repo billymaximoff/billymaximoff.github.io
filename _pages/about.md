@@ -61,3 +61,7 @@ ___
 - Một số thuật ngữ được sử dụng trong blog được mượn từ mô hình Agile / Scrum.
 
 Source: *Thumbnail: Unsplash; Footer image: Dribbble*
+
+---
+
+© Vui lòng liên kết đến bài gốc khi trích dẫn các nội dung từ trang web này.
