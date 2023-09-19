@@ -15,7 +15,7 @@ Tiếp tục với câu chuyện The New Mentor, những gì mình học đượ
 
 ## Kỹ năng Giao tiếp, Truyền đạt & Quản lý Stakeholders
 
-Một chủ đề nổi bật, xuyên suốt tất cả các thử thách, được nhắc đến nhắc đến liên tục khi các Super Mentor và thành viên nhận xét về New Mentor là khả năng điều phối và truyền đạt thông tin.
+Một chủ đề nổi bật, xuyên suốt tất cả các thử thách, được nhắc đến liên tục khi các Super Mentor và thành viên nhận xét về New Mentor là khả năng điều phối và truyền đạt thông tin.
 
 Nếu như các tập trước, chỉ có duy nhất 1 thí sinh được chọn làm New Mentor của mỗi đội mới được thử thách ở vai trò dẫn dắt, thì trong thử thách tại Comprehensive Area ở Tập 6, tầm quan trọng của kỹ năng này được đẩy lên cao hơn. Tất cả thí sinh sẽ bốc thăm và ghép cặp ngẫu nhiên, mỗi cặp có 10 phút để thay phiên nhau đóng vai trò như một mentor: setup photoshoot, sắp xếp bối cảnh, hướng dẫn member tạo dáng,... sao cho đạt được thành phẩm tốt nhẩt. Rất nhiều người mẫu dù dày dạn kinh nghiệm, nhưng khi trở thành mentor, kỹ năng giao tiếp và truyền đạt lại trở điểm yếu chết người khiến họ thất bại.
 
@@ -27,8 +27,8 @@ Nếu như các tập trước, chỉ có duy nhất 1 thí sinh được chọn
   <em>Pông Chuẩn & Hương Giang @ The New Mentor / Ep.06</em>
 </div>
 
+Như mình đã từng mention, giao tiếp hiệu quả không có nghĩa lúc nào cũng nhẹ nhàng, dịu dàng, thân thiện, mà tùy từng tình huống sẽ cần mạnh mẽ, dứt khoát, đanh thép, đôi lúc lại cần sâu lắng, truyền cảm hứng. Cao Ngân là một ví dụ - là một người mẫu chinh chiến nhiều năm trong làng catwalk, tính cách luôn vui vẻ, hài hước, chân chất nên luôn lấy được thiện cảm của khán giả. Tuy nhiên, khi đặt vào vai trò mentor, chiếc áo này dường như quá rộng với Cao Ngân, đến mức các Super Mentor còn khẳng định chương trình cần một mentor chứ không phải diễn viên hài. Dù rất khó nhưng cũng rất hy vọng Cao Ngân có thể học hỏi và tiến bộ hơn với vai trò dẫn dắt.
 
-→ Một leader xịn không chỉ cần có tầm nhìn, mà còn biết cách truyền cảm hứng cho người khác theo đuổi tầm nhìn đó, biết cách giao tiếp hiệu quả, thể hiện niềm tin và nhiệt huyết, khen ngợi và khuyến khích, lắng nghe, thấu hiểu và tạo ra một văn hóa làm việc tích cực, sáng tạo và hợp tác.
 
 ![Mai Ngô](https://pbs.twimg.com/media/F6U2Xq4aYAA69g_?format=jpg&name=large)
 
@@ -63,7 +63,7 @@ Ngoài các thí sinh, thông qua hình ảnh và cách huấn luyện, chúng t
 </div>
 
 
-- **Thanh Hằng**: thần thái, cách lãnh đạo điềm tĩnh, bản lĩnhít khi phải can thiệp vào công việc của team, chú trọng đến việc trau dồi đạo đức và hành xử.
+- **Thanh Hằng**: thần thái, cách lãnh đạo điềm tĩnh, bản lĩnh, ít khi phải can thiệp vào công việc của team, chú trọng đến việc trau dồi đạo đức và hành xử.
 - **Hồ Ngọc Hà**: điềm đạm, tĩnh lặng và sâu lắng, nhưng cũng không kém phần quyết đoán, nói ít nhưg nói câu nào chắc câu đó, đúng trọng tâm và sẵn sàng lên tiếng khi cần thiết.
 - **Hương Giang**: Sáng tạo, tư duy thông minh, xử lý sắc bén, thẳng thắn, hiện rõ sự quyết tâm bảo vệ team mình. Hướng dẫn team cũng rất tốt, rõ ràng dễ hiểu, tận tâm với thí sinh của mình.
 - **Lan Khuê**: khôn khéo, ôn hòa, tập trung vào công việc, tin tưởng team, sẵn sàng tạo mọi điều kiện để team có thể được trải nghiệm, thử thách - kể cả điều đó có thể gây ra hậu quả.
