@@ -8,7 +8,7 @@ image: 'https://pbs.twimg.com/media/F0k5CS_aMAAo2Tv?format=jpg&name=medium'
 
 **[This post is also available in English](/about-eng).**
 
-Hi, mình là <b>Hoàng Đăng</b>, anh em có thể gọi mình là <b>Wilson</b>. Công việc chính của mình là Quản lý & Phát triển Sản phẩm - Product Management ở TP. Hồ Chí Minh. 
+Hi, mình là <b>Hoàng Đăng</b> / <b>Wilson</b>. Công việc chính của mình là Quản lý & Phát triển Sản phẩm (Product Management) ở TP. Hồ Chí Minh. 
 
 Mình thích du lịch, cà phê và nghe mọi người kể chuyện. Thi thoảng mình cũng nhận vài kèo freelance hoặc consult. Thế nên, nếu anh em cần partner hay chỉ đơn giản là cùng 'chém gió về chuyện ngành', sở thích,... thì ping mình nhé. 👨🏻‍💻
 
@@ -37,8 +37,8 @@ Vậy nên, mình không mơ mộng những điều lớn lao. Page này đơn g
   
 # __'thedangw' là gì?__
 
-![chillinthebl___ank](https://pbs.twimg.com/media/F0k7JPRaEAAAGL7?format=jpg&name=large#wide)
-<em>Chill in the bl___ank / <a href="https://instagram.com/bl___ank.sg/" target="_blank">Hoàng Đăng @ Ladakh</a></em>
+![chillinthebl___ank](https://pbs.twimg.com/media/GdKczKoXIAA8lSM?format=jpg&name=large#wide)
+<em>Chill in the bl___ank / <a href="https://instagram.com/the.dangw___/" target="_blank">Hoàng Đăng @ Ladakh</a></em>
 <br>
 Thực ra, lúc chọn tên blog & tên miền để đăng ký thì mình cũng nghĩ ra nhiều options lắm - chắc bạn nào từng bắt đầu blog hay mới tạo website, fanpage, account Tik Tok, Instagram riêng cũng đã/sẽ như mình, research ra 8000 cái tên. Nhưng cái thì chả có gì hay ho, cái hay ho thì bị... đăng ký mất rồi. 🥲
 

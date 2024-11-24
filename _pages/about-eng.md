@@ -19,7 +19,7 @@ I like coffee chat and listening to people's stories. Occasionally, I take on fr
   
 # __So, what does this blog write about?__
 
-Once, talking to an 'industry-bro', we suddenly realized that without working together (even working together), there is very little 'context' for Product guys to sit down and tell each other happy and sad stories about Product life. Besides, not telling, writing down is very easy to forget, so many hard-won experiences are swept away by the wind 🍃.
+Once, talking to an 'industry-bro', we suddenly realized that without working together (even working together), there is very little context for Product guys to sit down and tell each other happy and sad stories about Product life. Besides, not telling, writing down is very easy to forget, so many hard-won experiences are swept away by the wind 🍃.
 
 <div class="gallery-box">
     <div class="gallery">
@@ -38,8 +38,8 @@ So, I am not dreaming of big things. This blog is simply a place to write down w
   
 # __'thedangw' - what does it mean?__
 
-![chillinthebl___ank](https://pbs.twimg.com/media/F0k7JPRaEAAAGL7?format=jpg&name=large#wide)
-<em>Chill in the bl___ank / <a href="https://instagram.com/bl___ank.sg/" target="_blank">Hoàng Đăng @ Ladakh</a></em>
+![chillinthebl___ank](https://pbs.twimg.com/media/GdKczKoXIAA8lSM?format=jpg&name=large#wide)
+<em>Chill in the bl___ank / <a href="https://instagram.com/the.dangw___/" target="_blank">Hoàng Đăng @ Ladakh</a></em>
 <br>
 Actually, when choosing the name for my blog and domain registration, I had many options in mind - I'm sure anyone who has started a blog or created their own website, fan page, TikTok account, or personal Instagram,... has gone through or will go through the same process, researching about 8000 names. But either they weren't anything special, or the good ones were already taken. 🥲
 

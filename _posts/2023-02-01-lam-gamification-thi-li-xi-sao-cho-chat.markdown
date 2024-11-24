@@ -98,5 +98,3 @@ ___
 
 
 **[Productory](/tags/?tag=productory)** = Product + Story - Series các câu chuyện vui buồn, thấm đẫm mồ hôi và... trà sữa về công việc Quản lý & Phát triển sản phẩm của mình ở các công ty, tổ chức.
-
-**[Avengers Assemble](/tags/?tag=avengers+assemble)** = Câu nói nổi tiếng: 'Avengers Assemble!' của Steve Roger / Captain America trong trận chiến End Game. Series này mình viết về các hoạt động team up, build culture & engage với team.

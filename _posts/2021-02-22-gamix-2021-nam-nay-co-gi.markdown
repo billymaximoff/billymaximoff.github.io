@@ -63,6 +63,6 @@ ___
 
 ___
 
-**[Productory](/tags/?tag=productory)** = Product + Story - Series các câu chuyện vui buồn, thấm đẫm mồ hôi và... trà sữa về công việc Quản lý & Phát triển sản phẩm của mình ở các công ty, tổ chức.
+**[Productory](/tags/?tag=productory)** = Product + Story - Những câu chuyện vui buồn, thấm đẫm mồ hôi và... trà sữa về công việc Quản lý & Phát triển sản phẩm của mình ở các công ty, tổ chức.
 
-**[Workation](/tags/?tag=workation)** = Work + Vacation / Station - Series các bài viết về chuyện đi làm nói chung. Hy vọng có thể giúp anh chị em được phần nào reflect và share kinh nghiệm. Để đi làm vui như đi chơi.
+**[Workation](/tags/?tag=workation)** = Work + Vacation / Station - Các bài viết về chuyện đi làm nói chung. Hy vọng có thể giúp anh chị em được phần nào reflect và share kinh nghiệm. Để đi làm vui như đi chơi.
