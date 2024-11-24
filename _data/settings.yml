@@ -94,13 +94,13 @@ logo__items:
 #-------------------------------
 # Work Settings
 work:
-  enable: false
+  enable: true
   work__title: 👨🏻‍💻 Works
   work__description: Showing only the best products built completely with passion, simplicity & creativity with my teams. 🪴
 #-------------------------------
 # Own projects Settings
 own:
-  enable: false
+  enable: true
   own__title: 🎧 Podcasts & Media
   own__description: Here are the Podcasts and Media I've done on my own.
 
@@ -108,7 +108,7 @@ own:
 #-------------------------------
 # Testimonials Section
 testimonials:
-  enable: false
+  enable: true
 
 testimonial__title: 🤼‍♂️ Teammates
 testimonial__description: The colleagues I always feel honored to work with, once more.
